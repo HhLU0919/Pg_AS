@@ -1,0 +1,348 @@
+ONTOLOGY,ID,Description,GeneRatio,BgRatio,RichFactor,FoldEnrichment,zScore,pvalue,p.adjust,qvalue,geneID,Count
+BP,GO:0008203,cholesterol metabolic process,14/622,75/18773,0.186666667,5.633912111,7.443565824,1.44E-07,0.000294591,0.000271583,nsdhl/hmgcs1/hsd17b7/insig1/dhcr7/mvda/apoa4b.2/cyp51/lss/sqlea/soat1/nfe2l1b/ldlra/sc5d,14
+MF,GO:0017017,MAP kinase tyrosine/serine/threonine phosphatase activity,7/613,16/18430,0.4375,13.15354812,9.020961705,3.83E-07,0.000105005,0.000100686,dusp2/dusp5/dusp8a/dusp1/dusp16/dusp4/si:ch1073-184j22.2,7
+BP,GO:0016125,sterol metabolic process,14/622,82/18773,0.170731707,5.152968395,6.976690708,4.57E-07,0.000294591,0.000271583,nsdhl/hmgcs1/hsd17b7/insig1/dhcr7/mvda/apoa4b.2/cyp51/lss/sqlea/soat1/nfe2l1b/ldlra/sc5d,14
+BP,GO:1902652,secondary alcohol metabolic process,14/622,82/18773,0.170731707,5.152968395,6.976690708,4.57E-07,0.000294591,0.000271583,nsdhl/hmgcs1/hsd17b7/insig1/dhcr7/mvda/apoa4b.2/cyp51/lss/sqlea/soat1/nfe2l1b/ldlra/sc5d,14
+MF,GO:0008330,protein tyrosine/threonine phosphatase activity,6/613,11/18430,0.545454545,16.39922883,9.476023378,5.29E-07,0.000105005,0.000100686,dusp2/dusp5/dusp8a/dusp1/dusp16/dusp4,6
+MF,GO:0033550,MAP kinase tyrosine phosphatase activity,6/613,11/18430,0.545454545,16.39922883,9.476023378,5.29E-07,0.000105005,0.000100686,dusp2/dusp5/dusp8a/dusp1/dusp16/dusp4,6
+BP,GO:0008202,steroid metabolic process,17/622,124/18773,0.137096774,4.137809874,6.489479729,7.19E-07,0.000294591,0.000271583,nsdhl/hmgcs1/hsd17b7/insig1/dhcr7/hsd17b12a/mvda/apoa4b.2/cyp51/lss/sqlea/soat1/nfe2l1b/ldlra/hsd11b2/sc5d/dhcr24,17
+BP,GO:0006695,cholesterol biosynthetic process,8/622,25/18773,0.32,9.658135048,8.018942036,9.12E-07,0.000294591,0.000271583,hmgcs1/hsd17b7/insig1/dhcr7/mvda/cyp51/lss/sc5d,8
+BP,GO:1902653,secondary alcohol biosynthetic process,8/622,25/18773,0.32,9.658135048,8.018942036,9.12E-07,0.000294591,0.000271583,hmgcs1/hsd17b7/insig1/dhcr7/mvda/cyp51/lss/sc5d,8
+BP,GO:0006066,alcohol metabolic process,20/622,170/18773,0.117647059,3.550784944,6.184534255,9.45E-07,0.000294591,0.000271583,nsdhl/hmgcs1/hsd17b7/adh8a/insig1/nus1/dhcr7/mvda/dhdds/apoa4b.2/cyp51/lss/sqlea/gch2/soat1/dgat2/nfe2l1b/ldlra/hsd11b2/sc5d,20
+BP,GO:0016126,sterol biosynthetic process,9/622,36/18773,0.25,7.545418006,7.27677247,1.92E-06,0.000523307,0.000482435,hmgcs1/hsd17b7/insig1/dhcr7/mvda/cyp51/lss/sqlea/sc5d,9
+MF,GO:0004722,protein serine/threonine phosphatase activity,14/613,95/18430,0.147368421,4.430668842,6.218189827,2.98E-06,0.000443947,0.000425687,dusp2/pdp1/dusp5/dusp8a/dusp1/ppm1db/dusp16/ssh2a/dusp4/ssh2b/pdp2/ppm1ka/si:ch211-203d1.3/ppp1r3da,14
+BP,GO:0008610,lipid biosynthetic process,32/622,394/18773,0.081218274,2.451303312,5.389463624,3.12E-06,0.000756755,0.00069765,nsdhl/hmgcs1/lipg/hsd17b7/ddit3/insig1/acsbg2/nus1/pdss1/elovl8b/elovl6l/ptgs2b/dhcr7/hsd17b12a/mvda/dhdds/acaca/b4galt5/cyp51/lss/sqlea/idi1/pgap1/etnk2/smpd5/sgms2a/aclya/dgat2/cers1/cers6/sc5d/pld1a,32
+MF,GO:0033549,MAP kinase phosphatase activity,7/613,22/18430,0.318181818,9.566216817,7.456944871,4.80E-06,0.000571255,0.000547758,dusp2/dusp5/dusp8a/dusp1/dusp16/dusp4/si:ch1073-184j22.2,7
+BP,GO:0044283,small molecule biosynthetic process,26/622,307/18773,0.084690554,2.556102517,5.088867744,1.25E-05,0.00272971,0.002516511,hmgcs1/lipg/hsd17b7/insig1/acsbg2/nus1/glulb/pdss1/elovl8b/elovl6l/ptgs2b/dhcr7/hsd17b12a/mvda/dhdds/acaca/cyp51/lss/g6pc1a.2/coq3/aclya/gch2/coq8b/sc5d/bhmt/cbsb,26
+BP,GO:0006470,protein dephosphorylation,16/622,138/18773,0.115942029,3.499324293,5.455036261,1.38E-05,0.00272971,0.002516511,dusp2/pdp1/dusp5/dusp8a/dusp1/dusp11/ppm1db/dusp16/ssh2a/dusp4/ssh2b/si:ch1073-184j22.2/dusp23b/pdp2/ppm1ka/si:ch211-203d1.3,16
+MF,GO:0017018,myosin phosphatase activity,12/613,81/18430,0.148148148,4.454111534,5.778784488,1.43E-05,0.001419057,0.001360688,dusp2/dusp5/dusp8a/dusp1/ppm1db/dusp16/ssh2a/dusp4/ssh2b/ppm1ka/si:ch211-203d1.3/ppp1r3da,12
+BP,GO:0031099,regeneration,21/622,225/18773,0.093333333,2.816956056,5.075599266,2.03E-05,0.003684568,0.003396792,junbb/dusp2/ccn2a/igfbp1a/mycb/gck/smarca4a/col1a1a/c2cd4a/srebf1/hbegfa/apoda.2/serpinh1b/il4r.1/mycbp2/csrp1a/hdac1/tgif1/col12a1b/gemin5/anxa1a,21
+MF,GO:0008138,protein tyrosine/serine/threonine phosphatase activity,7/613,27/18430,0.259259259,7.794695185,6.553470971,2.16E-05,0.001838068,0.001762465,dusp2/dusp5/dusp8a/dusp1/dusp16/dusp4/si:ch1073-184j22.2,7
+BP,GO:0008299,isoprenoid biosynthetic process,7/622,28/18773,0.25,7.545418006,6.41614052,2.73E-05,0.004588549,0.004230169,hmgcs1/nus1/pdss1/mvda/dhdds/lss/idi1,7
+BP,GO:0043603,amide metabolic process,22/622,252/18773,0.087301587,2.634907875,4.836837835,3.64E-05,0.005677413,0.00523399,hmgcs1/pdk2a/acsl3b/acss2/gstt1a/mvda/acaca/b4galt5/gstz1/oplah/acot20/tdo2a/allc/smpd5/sgms2a/aclya/cers1/cers6/gstr/gstt2/gss/aanat1,22
+BP,GO:0006694,steroid biosynthetic process,11/622,76/18773,0.144736842,4.368399898,5.446840581,3.92E-05,0.005699574,0.005254419,nsdhl/hmgcs1/hsd17b7/insig1/dhcr7/hsd17b12a/mvda/cyp51/lss/sqlea/sc5d,11
+BP,GO:0046165,alcohol biosynthetic process,11/622,78/18773,0.141025641,4.256389645,5.334836555,5.01E-05,0.006836038,0.006302122,hmgcs1/hsd17b7/insig1/nus1/dhcr7/mvda/dhdds/cyp51/lss/gch2/sc5d,11
+BP,GO:0016311,dephosphorylation,18/622,196/18773,0.091836735,2.771786206,4.615850648,9.59E-05,0.011737888,0.010821122,dusp2/pdp1/dusp5/dusp8a/dusp1/dusp11/ppm1db/dusp16/ssh2a/dusp4/ssh2b/si:ch1073-184j22.2/dusp23b/pdp2/ppm1ka/fig4a/si:ch211-203d1.3/plppr4a,18
+BP,GO:1901615,organic hydroxy compound metabolic process,20/622,232/18773,0.086206897,2.601868278,4.544691451,9.68E-05,0.011737888,0.010821122,nsdhl/hmgcs1/hsd17b7/adh8a/insig1/nus1/dhcr7/mvda/dhdds/apoa4b.2/cyp51/lss/sqlea/gch2/soat1/dgat2/nfe2l1b/ldlra/hsd11b2/sc5d,20
+BP,GO:0043409,negative regulation of MAPK cascade,7/622,34/18773,0.205882353,6.213873652,5.632833865,0.000104508,0.012001912,0.011064525,dusp2/dusp5/dusp8a/dusp1/spry4/dusp16/dusp4,7
+MF,GO:0004721,phosphoprotein phosphatase activity,18/613,197/18430,0.091370558,2.747078941,4.572781059,0.000107215,0.007974108,0.007646115,dusp2/pdp1/dusp5/dusp8a/dusp1/dusp11/ppm1db/dusp16/ssh2a/dusp4/ssh2b/si:ch1073-184j22.2/dusp23b/pdp2/pgp/ppm1ka/si:ch211-203d1.3/ppp1r3da,18
+BP,GO:0006790,sulfur compound metabolic process,19/622,221/18773,0.085972851,2.594804382,4.414772983,0.000148755,0.016229119,0.014961574,hmgcs1/pdk2a/acsl3b/chpfa/acss2/gstt1a/mvda/acaca/gstz1/tstd1/oplah/acot20/tdo2a/aclya/gstr/gstt2/gss/bhmt/cbsb,19
+BP,GO:0006084,acetyl-CoA metabolic process,6/622,27/18773,0.222222222,6.707038228,5.493366112,0.000210837,0.021906929,0.020195929,hmgcs1/pdk2a/acss2/mvda/tdo2a/aclya,6
+CC,GO:0022626,cytosolic ribosome,10/631,79/19331,0.126582278,3.877911292,4.708285892,0.000242452,0.065588148,0.064285894,rplp1/rpl37/rpl34/rps5/rpl27/rpl6/rpl36/rps19/rps26/rpl14,10
+BP,GO:0048863,stem cell differentiation,21/622,271/18773,0.077490775,2.338801153,4.109524478,0.00028931,0.028324113,0.026111911,atf3/hmgcs1/fosl2/irf7/radil2a/mych/hspg2/polr1a/smarca4a/f2r/dlc/bmp2b/etsrp/tbx1/hdac1/tgfbr2b/sema5ba/smyd5/edn1/polr1b/sema3e,21
+BP,GO:0006637,acyl-CoA metabolic process,9/622,66/18773,0.136363636,4.115682549,4.693785977,0.000311539,0.028324113,0.026111911,hmgcs1/pdk2a/acsl3b/acss2/mvda/acaca/acot20/tdo2a/aclya,9
+BP,GO:0035383,thioester metabolic process,9/622,66/18773,0.136363636,4.115682549,4.693785977,0.000311539,0.028324113,0.026111911,hmgcs1/pdk2a/acsl3b/acss2/mvda/acaca/acot20/tdo2a/aclya,9
+MF,GO:0042578,phosphoric ester hydrolase activity,28/613,413/18430,0.06779661,2.038322227,3.958491985,0.000312022,0.018699069,0.017929934,dusp2/pdp1/pfkfb3/dusp5/dusp8a/dusp1/pde4d/dusp11/ppm1db/minpp1b/dusp16/ssh2a/dusp4/ssh2b/si:ch1073-184j22.2/g6pc1a.2/smpd5/dusp23b/pdp2/pgp/pde6ha/ppm1ka/plcd3a/fig4a/si:ch211-203d1.3/plppr4a/ppp1r3da/pld1a,28
+MF,GO:0016791,phosphatase activity,23/613,311/18430,0.073954984,2.223475292,4.036194789,0.00031427,0.018699069,0.017929934,dusp2/pdp1/pfkfb3/dusp5/dusp8a/dusp1/dusp11/ppm1db/minpp1b/dusp16/ssh2a/dusp4/ssh2b/si:ch1073-184j22.2/g6pc1a.2/dusp23b/pdp2/pgp/ppm1ka/fig4a/si:ch211-203d1.3/plppr4a/ppp1r3da,23
+BP,GO:1901617,organic hydroxy compound biosynthetic process,12/622,112/18773,0.107142857,3.233750574,4.38910953,0.000339414,0.029624051,0.02731032,hmgcs1/hsd17b7/insig1/nus1/dhcr7/mvda/dhdds/cyp51/lss/sqlea/gch2/sc5d,12
+BP,GO:0009308,amine metabolic process,8/622,55/18773,0.145454545,4.390061386,4.660788248,0.000427658,0.035890409,0.033087255,odc1/aoc2/hnmt/amd1/tdo2a/dhps/sat1a.2/cbsb,8
+CC,GO:0032040,small-subunit processome,7/631,43/19331,0.162790698,4.98717429,4.808013215,0.000442579,0.065588148,0.064285894,utp20/utp25/fcf1/nol6/wdr3/nop58/wdr75,7
+BP,GO:1902532,negative regulation of intracellular signal transduction,16/622,188/18773,0.085106383,2.568652938,4.001517274,0.000541056,0.043725321,0.040310237,ddit4/dusp2/dusp5/dusp8a/insig1/dusp1/arhgap29a/spry4/dusp16/tnfaip3/dusp4/mdm2/tank/cd74a/rasip1/bcl6aa,16
+BP,GO:0006575,cellular modified amino acid metabolic process,11/622,102/18773,0.107843137,3.254886199,4.227086272,0.000561405,0.043749517,0.040332542,gstt1a/gstz1/oplah/cpt1b/fpgs/gch2/gstr/gstt2/gss/bhmt/ckmb,11
+CC,GO:0022625,cytosolic large ribosomal subunit,7/631,45/19331,0.155555556,4.765522099,4.645368597,0.000589115,0.065588148,0.064285894,rplp1/rpl37/rpl34/rpl27/rpl6/rpl36/rpl14,7
+BP,GO:0072521,purine-containing compound metabolic process,23/622,334/18773,0.068862275,2.078378613,3.681086339,0.000804579,0.060537671,0.055809488,hmgcs1/ak4/pdk2a/pde4d/gapdh/acsl3b/prps1b/acss2/nadsyn1/gck/mvda/acaca/acot20/ampd2b/tdo2a/allc/hk1/aclya/nme2b.1/atp5mc1/h6pd/impdh1a/atp5pb,23
+BP,GO:0001878,response to yeast,5/622,24/18773,0.208333333,6.287848339,4.798392213,0.00098941,0.069641669,0.064202436,nsdhl/hspa5/cyp51/mcm4/sc5d,5
+BP,GO:0003323,type B pancreatic cell development,5/622,24/18773,0.208333333,6.287848339,4.798392213,0.00098941,0.069641669,0.064202436,gck/c2cd4a/srebf1/dhps/bhmt,5
+BP,GO:0006749,glutathione metabolic process,6/622,36/18773,0.166666667,5.030278671,4.480603202,0.001077289,0.073206006,0.067488387,gstt1a/gstz1/oplah/gstr/gstt2/gss,6
+BP,GO:0033993,response to lipid,15/622,182/18773,0.082417582,2.487500442,3.732859196,0.001107149,0.073206006,0.067488387,jun/junbb/junba/hamp/insig1/hhla2b.1/jund/ripk3/nr2f5/hhla2b.2/cxcl20/zgc:123297/ldlra/anxa1a/nfe2l2a,15
+BP,GO:0048703,embryonic viscerocranium morphogenesis,11/622,111/18773,0.099099099,2.990976507,3.894473196,0.001141779,0.073275359,0.067552323,egr1/hmgcs1/hspg2/polr1a/spns2/smarca4a/crispld2/bmp2b/wls/tbx1/edn1,11
+BP,GO:0002065,columnar/cuboidal epithelial cell differentiation,7/622,50/18773,0.14,4.225434084,4.22751971,0.001227509,0.076526424,0.07054947,gck/c2cd4a/srebf1/rfx6/dhps/med24/bhmt,7
+MF,GO:0016765,"transferase activity, transferring alkyl or aryl (other than methyl) groups",8/613,64/18430,0.125,3.758156607,4.099826241,0.001227518,0.066397541,0.063666461,nus1/pdss1/gstt1a/dhdds/gstz1/dhps/gstr/gstt2,8
+BP,GO:0043604,amide biosynthetic process,11/622,113/18773,0.097345133,2.93803887,3.825128875,0.001321977,0.080126518,0.073868385,pdk2a/acss2/acaca/b4galt5/smpd5/sgms2a/aclya/cers1/cers6/gss/aanat1,11
+BP,GO:0003309,type B pancreatic cell differentiation,6/622,38/18773,0.157894737,4.765527162,4.301212715,0.001443727,0.083246695,0.076744867,gck/c2cd4a/srebf1/rfx6/dhps/bhmt,6
+BP,GO:0002068,glandular epithelial cell development,5/622,26/18773,0.192307692,5.804167697,4.537734999,0.001449759,0.083246695,0.076744867,gck/c2cd4a/srebf1/dhps/bhmt,5
+BP,GO:0043408,regulation of MAPK cascade,17/622,227/18773,0.074889868,2.260301429,3.536408424,0.001537854,0.086040941,0.079320874,dusp2/dusp5/dusp8a/adrb2a/dusp1/cd4-1/spry4/smarca4a/dusp16/avpi1/dusp4/stk40/arrb2b/cd74a/bcar3/map2k6/ankrd6b,17
+MF,GO:0042813,Wnt receptor activity,4/613,16/18430,0.25,7.516313214,4.836728448,0.001602898,0.079477017,0.076207949,nid1a/fzd5/fzd8a/fzd9b,4
+BP,GO:0006595,polyamine metabolic process,4/622,17/18773,0.235294118,7.101569888,4.659036636,0.002013021,0.104847204,0.096658308,odc1/amd1/dhps/sat1a.2,4
+BP,GO:0002066,columnar/cuboidal epithelial cell development,5/622,28/18773,0.178571429,5.38958429,4.302886325,0.002050996,0.104847204,0.096658308,gck/c2cd4a/srebf1/dhps/bhmt,5
+BP,GO:0009968,negative regulation of signal transduction,28/622,470/18773,0.059574468,1.798057057,3.243559866,0.00211936,0.104847204,0.096658308,ddit4/tcima/dusp2/dusp5/socs1a/axin2/socs3b/dusp8a/insig1/dusp1/sox4a/fzd5/rargb/arhgap29a/spry4/dusp16/tnfaip3/dusp4/dlc/arrb2b/mdm2/tank/cd74a/tmem88b/rasip1/tle3b/bcl6aa/ankrd6b,28
+BP,GO:0030855,epithelial cell differentiation,20/622,296/18773,0.067567568,2.039302164,3.336354151,0.002147495,0.104847204,0.096658308,gpr156/irf7/nr2f2/gck/mvda/c2cd4a/amotl2a/dlc/etv5a/srebf1/prox1a/etsrp/rfx6/fbn2b/dhps/ezrb/med24/coq8b/tbx2b/bhmt,20
+BP,GO:0002067,glandular epithelial cell differentiation,6/622,41/18773,0.146341463,4.416830053,4.054370365,0.002162293,0.104847204,0.096658308,gck/c2cd4a/srebf1/rfx6/dhps/bhmt,6
+BP,GO:0035883,enteroendocrine cell differentiation,6/622,41/18773,0.146341463,4.416830053,4.054370365,0.002162293,0.104847204,0.096658308,gck/c2cd4a/srebf1/rfx6/dhps/bhmt,6
+BP,GO:1904888,cranial skeletal system development,18/622,256/18773,0.0703125,2.122148814,3.346457478,0.002283946,0.108338474,0.099876899,egr1/hmgcs1/nr2f2/her6/hspg2/polr1a/spns2/smarca4a/nolc1/tnfaip3/crispld2/nr2f5/bmp2b/bptf/wls/tbx1/edn1/usp36,18
+CC,GO:0044391,ribosomal subunit,12/631,141/19331,0.085106383,2.607276528,3.518620875,0.002284683,0.155037905,0.151959623,rplp1/mrps16/dap3/rpl37/rpl34/rps5/rpl27/rpl6/rpl36/rps19/rps26/rpl14,12
+BP,GO:0006633,fatty acid biosynthetic process,8/622,71/18773,0.112676056,3.400751778,3.751738792,0.002353672,0.109270478,0.100736111,lipg/acsbg2/elovl8b/elovl6l/ptgs2b/hsd17b12a/acaca/aclya,8
+BP,GO:0009620,response to fungus,5/622,29/18773,0.172413793,5.203736556,4.193759674,0.002411661,0.109630068,0.101067615,nsdhl/hspa5/cyp51/mcm4/sc5d,5
+BP,GO:0030162,regulation of proteolysis,14/622,178/18773,0.078651685,2.373839373,3.409165267,0.002475845,0.110016034,0.101423437,a2ml/si:dkey-105h12.2/axin2/c3b.1/diabloa/serpinh1b/serpina7/hip1rb/serpina1/c3b.2/commd1/nedd8/edn1/itih2,14
+BP,GO:0050708,regulation of protein secretion,4/622,18/18773,0.222222222,6.707038228,4.484238331,0.002520991,0.110016034,0.101423437,gck/aacs/rfx6/edn1,4
+BP,GO:0006720,isoprenoid metabolic process,7/622,57/18773,0.122807018,3.706521126,3.788283895,0.002662591,0.113917148,0.105019861,hmgcs1/nus1/pdss1/mvda/dhdds/lss/idi1,7
+BP,GO:0006753,nucleoside phosphate metabolic process,24/622,389/18773,0.061696658,1.8621083,3.180656783,0.002742883,0.115095587,0.10610626,rrm1/hmgcs1/ak4/pdk2a/pde4d/gapdh/acsl3b/prps1b/acss2/nadsyn1/gck/mvda/acaca/acot20/ampd2b/tdo2a/hk1/aclya/nme2b.1/atp5mc1/h6pd/uap1/impdh1a/atp5pb,24
+MF,GO:0016874,ligase activity,15/613,199/18430,0.075376884,2.26622509,3.331164193,0.002762669,0.126445251,0.121244274,acsbg2/acsl3b/glulb/acss2/nadsyn1/cbx4/aacs/acaca/mars2/ttll11/fpgs/lars1b/nars2/atp5pb/gss,15
+BP,GO:0010648,negative regulation of cell communication,28/622,484/18773,0.05785124,1.746047142,3.078181038,0.003207697,0.129614731,0.119491413,ddit4/tcima/dusp2/dusp5/socs1a/axin2/socs3b/dusp8a/insig1/dusp1/sox4a/fzd5/rargb/arhgap29a/spry4/dusp16/tnfaip3/dusp4/dlc/arrb2b/mdm2/tank/cd74a/tmem88b/rasip1/tle3b/bcl6aa/ankrd6b,28
+BP,GO:0023057,negative regulation of signaling,28/622,484/18773,0.05785124,1.746047142,3.078181038,0.003207697,0.129614731,0.119491413,ddit4/tcima/dusp2/dusp5/socs1a/axin2/socs3b/dusp8a/insig1/dusp1/sox4a/fzd5/rargb/arhgap29a/spry4/dusp16/tnfaip3/dusp4/dlc/arrb2b/mdm2/tank/cd74a/tmem88b/rasip1/tle3b/bcl6aa/ankrd6b,28
+BP,GO:0000165,MAPK cascade,18/622,265/18773,0.067924528,2.050075836,3.186867762,0.003306643,0.131183552,0.120937704,dusp2/dusp5/dusp8a/adrb2a/dusp1/cd4-1/spry4/smarca4a/dusp16/avpi1/dusp4/stk40/arrb2b/cd74a/bcar3/csrp1a/map2k6/ankrd6b,18
+CC,GO:0009295,nucleoid,3/631,10/19331,0.3,9.190649762,4.758974292,0.003498481,0.155037905,0.151959623,supv3l1/atad3/elac2,3
+CC,GO:0032476,polyprenyl diphosphate synthase complex,3/631,10/19331,0.3,9.190649762,4.758974292,0.003498481,0.155037905,0.151959623,nus1/pdss1/dhdds,3
+CC,GO:0042645,mitochondrial nucleoid,3/631,10/19331,0.3,9.190649762,4.758974292,0.003498481,0.155037905,0.151959623,supv3l1/atad3/elac2,3
+BP,GO:0001889,liver development,13/622,166/18773,0.078313253,2.363624918,3.266712997,0.003608386,0.135368942,0.124796203,a2ml/supv3l1/rbm15/fzd5/rargb/klf6a/sec31a/bmp2b/srebf1/tomm22/lars1b/hdac1/tbx2b,13
+BP,GO:0061687,detoxification of inorganic compound,3/622,10/18773,0.3,9.054501608,4.716151198,0.003648977,0.135368942,0.124796203,txndc12/abcc4/slc30a1a,3
+BP,GO:0042254,ribosome biogenesis,16/622,226/18773,0.07079646,2.136755542,3.182618994,0.003650058,0.135368942,0.124796203,rpusd2/utp25/fcf1/ddx10/tsr2/tsr1/nol6/las1l/urb1/wdr3/heatr3/rexo1/rps5/rps19/rpl14/wdr75,16
+BP,GO:0009725,response to hormone,19/622,289/18773,0.065743945,1.984262175,3.121489825,0.003696616,0.135368942,0.124796203,jun/junbb/junba/hamp/pik3r3b/nr4a1/socs1a/insig1/rargb/jund/hpxa/nr4a3/stat1a/ssr4/bcar3/irs2b/tgif1/anxa1a/nfe2l2a,19
+CC,GO:0005759,mitochondrial matrix,13/631,169/19331,0.076923077,2.356576862,3.253697272,0.003713483,0.155037905,0.151959623,supv3l1/ak4/pdk2a/atad3/mrps16/dap3/elac2/fpgs/abhd11/dmgdh/ppm1ka/lonp1/ptcd1,13
+BP,GO:0048732,gland development,18/622,268/18773,0.067164179,2.027127226,3.135070273,0.003722336,0.135368942,0.124796203,a2ml/supv3l1/rbm15/fzd5/rargb/klf6a/utp25/sec31a/bmp2b/srebf1/tomm22/etsrp/lars1b/dhps/med24/tbx1/hdac1/tbx2b,18
+MF,GO:0004867,serine-type endopeptidase inhibitor activity,9/613,93/18430,0.096774194,2.909540599,3.424286238,0.003775039,0.142788774,0.136915551,a2ml/si:dkey-105h12.2/c3b.1/serpinh1b/serpina7/serpina1/col28a1a/c3b.2/itih2,9
+BP,GO:0051156,glucose 6-phosphate metabolic process,4/622,20/18773,0.2,6.036334405,4.171520351,0.003787405,0.135477349,0.124896142,gck/g6pc1a.2/hk1/h6pd,4
+MF,GO:0017147,Wnt-protein binding,5/613,32/18430,0.15625,4.697695759,3.88315467,0.003830955,0.142788774,0.136915551,nid1a/fzd5/fzd8a/fzd9b/wls,5
+MF,GO:0030515,snoRNA binding,4/613,20/18430,0.2,6.013050571,4.160581385,0.003839698,0.142788774,0.136915551,utp25/tsr1/wdr3/nop58,4
+BP,GO:0055086,nucleobase-containing small molecule metabolic process,25/622,423/18773,0.059101655,1.783786763,3.018215608,0.003961582,0.137936561,0.127163282,rrm1/hmgcs1/ak4/pdk2a/pde4d/gapdh/acsl3b/prps1b/acss2/nadsyn1/gck/mvda/acaca/acot20/ampd2b/tdo2a/allc/hk1/aclya/nme2b.1/atp5mc1/h6pd/uap1/impdh1a/atp5pb,25
+BP,GO:0016055,Wnt signaling pathway,19/622,291/18773,0.065292096,1.970624634,3.089039826,0.003982586,0.137936561,0.127163282,jun/ddit3/znf703/axin2/rab8b/nid1a/fzd5/tnfaip3/amotl2a/fzd8a/fzd9b/lpxn/tmem88b/wls/csrp1a/tle3b/hdac1/ppp2r3a/ankrd6b,19
+BP,GO:0006631,fatty acid metabolic process,15/622,208/18773,0.072115385,2.176562886,3.158635574,0.004046028,0.137944263,0.127170383,lipg/faah/pdk2a/acsbg2/acsl3b/elovl8b/elovl6l/ptgs2b/hsd17b12a/aacs/acaca/acox3/cpt1b/acot20/aclya,15
+BP,GO:0001945,lymph vessel development,8/622,78/18773,0.102564103,3.095556105,3.433080968,0.004241975,0.139654063,0.128746642,junbb/junba/nr2f2/sele/iqsec1b/sox18/prox1a/etsrp,8
+BP,GO:0032922,circadian regulation of gene expression,5/622,33/18773,0.151515152,4.57298061,3.80279595,0.004323087,0.139654063,0.128746642,egr1/ciarta/per2/mycbp2/nfil3-5,5
+BP,GO:0052547,regulation of peptidase activity,10/622,113/18773,0.088495575,2.670944427,3.297961603,0.004324916,0.139654063,0.128746642,a2ml/si:dkey-105h12.2/c3b.1/diabloa/serpinh1b/serpina7/hip1rb/serpina1/c3b.2/itih2,10
+BP,GO:0001706,endoderm formation,6/622,47/18773,0.127659574,3.852979408,3.625143838,0.00436871,0.139654063,0.128746642,dusp2/dusp5/dusp1/dusp4/bmp2b/col12a1b,6
+BP,GO:0061008,hepaticobiliary system development,13/622,170/18773,0.076470588,2.308010214,3.171350839,0.004416192,0.139654063,0.128746642,a2ml/supv3l1/rbm15/fzd5/rargb/klf6a/sec31a/bmp2b/srebf1/tomm22/lars1b/hdac1/tbx2b,13
+BP,GO:0045861,negative regulation of proteolysis,9/622,96/18773,0.09375,2.829531752,3.326765547,0.004550363,0.141841319,0.130763067,a2ml/si:dkey-105h12.2/c3b.1/serpinh1b/serpina7/serpina1/c3b.2/edn1/itih2,9
+BP,GO:0048592,eye morphogenesis,17/622,253/18773,0.067193676,2.028017488,3.047477156,0.004717737,0.144327597,0.133055158,hsp70.3/egr1/toporsa/znf703/socs1a/odc1/sox4a/dhdds/smarca4a/fzd8a/ttll11/med24/efnb1/hdac1/tbx2b/bbs2/bcl6aa,17
+BP,GO:0031033,myosin filament organization,3/622,11/18773,0.272727273,8.231365098,4.440963996,0.004894703,0.144327597,0.133055158,hsp90aa1.1/ttn.2/eef2k,3
+BP,GO:0060323,head morphogenesis,3/622,11/18773,0.272727273,8.231365098,4.440963996,0.004894703,0.144327597,0.133055158,specc1/crispld2/edn1,3
+BP,GO:0060324,face development,3/622,11/18773,0.272727273,8.231365098,4.440963996,0.004894703,0.144327597,0.133055158,specc1/crispld2/edn1,3
+BP,GO:0032787,monocarboxylic acid metabolic process,20/622,319/18773,0.062695925,1.892267839,2.975401033,0.004995635,0.145339688,0.133988202,lipg/faah/pdk2a/acsbg2/gapdh/acsl3b/acss2/elovl8b/elovl6l/gck/ptgs2b/hsd17b12a/aacs/acaca/me3/acox3/cpt1b/acot20/hk1/aclya,20
+BP,GO:1901700,response to oxygen-containing compound,22/622,364/18773,0.06043956,1.824166991,2.939347926,0.005130133,0.147288832,0.135785112,hamp/pik3r3b/nr4a1/socs1a/adh8a/insig1/hhla2b.1/txndc12/ripk3/nr2f5/hhla2b.2/nr4a3/apoda.2/per2/stat1a/cxcl20/rfx6/zgc:123297/ldlra/bcar3/chrm5a/irs2b,22
+BP,GO:0007369,gastrulation,18/622,277/18773,0.064981949,1.961263886,2.983621922,0.005236396,0.148387224,0.136797715,lurap1/dusp2/dusp5/dusp1/mylipa/rhov/dusp4/etv5a/bmp2b/ltb4r/etsrp/ezrb/csrp1a/tbx2b/col12a1b/map9/bbs2/ankrd6b,18
+BP,GO:0006979,response to oxidative stress,8/622,81/18773,0.098765432,2.980905879,3.307338534,0.005339629,0.148651572,0.137041418,ptgs2b/txndc12/apoda.2/per2/gpx9/lonp1/msrb2/nfe2l2a,8
+BP,GO:0006576,biogenic amine metabolic process,6/622,49/18773,0.12244898,3.695714942,3.497622035,0.005381977,0.148651572,0.137041418,odc1/hnmt/amd1/tdo2a/dhps/sat1a.2,6
+MF,GO:0003735,structural constituent of ribosome,12/613,154/18430,0.077922078,2.342746976,3.103686169,0.005424953,0.181815297,0.174336826,rplp1/mrps16/dap3/rpl37/rpl34/rps5/rpl27/rpl6/rpl36/rps19/rps26/rpl14,12
+BP,GO:0009617,response to bacterium,15/622,215/18773,0.069767442,2.105698048,3.0184944,0.005481511,0.149508205,0.137831144,hamp/leap2/hhla2b.1/ripk3/pcna/marco/hhla2b.2/bpifcl/zgc:162941/cpt1b/pglyrp6/cxcl20/zgc:123297/ldlra/rnasel2,15
+MF,GO:0033764,"steroid dehydrogenase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor",4/613,22/18430,0.181818182,5.46640961,3.888037268,0.005500295,0.181815297,0.174336826,nsdhl/hsd17b7/hsd17b12a/hsd11b2,4
+CC,GO:0019866,organelle inner membrane,18/631,283/19331,0.06360424,1.948547653,2.952823467,0.005611616,0.195317247,0.191439218,coq10b/slc25a33/slc25a37/slc25a38a/slc25a43/tmem201/abcb8/rpl37/slc25a55a/slc25a25b/coq3/smpd5/fpgs/coa8/mrs2/slc25a47a/ndufs4/atp5pb,18
+BP,GO:0001704,formation of primary germ layer,8/622,82/18773,0.097560976,2.944553368,3.266710971,0.005749862,0.154891346,0.142793846,dusp2/dusp5/dusp1/dusp4/etv5a/bmp2b/etsrp/col12a1b,8
+BP,GO:0071216,cellular response to biotic stimulus,6/622,50/18773,0.12,3.621800643,3.436347979,0.005948496,0.157912412,0.145578957,ddit3/hhla2b.1/hhla2b.2/cxcl20/zgc:123297/ldlra,6
+BP,GO:0090596,sensory organ morphogenesis,21/622,347/18773,0.060518732,1.82655652,2.876881324,0.006072996,0.157912412,0.145578957,hsp70.3/egr1/toporsa/znf703/socs1a/odc1/msx1a/sox4a/dhdds/smarca4a/fzd8a/bmp2b/ttll11/med24/tbx1/efnb1/hdac1/tbx2b/bbs2/bcl6aa/sparc,21
+BP,GO:0006006,glucose metabolic process,7/622,66/18773,0.106060606,3.201086427,3.31594392,0.006079121,0.157912412,0.145578957,nr4a1/pdk2a/gapdh/gck/g6pc1a.2/hk1/h6pd,7
+BP,GO:0050796,regulation of insulin secretion,3/622,12/18773,0.25,7.545418006,4.198558463,0.006367025,0.163445286,0.150679696,gck/aacs/rfx6,3
+MF,GO:2001069,glycogen binding,3/613,12/18430,0.25,7.516313214,4.188274831,0.006435321,0.201527167,0.193237903,stbd1/ppp1r3b/ppp1r3da,3
+BP,GO:0042274,ribosomal small subunit biogenesis,7/622,67/18773,0.104477612,3.153309018,3.268537577,0.006599447,0.166233791,0.15325041,utp25/tsr2/tsr1/wdr3/rps5/rps19/wdr75,7
+CC,GO:0070603,SWI/SNF superfamily-type complex,7/631,68/19331,0.102941176,3.15365433,3.267971768,0.006612879,0.195317247,0.191439218,si:ch211-168d23.3/smarca4a/gatad2ab/bptf/baz1a/hdac1/actr5,7
+CC,GO:0005743,mitochondrial inner membrane,17/631,266/19331,0.063909774,1.957907844,2.889721216,0.00667471,0.195317247,0.191439218,coq10b/slc25a33/slc25a37/slc25a38a/slc25a43/abcb8/rpl37/slc25a55a/slc25a25b/coq3/smpd5/fpgs/coa8/mrs2/slc25a47a/ndufs4/atp5pb,17
+BP,GO:0016072,rRNA metabolic process,13/622,179/18773,0.072625698,2.191965007,2.966222978,0.006770004,0.166233791,0.15325041,rpusd2/polr1a/utp25/fcf1/ddx10/tsr2/tsr1/nol6/las1l/urb1/wdr3/rexo1/wdr75,13
+BP,GO:0044092,negative regulation of molecular function,10/622,121/18773,0.082644628,2.49435306,3.052694792,0.00697765,0.166233791,0.15325041,a2ml/si:dkey-105h12.2/c3b.1/serpinh1b/serpina7/clic2/serpina1/prox1a/c3b.2/itih2,10
+CC,GO:0031966,mitochondrial membrane,24/631,426/19331,0.056338028,1.725943617,2.783102191,0.007017386,0.195317247,0.191439218,coq10b/slc25a33/slc25a37/slc25a38a/slc25a43/tomm40/abcb8/rpl37/cpt1b/slc25a55a/slc25a25b/tomm22/coq3/smpd5/fpgs/coa8/hk1/armc1/atp5mc1/mrs2/slc25a47a/ndufs4/coq8b/atp5pb,24
+BP,GO:0010466,negative regulation of peptidase activity,8/622,85/18773,0.094117647,2.840627955,3.148431513,0.007125238,0.166233791,0.15325041,a2ml/si:dkey-105h12.2/c3b.1/serpinh1b/serpina7/serpina1/c3b.2/itih2,8
+BP,GO:0002064,epithelial cell development,9/622,103/18773,0.087378641,2.637233478,3.084304564,0.007193158,0.166233791,0.15325041,gck/mvda/c2cd4a/amotl2a/srebf1/fbn2b/dhps/coq8b/bhmt,9
+BP,GO:0030282,bone mineralization,6/622,52/18773,0.115384615,3.482500618,3.31838447,0.007209968,0.166233791,0.15325041,ankhb/atp2b1a/tgfbr3/col27a1b/col1a1a/mst1rb,6
+BP,GO:0031647,regulation of protein stability,6/622,52/18773,0.115384615,3.482500618,3.31838447,0.007209968,0.166233791,0.15325041,hsp90aa1.1/gapdh/utp25/mdm2/bag3/usp36,6
+MF,GO:0140662,ATP-dependent protein folding chaperone,5/613,37/18430,0.135135135,4.062872007,3.459132977,0.007237903,0.215327618,0.20647071,hsp70.3/hsp90aa1.1/hspa5/hspa4a/hspa4l,5
+BP,GO:0006364,rRNA processing,12/622,161/18773,0.074534161,2.249565617,2.947648335,0.007446751,0.166233791,0.15325041,rpusd2/utp25/fcf1/ddx10/tsr2/tsr1/nol6/las1l/urb1/wdr3/rexo1/wdr75,12
+BP,GO:0030903,notochord development,8/622,86/18773,0.093023256,2.807597398,3.110149941,0.007634723,0.166233791,0.15325041,ccn2a/col27a1b/scarb2a/bmp2b/copb2/ttll11/fbn2b/tbx2b,8
+BP,GO:0090407,organophosphate biosynthetic process,22/622,377/18773,0.058355438,1.761264681,2.7640433,0.007639616,0.166233791,0.15325041,rrm1/hmgcs1/ak4/pdk2a/prps1b/acss2/nadsyn1/mvda/acaca/idi1/pgap1/etnk2/ampd2b/sgms2a/aclya/nme2b.1/atp5mc1/uap1/impdh1a/atp5pb/pld1a/ckmb,22
+BP,GO:0071396,cellular response to lipid,9/622,104/18773,0.086538462,2.611875464,3.051320403,0.007650425,0.166233791,0.15325041,hamp/insig1/hhla2b.1/hhla2b.2/cxcl20/zgc:123297/ldlra/anxa1a/nfe2l2a,9
+BP,GO:0034504,protein localization to nucleus,7/622,69/18773,0.101449275,3.061908756,3.176339593,0.007738436,0.166233791,0.15325041,kpna2/utp25/nup155/uspl1/heatr3/nup133/dclk1b,7
+BP,GO:0098754,detoxification,5/622,38/18773,0.131578947,3.971272635,3.393967189,0.007985238,0.166233791,0.15325041,adh8a/ptgs2b/txndc12/abcc4/slc30a1a,5
+BP,GO:1903829,positive regulation of protein localization,5/622,38/18773,0.131578947,3.971272635,3.393967189,0.007985238,0.166233791,0.15325041,aacs/amotl2a/rfx6/ezrb/edn1,5
+BP,GO:0008283,cell population proliferation,25/622,448/18773,0.055803571,1.684245091,2.713494166,0.008059998,0.166233791,0.15325041,jun/junbb/junba/igfbp1a/hhla2b.1/dlg1b/mych/hspg2/mycb/klf6a/jund/smarca4a/amotl2a/hhla2b.2/etv5a/zgc:163143/hbegfa/uspl1/stat1a/fbn2b/zgc:123297/wls/tbx1/hdac1/tgif1,25
+BP,GO:0002791,regulation of peptide secretion,3/622,13/18773,0.230769231,6.965001237,3.98259353,0.008075519,0.166233791,0.15325041,gck/aacs/rfx6,3
+BP,GO:0051222,positive regulation of protein transport,3/622,13/18773,0.230769231,6.965001237,3.98259353,0.008075519,0.166233791,0.15325041,aacs/rfx6/edn1,3
+BP,GO:0090087,regulation of peptide transport,3/622,13/18773,0.230769231,6.965001237,3.98259353,0.008075519,0.166233791,0.15325041,gck/aacs/rfx6,3
+BP,GO:0090276,regulation of peptide hormone secretion,3/622,13/18773,0.230769231,6.965001237,3.98259353,0.008075519,0.166233791,0.15325041,gck/aacs/rfx6,3
+BP,GO:1901797,negative regulation of signal transduction by p53 class mediator,3/622,13/18773,0.230769231,6.965001237,3.98259353,0.008075519,0.166233791,0.15325041,mdm2/cd74a/bcl6aa,3
+BP,GO:1902253,regulation of intrinsic apoptotic signaling pathway by p53 class mediator,3/622,13/18773,0.230769231,6.965001237,3.98259353,0.008075519,0.166233791,0.15325041,mdm2/cd74a/bcl6aa,3
+MF,GO:0000774,adenyl-nucleotide exchange factor activity,3/613,13/18430,0.230769231,6.938135274,3.97261201,0.008161377,0.220728155,0.211649111,hspa4a/hspa4l/bag3,3
+MF,GO:0005388,P-type calcium transporter activity,3/613,13/18430,0.230769231,6.938135274,3.97261201,0.008161377,0.220728155,0.211649111,atp2b1a/atp2a2a/atp2a2b,3
+BP,GO:0072330,monocarboxylic acid biosynthetic process,8/622,87/18773,0.091954023,2.775326163,3.072414416,0.008171129,0.166629935,0.153615614,lipg/acsbg2/elovl8b/elovl6l/ptgs2b/hsd17b12a/acaca/aclya,8
+BP,GO:0048593,camera-type eye morphogenesis,14/622,205/18773,0.068292683,2.061187358,2.828046988,0.008562014,0.172984388,0.159473764,hsp70.3/egr1/toporsa/znf703/socs1a/sox4a/smarca4a/fzd8a/ttll11/med24/efnb1/hdac1/tbx2b/bcl6aa,14
+CC,GO:0005740,mitochondrial envelope,25/631,457/19331,0.054704595,1.675902582,2.686086746,0.008579329,0.214536915,0.210277279,coq10b/slc25a33/slc25a37/slc25a38a/slc25a43/tomm40/abcb8/rpl37/cpt1b/slc25a55a/slc25a25b/cox5b2/tomm22/coq3/smpd5/fpgs/coa8/hk1/armc1/atp5mc1/mrs2/slc25a47a/ndufs4/coq8b/atp5pb,25
+BP,GO:0036303,lymph vessel morphogenesis,6/622,54/18773,0.111111111,3.353519114,3.206073499,0.008654129,0.17324137,0.159710675,nr2f2/sele/iqsec1b/sox18/prox1a/etsrp,6
+BP,GO:0043434,response to peptide hormone,8/622,88/18773,0.090909091,2.743788366,3.035210022,0.008735302,0.173276628,0.15974318,pik3r3b/nr4a1/socs1a/insig1/nr4a3/stat1a/bcar3/irs2b,8
+CC,GO:0030684,preribosome,7/631,72/19331,0.097222222,2.978451312,3.089474053,0.008992565,0.214536915,0.210277279,utp20/utp25/fcf1/nol6/wdr3/nop58/wdr75,7
+BP,GO:0007492,endoderm development,7/622,71/18773,0.098591549,2.975657805,3.08742957,0.009016312,0.177239581,0.163396613,dusp2/dusp5/ccn2a/dusp1/dusp4/bmp2b/col12a1b,7
+BP,GO:0051346,negative regulation of hydrolase activity,8/622,89/18773,0.08988764,2.712959283,2.998522422,0.00932809,0.181731179,0.167537403,a2ml/si:dkey-105h12.2/c3b.1/serpinh1b/serpina7/serpina1/c3b.2/itih2,8
+BP,GO:0060485,mesenchyme development,16/622,251/18773,0.06374502,1.923931285,2.727927225,0.009746025,0.188122566,0.173429603,hmgcs1/tgfbr3/gadd45aa/radil2a/rargb/mych/hspg2/polr1a/smarca4a/dlc/bmp2b/tbx1/sema5ba/edn1/polr1b/sema3e,16
+BP,GO:0014033,neural crest cell differentiation,12/622,167/18773,0.071856287,2.1687429,2.808347849,0.009828585,0.188122566,0.173429603,hmgcs1/radil2a/mych/hspg2/polr1a/smarca4a/bmp2b/tbx1/sema5ba/edn1/polr1b/sema3e,12
+BP,GO:0030301,cholesterol transport,5/622,40/18773,0.125,3.772709003,3.249606752,0.009918029,0.188183812,0.173486065,npc1l1/nus1/apoa4b.2/soat1/ldlra,5
+BP,GO:0001678,intracellular glucose homeostasis,3/622,14/18773,0.214285714,6.467501148,3.788333861,0.010028025,0.188630601,0.173897958,gck/hk1/rfx6,3
+BP,GO:0042462,eye photoreceptor cell development,6/622,56/18773,0.107142857,3.233750574,3.098922799,0.010294479,0.190360623,0.17549286,odc1/dhdds/ttll11/med24/tbx2b/bbs2,6
+BP,GO:0048545,response to steroid hormone,6/622,56/18773,0.107142857,3.233750574,3.098922799,0.010294479,0.190360623,0.17549286,jun/junbb/junba/hamp/jund/anxa1a,6
+MF,GO:0004725,protein tyrosine phosphatase activity,9/613,109/18430,0.082568807,2.482452071,2.879275056,0.010517916,0.2649496,0.254051629,dusp2/dusp5/dusp8a/dusp1/dusp11/dusp16/dusp4/dusp23b/pgp,9
+BP,GO:0031016,pancreas development,12/622,169/18773,0.071005917,2.143077304,2.763223256,0.01074163,0.196959967,0.181576775,rargb/klf6a/gck/utp25/c2cd4a/bmp2b/srebf1/rfx6/dhps/hdac1/rpl6/bhmt,12
+BP,GO:0030148,sphingolipid biosynthetic process,7/622,74/18773,0.094594595,2.855023029,2.959757716,0.011213779,0.203903883,0.187978349,elovl8b/elovl6l/b4galt5/smpd5/sgms2a/cers1/cers6,7
+BP,GO:0072332,intrinsic apoptotic signaling pathway by p53 class mediator,4/622,27/18773,0.148148148,4.471358819,3.341390777,0.011427783,0.206077865,0.189982537,mdm2/cd74a/rps19/bcl6aa,4
+MF,GO:0004364,glutathione transferase activity,4/613,27/18430,0.148148148,4.454111534,3.331484202,0.01157763,0.2649496,0.254051629,gstt1a/gstz1/gstr/gstt2,4
+MF,GO:0016229,steroid dehydrogenase activity,4/613,27/18430,0.148148148,4.454111534,3.331484202,0.01157763,0.2649496,0.254051629,nsdhl/hsd17b7/hsd17b12a/hsd11b2,4
+MF,GO:0016405,CoA-ligase activity,4/613,27/18430,0.148148148,4.454111534,3.331484202,0.01157763,0.2649496,0.254051629,acsbg2/acsl3b/acss2/aacs,4
+BP,GO:0042180,cellular ketone metabolic process,7/622,75/18773,0.093333333,2.816956056,2.918620741,0.012025674,0.212993454,0.196357996,pdk2a/pdss1/tdo2a/coq3/coq8b/hsd11b2/cbsb,7
+MF,GO:0016810,"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds",10/613,131/18430,0.076335878,2.29505747,2.759147023,0.012185615,0.268534843,0.257489403,faah/tgm2b/nadsyn1/aspg/oplah/ampd2b/allc/pglyrp6/gch2/hdac1,10
+BP,GO:1901293,nucleoside phosphate biosynthetic process,14/622,214/18773,0.065420561,1.974501908,2.654070662,0.012188972,0.212993454,0.196357996,rrm1/ak4/pdk2a/prps1b/acss2/nadsyn1/acaca/ampd2b/aclya/nme2b.1/atp5mc1/uap1/impdh1a/atp5pb,14
+BP,GO:0046549,retinal cone cell development,3/622,15/18773,0.2,6.036334405,3.612161084,0.012230782,0.212993454,0.196357996,ttll11/med24/tbx2b,3
+BP,GO:0060837,blood vessel endothelial cell differentiation,3/622,15/18773,0.2,6.036334405,3.612161084,0.012230782,0.212993454,0.196357996,nr2f2/dlc/etsrp,3
+BP,GO:0048762,mesenchymal cell differentiation,13/622,193/18773,0.067357513,2.032962364,2.670179669,0.012299347,0.212993454,0.196357996,hmgcs1/tgfbr3/radil2a/mych/hspg2/polr1a/smarca4a/bmp2b/tbx1/sema5ba/edn1/polr1b/sema3e,13
+BP,GO:0019318,hexose metabolic process,8/622,94/18773,0.085106383,2.568652938,2.822371447,0.012750765,0.218041896,0.201012139,pfkfb3/nr4a1/pdk2a/gapdh/gck/g6pc1a.2/hk1/h6pd,8
+BP,GO:0042398,cellular modified amino acid biosynthetic process,4/622,28/18773,0.142857143,4.311667432,3.246259228,0.01299058,0.218041896,0.201012139,fpgs/gch2/gss/ckmb,4
+BP,GO:0051223,regulation of protein transport,4/622,28/18773,0.142857143,4.311667432,3.246259228,0.01299058,0.218041896,0.201012139,gck/aacs/rfx6/edn1,4
+BP,GO:0060415,muscle tissue morphogenesis,4/622,28/18773,0.142857143,4.311667432,3.246259228,0.01299058,0.218041896,0.201012139,lurap1/mylpfa/blzf1/lrrc39,4
+BP,GO:0072331,signal transduction by p53 class mediator,5/622,43/18773,0.11627907,3.509496747,3.049665192,0.013383339,0.222919428,0.205508721,mdm2/cd74a/rps6kal/rps19/bcl6aa,5
+CC,GO:0005840,ribosome,12/631,177/19331,0.06779661,2.076982997,2.644085789,0.013551648,0.277285872,0.271780354,rplp1/mrps16/dap3/rpl37/rpl34/rps5/rpl27/rpl6/rpl36/rps19/rps26/rpl14,12
+BP,GO:0006869,lipid transport,16/622,261/18773,0.061302682,1.850217442,2.560494102,0.013754818,0.227371313,0.209612899,npc1l1/nus1/pla2g3/spns2/atp8a2/apoa4b.2/gltpd2b/abcc4/pdzd8/apoda.2/cpt1b/soat1/mfsd2ab/ldlra/fabp10a/vps13d,16
+CC,GO:0005730,nucleolus,16/631,265/19331,0.060377358,1.849690518,2.558372145,0.013820121,0.277285872,0.271780354,utp20/polr1a/utp25/nolc1/aatf/mdm2/tsr1/nol6/urb1/wdr3/rbm19/gpatch4/nop58/polr1b/wdr75/nepro,16
+CC,GO:0000164,protein phosphatase type 1 complex,3/631,16/19331,0.1875,5.744156101,3.487236559,0.014113353,0.277285872,0.271780354,ppp1r3b/ppp1r15b/ppp1r3da,3
+BP,GO:0048706,embryonic skeletal system development,14/622,218/18773,0.064220183,1.938272515,2.57944902,0.014141401,0.230740591,0.212719026,egr1/hmgcs1/hspg2/polr1a/spns2/smarca4a/nolc1/crispld2/bmp2b/nsd2/wls/tbx1/hdac1/edn1,14
+BP,GO:0048644,muscle organ morphogenesis,4/622,29/18773,0.137931034,4.162989245,3.155482406,0.014683208,0.230740591,0.212719026,lurap1/mylpfa/blzf1/lrrc39,4
+BP,GO:0006027,glycosaminoglycan catabolic process,3/622,16/18773,0.1875,5.659063505,3.451255557,0.014688554,0.230740591,0.212719026,zgc:162941/pglyrp6/hyal2a,3
+BP,GO:0046039,GTP metabolic process,3/622,16/18773,0.1875,5.659063505,3.451255557,0.014688554,0.230740591,0.212719026,ak4/nme2b.1/impdh1a,3
+BP,GO:0009306,protein secretion,5/622,44/18773,0.113636364,3.429735457,2.986951849,0.014698874,0.230740591,0.212719026,gck/aacs/rfx6/wls/edn1,5
+BP,GO:0015918,sterol transport,5/622,44/18773,0.113636364,3.429735457,2.986951849,0.014698874,0.230740591,0.212719026,npc1l1/nus1/apoa4b.2/soat1/ldlra,5
+BP,GO:0035592,establishment of protein localization to extracellular region,5/622,44/18773,0.113636364,3.429735457,2.986951849,0.014698874,0.230740591,0.212719026,gck/aacs/rfx6/wls/edn1,5
+BP,GO:0042246,tissue regeneration,11/622,156/18773,0.070512821,2.128194822,2.619339178,0.014928803,0.23147047,0.2133919,junbb/mycb/smarca4a/col1a1a/hbegfa/apoda.2/serpinh1b/hdac1/tgif1/gemin5/anxa1a,11
+BP,GO:0048701,embryonic cranial skeleton morphogenesis,12/622,177/18773,0.06779661,2.046215053,2.588797112,0.015063614,0.23147047,0.2133919,egr1/hmgcs1/hspg2/polr1a/spns2/smarca4a/nolc1/crispld2/bmp2b/wls/tbx1/edn1,12
+BP,GO:0072522,purine-containing compound biosynthetic process,12/622,177/18773,0.06779661,2.046215053,2.588797112,0.015063614,0.23147047,0.2133919,ak4/pdk2a/prps1b/acss2/nadsyn1/acaca/ampd2b/aclya/nme2b.1/atp5mc1/impdh1a/atp5pb,12
+BP,GO:0009636,response to toxic substance,5/622,45/18773,0.111111111,3.353519114,2.926027968,0.01609829,0.242251503,0.2233309,adh8a/ptgs2b/txndc12/abcc4/slc30a1a,5
+BP,GO:0071222,cellular response to lipopolysaccharide,5/622,45/18773,0.111111111,3.353519114,2.926027968,0.01609829,0.242251503,0.2233309,hhla2b.1/hhla2b.2/cxcl20/zgc:123297/ldlra,5
+BP,GO:0071692,protein localization to extracellular region,5/622,45/18773,0.111111111,3.353519114,2.926027968,0.01609829,0.242251503,0.2233309,gck/aacs/rfx6/wls/edn1,5
+BP,GO:0055123,digestive system development,11/622,158/18773,0.069620253,2.101255647,2.573270009,0.016276608,0.243257258,0.224258102,rargb/klf6a/utp25/sec31a/urb1/dhps/med24/tbx1/hdac1/rbm19/bhmt,11
+BP,GO:0060872,semicircular canal development,4/622,30/18773,0.133333333,4.024222937,3.068704459,0.016508892,0.245050354,0.225911152,bmp2b/wls/tbx1/sparc,4
+BP,GO:0035051,cardiocyte differentiation,7/622,80/18773,0.0875,2.640896302,2.72261864,0.016730532,0.245178969,0.226029721,atf3/fosl2/nr2f2/icam3/bmp2b/fbn2b/tbx1,7
+BP,GO:0040007,growth,22/622,406/18773,0.054187192,1.635460061,2.396251238,0.016894771,0.245178969,0.226029721,junbb/supv3l1/mycb/klf6a/smarca4a/utp25/col1a1a/osgn1/hbegfa/apoda.2/serpinh1b/dscamb/mycbp2/hdac1/tgif1/ppp2r3a/sema5ba/gemin5/nrxn2a/anxa1a/dclk1b/cbsb,22
+BP,GO:0001501,skeletal system development,23/622,430/18773,0.053488372,1.614368504,2.38576781,0.016998175,0.245178969,0.226029721,egr1/hmgcs1/atp2b1a/col27a1b/marcksl1a/hspg2/polr1a/spns2/smarca4a/nolc1/col1a1a/crispld2/lss/bmp2b/srebf1/mafbb/nsd2/wls/tbx1/hdac1/col1a2/edn1/sparc,23
+BP,GO:0006743,ubiquinone metabolic process,3/622,17/18773,0.176470588,5.326177416,3.303382481,0.017404739,0.245178969,0.226029721,pdss1/coq3/coq8b,3
+BP,GO:0006744,ubiquinone biosynthetic process,3/622,17/18773,0.176470588,5.326177416,3.303382481,0.017404739,0.245178969,0.226029721,pdss1/coq3/coq8b,3
+BP,GO:1901661,quinone metabolic process,3/622,17/18773,0.176470588,5.326177416,3.303382481,0.017404739,0.245178969,0.226029721,pdss1/coq3/coq8b,3
+BP,GO:1901663,quinone biosynthetic process,3/622,17/18773,0.176470588,5.326177416,3.303382481,0.017404739,0.245178969,0.226029721,pdss1/coq3/coq8b,3
+BP,GO:0002262,myeloid cell homeostasis,10/622,139/18773,0.071942446,2.171343311,2.565894189,0.017416471,0.245178969,0.226029721,hmgcs1/p2ry12/slc25a37/slc25a38a/klf6a/rplp1/nr4a3/rpl27/rps19/sparc,10
+MF,GO:0052689,carboxylic ester hydrolase activity,11/613,159/18430,0.06918239,2.079986047,2.536876819,0.017416802,0.360760059,0.345921188,lipg/pla2g3/pnpla2/pgap1/ces3/smpd5/abhd11/lars1b/h6pd/plcd3a/pld1a,11
+MF,GO:0004659,prenyltransferase activity,3/613,17/18430,0.176470588,5.305632857,3.294298974,0.017583263,0.360760059,0.345921188,nus1/pdss1/dhdds,3
+BP,GO:0071219,cellular response to molecule of bacterial origin,5/622,46/18773,0.108695652,3.280616525,2.86679913,0.017583632,0.245945415,0.226736306,hhla2b.1/hhla2b.2/cxcl20/zgc:123297/ldlra,5
+BP,GO:0051336,regulation of hydrolase activity,11/622,161/18773,0.068322981,2.062101815,2.505432773,0.018466409,0.255080555,0.235157962,a2ml/si:dkey-105h12.2/c3b.1/diabloa/serpinh1b/serpina7/hip1rb/serpina1/c3b.2/zgc:63863/itih2,11
+BP,GO:0015833,peptide transport,4/622,31/18773,0.129032258,3.894409294,2.985609547,0.018470544,0.255080555,0.235157962,gck/aacs/rfx6/abcb9,4
+MF,GO:0016878,acid-thiol ligase activity,4/613,31/18430,0.129032258,3.879387465,2.976101092,0.01870552,0.370992806,0.35573304,acsbg2/acsl3b/acss2/aacs,4
+MF,GO:0031625,ubiquitin protein ligase binding,5/613,47/18430,0.106382979,3.198431155,2.799093705,0.019442398,0.373168612,0.35781935,axin2/zgc:92606/txnipa/gabarapl2/nedd8,5
+CC,GO:0015934,large ribosomal subunit,7/631,84/19331,0.083333333,2.552958267,2.620159373,0.019850046,0.368328628,0.361015453,rplp1/rpl37/rpl34/rpl27/rpl6/rpl36/rpl14,7
+BP,GO:0005996,monosaccharide metabolic process,8/622,102/18773,0.078431373,2.367189963,2.562980751,0.020017418,0.269529748,0.248478629,pfkfb3/nr4a1/pdk2a/gapdh/gck/g6pc1a.2/hk1/h6pd,8
+BP,GO:0046394,carboxylic acid biosynthetic process,11/622,163/18773,0.067484663,2.036799953,2.461023558,0.020043129,0.269529748,0.248478629,lipg/acsbg2/glulb/elovl8b/elovl6l/ptgs2b/hsd17b12a/acaca/aclya/bhmt/cbsb,11
+BP,GO:0022613,ribonucleoprotein complex biogenesis,18/622,319/18773,0.056426332,1.703041055,2.34439592,0.020202839,0.269529748,0.248478629,rpusd2/utp25/fcf1/ddx10/tsr2/tsr1/nol6/las1l/urb1/wdr3/heatr3/rexo1/rps5/gemin5/snrpd1/rps19/rpl14/wdr75,18
+BP,GO:0042127,regulation of cell population proliferation,18/622,319/18773,0.056426332,1.703041055,2.34439592,0.020202839,0.269529748,0.248478629,jun/junbb/junba/igfbp1a/hhla2b.1/mych/mycb/klf6a/jund/hhla2b.2/etv5a/hbegfa/stat1a/fbn2b/zgc:123297/tbx1/hdac1/tgif1,18
+BP,GO:0006085,acetyl-CoA biosynthetic process,3/622,18/18773,0.166666667,5.030278671,3.166744181,0.020381489,0.269529748,0.248478629,pdk2a/acss2/aclya,3
+BP,GO:0010171,body morphogenesis,3/622,18/18773,0.166666667,5.030278671,3.166744181,0.020381489,0.269529748,0.248478629,specc1/crispld2/edn1,3
+BP,GO:1904951,positive regulation of establishment of protein localization,3/622,18/18773,0.166666667,5.030278671,3.166744181,0.020381489,0.269529748,0.248478629,aacs/rfx6/edn1,3
+BP,GO:0045637,regulation of myeloid cell differentiation,5/622,48/18773,0.104166667,3.143924169,2.753083049,0.020819729,0.273666564,0.252292345,p2ry12/mafbb/smyd5/rps19/bcl6aa,5
+BP,GO:0009205,purine ribonucleoside triphosphate metabolic process,8/622,103/18773,0.077669903,2.344207536,2.532287236,0.021097356,0.275655272,0.254125729,ak4/gapdh/gck/hk1/nme2b.1/atp5mc1/impdh1a/atp5pb,8
+BP,GO:0097193,intrinsic apoptotic signaling pathway,7/622,84/18773,0.083333333,2.515139335,2.576317426,0.021331988,0.277061887,0.255422484,ddit3/diabloa/mdm2/coa8/cd74a/rps19/bcl6aa,7
+BP,GO:0016053,organic acid biosynthetic process,11/622,165/18773,0.066666667,2.012111468,2.417244919,0.021717105,0.280394815,0.258495099,lipg/acsbg2/glulb/elovl8b/elovl6l/ptgs2b/hsd17b12a/acaca/aclya/bhmt/cbsb,11
+BP,GO:0032496,response to lipopolysaccharide,6/622,66/18773,0.090909091,2.743788366,2.627022892,0.021880641,0.28084446,0.258909625,hhla2b.1/ripk3/hhla2b.2/cxcl20/zgc:123297/ldlra,6
+BP,GO:0043086,negative regulation of catalytic activity,8/622,104/18773,0.076923077,2.321667079,2.501948701,0.022217933,0.282814699,0.260725982,a2ml/si:dkey-105h12.2/c3b.1/serpinh1b/serpina7/serpina1/c3b.2/itih2,8
+BP,GO:0048596,embryonic camera-type eye morphogenesis,5/622,49/18773,0.102040816,3.079762452,2.69843924,0.022574019,0.282814699,0.260725982,znf703/sox4a/smarca4a/fzd8a/efnb1,5
+MF,GO:0004866,endopeptidase inhibitor activity,9/613,124/18430,0.072580645,2.182155449,2.449923561,0.02272247,0.42249593,0.405117725,a2ml/si:dkey-105h12.2/c3b.1/serpinh1b/serpina7/serpina1/col28a1a/c3b.2/itih2,9
+BP,GO:0035384,thioester biosynthetic process,4/622,33/18773,0.121212121,3.658384488,2.829372692,0.022811818,0.282814699,0.260725982,pdk2a/acss2/acaca/aclya,4
+BP,GO:0060536,cartilage morphogenesis,4/622,33/18773,0.121212121,3.658384488,2.829372692,0.022811818,0.282814699,0.260725982,crispld2/wls/tbx1/edn1,4
+BP,GO:0070201,regulation of establishment of protein localization,4/622,33/18773,0.121212121,3.658384488,2.829372692,0.022811818,0.282814699,0.260725982,gck/aacs/rfx6/edn1,4
+BP,GO:0071616,acyl-CoA biosynthetic process,4/622,33/18773,0.121212121,3.658384488,2.829372692,0.022811818,0.282814699,0.260725982,pdk2a/acss2/acaca/aclya,4
+BP,GO:1901701,cellular response to oxygen-containing compound,15/622,255/18773,0.058823529,1.775392472,2.30778219,0.023260644,0.286324527,0.263961682,hamp/pik3r3b/nr4a1/adh8a/insig1/hhla2b.1/hhla2b.2/nr4a3/cxcl20/rfx6/zgc:123297/ldlra/bcar3/chrm5a/irs2b,15
+BP,GO:0031214,biomineral tissue development,6/622,67/18773,0.089552239,2.702836301,2.584758802,0.023383709,0.286324527,0.263961682,ankhb/atp2b1a/tgfbr3/col27a1b/col1a1a/mst1rb,6
+BP,GO:0009950,dorsal/ventral axis specification,3/622,19/18773,0.157894737,4.765527162,3.039875632,0.023619805,0.286324527,0.263961682,axin2/b4galt5/bmp2b,3
+BP,GO:2001243,negative regulation of intrinsic apoptotic signaling pathway,3/622,19/18773,0.157894737,4.765527162,3.039875632,0.023619805,0.286324527,0.263961682,mdm2/cd74a/bcl6aa,3
+MF,GO:0048306,calcium-dependent protein binding,3/613,19/18430,0.157894737,4.747145188,3.031115354,0.023857704,0.430161638,0.412468126,s100a10b/s100t/icn,3
+BP,GO:0010876,lipid localization,16/622,279/18773,0.05734767,1.730848575,2.276744343,0.024087236,0.290377619,0.267698215,npc1l1/nus1/pla2g3/spns2/atp8a2/apoa4b.2/gltpd2b/abcc4/pdzd8/apoda.2/cpt1b/soat1/mfsd2ab/ldlra/fabp10a/vps13d,16
+BP,GO:0030218,erythrocyte differentiation,9/622,126/18773,0.071428571,2.155833716,2.409774102,0.024371527,0.292190504,0.269369508,hmgcs1/p2ry12/slc25a37/slc25a38a/klf6a/rplp1/rpl27/rps19/sparc,9
+BP,GO:0002237,response to molecule of bacterial origin,6/622,68/18773,0.088235294,2.663088708,2.543262582,0.024954504,0.297544957,0.274305762,hhla2b.1/ripk3/hhla2b.2/cxcl20/zgc:123297/ldlra,6
+BP,GO:0009144,purine nucleoside triphosphate metabolic process,8/622,107/18773,0.074766355,2.256573609,2.41298365,0.025830549,0.303789332,0.280062431,ak4/gapdh/gck/hk1/nme2b.1/atp5mc1/impdh1a/atp5pb,8
+BP,GO:0044272,sulfur compound biosynthetic process,8/622,107/18773,0.074766355,2.256573609,2.41298365,0.025830549,0.303789332,0.280062431,pdk2a/chpfa/acss2/acaca/aclya/gss/bhmt/cbsb,8
+BP,GO:0051246,regulation of protein metabolic process,23/622,448/18773,0.051339286,1.549505483,2.179160573,0.025895883,0.303789332,0.280062431,a2ml/si:dkey-105h12.2/socs1a/axin2/dhx29/c3b.1/diabloa/larp4aa/serpinh1b/serpina7/hip1rb/serpina1/ogfod1/c3b.2/eif4enif1/ube2s/commd1/bzw2/stk35/nedd8/edn1/ppp1r15b/itih2,23
+BP,GO:0001946,lymphangiogenesis,5/622,51/18773,0.098039216,2.958987454,2.593228637,0.026363044,0.305037362,0.281212986,nr2f2/iqsec1b/sox18/prox1a/etsrp,5
+BP,GO:0048884,neuromast development,7/622,88/18773,0.079545455,2.40081482,2.438235777,0.026745447,0.305037362,0.281212986,gpr156/atp2b1a/irf7/prox1a/cd74a/ngfrb/edn1,7
+BP,GO:0006026,aminoglycan catabolic process,3/622,20/18773,0.15,4.527250804,2.921569008,0.02711964,0.305037362,0.281212986,zgc:162941/pglyrp6/hyal2a,3
+BP,GO:0030073,insulin secretion,3/622,20/18773,0.15,4.527250804,2.921569008,0.02711964,0.305037362,0.281212986,gck/aacs/rfx6,3
+BP,GO:0046883,regulation of hormone secretion,3/622,20/18773,0.15,4.527250804,2.921569008,0.02711964,0.305037362,0.281212986,gck/aacs/rfx6,3
+BP,GO:0050829,defense response to Gram-negative bacterium,3/622,20/18773,0.15,4.527250804,2.921569008,0.02711964,0.305037362,0.281212986,hamp/bpifcl/rnasel2,3
+BP,GO:1990798,pancreas regeneration,3/622,20/18773,0.15,4.527250804,2.921569008,0.02711964,0.305037362,0.281212986,gck/c2cd4a/srebf1,3
+BP,GO:0046467,membrane lipid biosynthetic process,8/622,108/18773,0.074074074,2.235679409,2.383986969,0.027120645,0.305037362,0.281212986,elovl8b/elovl6l/b4galt5/pgap1/smpd5/sgms2a/cers1/cers6,8
+BP,GO:0034101,erythrocyte homeostasis,9/622,129/18773,0.069767442,2.105698048,2.332716911,0.027840697,0.311530256,0.287198764,hmgcs1/p2ry12/slc25a37/slc25a38a/klf6a/rplp1/rpl27/rps19/sparc,9
+BP,GO:0046513,ceramide biosynthetic process,5/622,52/18773,0.096153846,2.902083849,2.54253532,0.028400606,0.31617409,0.2914799,b4galt5/smpd5/sgms2a/cers1/cers6,5
+BP,GO:0048562,embryonic organ morphogenesis,24/622,477/18773,0.050314465,1.518574693,2.123697322,0.028563268,0.316370815,0.291661261,egr1/hmgcs1/znf703/msx1a/col27a1b/sox4a/hspg2/polr1a/spns2/smarca4a/atp2a2a/nolc1/crispld2/fzd8a/bmp2b/ttll11/fbn2b/wls/tbx1/efnb1/tbx2b/ppp2r3a/edn1/sparc,24
+MF,GO:0016811,"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides",6/613,70/18430,0.085714286,2.577021673,2.451964487,0.028765664,0.475776311,0.456206564,faah/tgm2b/nadsyn1/aspg/pglyrp6/hdac1,6
+MF,GO:0016879,"ligase activity, forming carbon-nitrogen bonds",5/613,52/18430,0.096153846,2.890889698,2.532693152,0.028809876,0.475776311,0.456206564,glulb/nadsyn1/ttll11/fpgs/gss,5
+MF,GO:0044183,protein folding chaperone,5/613,52/18430,0.096153846,2.890889698,2.532693152,0.028809876,0.475776311,0.456206564,hsp70.3/hsp90aa1.1/hspa5/hspa4a/hspa4l,5
+BP,GO:0060070,canonical Wnt signaling pathway,12/622,195/18773,0.061538462,1.857333663,2.227757373,0.029466454,0.323553551,0.298283002,jun/znf703/axin2/rab8b/nid1a/fzd5/fzd8a/fzd9b/tmem88b/tle3b/ppp2r3a/ankrd6b,12
+BP,GO:0048589,developmental growth,20/622,381/18773,0.052493438,1.584339739,2.133111797,0.029508321,0.323553551,0.298283002,junbb/mycb/klf6a/smarca4a/utp25/col1a1a/hbegfa/apoda.2/serpinh1b/dscamb/mycbp2/hdac1/tgif1/ppp2r3a/sema5ba/gemin5/nrxn2a/anxa1a/dclk1b/cbsb,20
+CC,GO:0030686,90S preribosome,3/631,21/19331,0.142857143,4.376499887,2.84377383,0.029723333,0.522504905,0.512130556,utp20/nol6/wdr3,3
+BP,GO:0040012,regulation of locomotion,17/622,310/18773,0.05483871,1.65512395,2.15304633,0.029854891,0.323942948,0.298641986,znf703/socs1a/klf6a/plvapb/spns2/vegfab/amotl2a/ccl44/prox1a/ngfrb/dscamb/mycbp2/rap2c/ppp2r3a/sema5ba/bcl6aa/sema3e,17
+BP,GO:0003158,endothelium development,6/622,71/18773,0.084507042,2.550563833,2.423120348,0.030084,0.323942948,0.298641986,nr2f2/marcksl1a/amotl2a/dlc/etsrp/fbn2b,6
+BP,GO:0015908,fatty acid transport,5/622,53/18773,0.094339623,2.84732755,2.493039194,0.030535214,0.323942948,0.298641986,pla2g3/abcc4/cpt1b/mfsd2ab/fabp10a,5
+MF,GO:0072341,modified amino acid binding,4/613,36/18430,0.111111111,3.340583651,2.607360961,0.030770248,0.475776311,0.456206564,havcr1/gstr/gss/anxa1a,4
+BP,GO:0031294,lymphocyte costimulation,3/622,21/18773,0.142857143,4.311667432,2.810818181,0.030879988,0.323942948,0.298641986,hhla2b.1/hhla2b.2/zgc:123297,3
+BP,GO:0031295,T cell costimulation,3/622,21/18773,0.142857143,4.311667432,2.810818181,0.030879988,0.323942948,0.298641986,hhla2b.1/hhla2b.2/zgc:123297,3
+BP,GO:0042670,retinal cone cell differentiation,3/622,21/18773,0.142857143,4.311667432,2.810818181,0.030879988,0.323942948,0.298641986,ttll11/med24/tbx2b,3
+BP,GO:0050830,defense response to Gram-positive bacterium,3/622,21/18773,0.142857143,4.311667432,2.810818181,0.030879988,0.323942948,0.298641986,hamp/zgc:162941/rnasel2,3
+BP,GO:0070654,sensory epithelium regeneration,3/622,21/18773,0.142857143,4.311667432,2.810818181,0.030879988,0.323942948,0.298641986,hbegfa/tgif1/gemin5,3
+BP,GO:1990399,epithelium regeneration,3/622,21/18773,0.142857143,4.311667432,2.810818181,0.030879988,0.323942948,0.298641986,hbegfa/tgif1/gemin5,3
+MF,GO:0061135,endopeptidase regulator activity,9/613,131/18430,0.06870229,2.065551723,2.270180229,0.030978164,0.475776311,0.456206564,a2ml/si:dkey-105h12.2/c3b.1/serpinh1b/serpina7/serpina1/col28a1a/c3b.2/itih2,9
+MF,GO:0030247,polysaccharide binding,3/613,21/18430,0.142857143,4.295036122,2.802325384,0.031185338,0.475776311,0.456206564,stbd1/ppp1r3b/ppp1r3da,3
+BP,GO:0001503,ossification,8/622,111/18773,0.072072072,2.175255641,2.298872728,0.031257605,0.326335379,0.300847561,ankhb/atp2b1a/tgfbr3/col27a1b/col1a1a/bmp2b/mst1rb/wls,8
+BP,GO:0030099,myeloid cell differentiation,14/622,243/18773,0.057613169,1.738861763,2.145995493,0.032267658,0.335264744,0.309079515,hmgcs1/p2ry12/slc25a37/slc25a38a/klf6a/rplp1/mafbb/etsrp/rpl27/tle3b/smyd5/rps19/bcl6aa/sparc,14
+BP,GO:0048704,embryonic skeletal system morphogenesis,12/622,198/18773,0.060606061,1.829192244,2.171318846,0.032598824,0.335264744,0.309079515,egr1/hmgcs1/hspg2/polr1a/spns2/smarca4a/nolc1/crispld2/bmp2b/wls/tbx1/edn1,12
+BP,GO:0009199,ribonucleoside triphosphate metabolic process,8/622,112/18773,0.071428571,2.155833716,2.271104409,0.032727493,0.335264744,0.309079515,ak4/gapdh/gck/hk1/nme2b.1/atp5mc1/impdh1a/atp5pb,8
+BP,GO:0048738,cardiac muscle tissue development,8/622,112/18773,0.071428571,2.155833716,2.271104409,0.032727493,0.335264744,0.309079515,nr2f2/icam3/smarca4a/ttn.2/bmp2b/tbx1/hdac1/lrrc39,8
+MF,GO:0044389,ubiquitin-like protein ligase binding,5/613,54/18430,0.092592593,2.783819709,2.43492831,0.033233741,0.494351892,0.47401809,axin2/zgc:92606/txnipa/gabarapl2/nedd8,5
+CC,GO:0005876,spindle microtubule,3/631,22/19331,0.136363636,4.177568074,2.73927804,0.033603534,0.561179024,0.550036799,aurka/kif18a/map9,3
+BP,GO:0032880,regulation of protein localization,7/622,93/18773,0.075268817,2.271738755,2.275889285,0.034737043,0.348127003,0.320937191,gck/aacs/amotl2a/rfx6/commd1/ezrb/edn1,7
+BP,GO:0006275,regulation of DNA replication,3/622,22/18773,0.136363636,4.115682549,2.706777215,0.034898966,0.348127003,0.320937191,cdt1/pcna/baz1a,3
+BP,GO:0021538,epithalamus development,3/622,22/18773,0.136363636,4.115682549,2.706777215,0.034898966,0.348127003,0.320937191,mycbp2/wls/tbx2b,3
+BP,GO:0030513,positive regulation of BMP signaling pathway,3/622,22/18773,0.136363636,4.115682549,2.706777215,0.034898966,0.348127003,0.320937191,tsc22d3/b4galt5/bmp2b,3
+BP,GO:0048752,semicircular canal morphogenesis,3/622,22/18773,0.136363636,4.115682549,2.706777215,0.034898966,0.348127003,0.320937191,bmp2b/tbx1/sparc,3
+BP,GO:0032868,response to insulin,5/622,55/18773,0.090909091,2.743788366,2.39742807,0.035099881,0.348127003,0.320937191,pik3r3b/socs1a/insig1/bcar3/irs2b,5
+BP,GO:0045446,endothelial cell differentiation,5/622,55/18773,0.090909091,2.743788366,2.39742807,0.035099881,0.348127003,0.320937191,nr2f2/amotl2a/dlc/etsrp/fbn2b,5
+CC,GO:0015935,small ribosomal subunit,5/631,56/19331,0.089285714,2.735312429,2.38882481,0.035551244,0.565434079,0.55420737,mrps16/dap3/rps5/rps19/rps26,5
+BP,GO:0071375,cellular response to peptide hormone stimulus,6/622,74/18773,0.081081081,2.447162597,2.30900134,0.035859263,0.353774322,0.326143436,pik3r3b/nr4a1/insig1/nr4a3/bcar3/irs2b,6
+BP,GO:0030334,regulation of cell migration,15/622,270/18773,0.055555556,1.676759557,2.073458712,0.035993538,0.353774322,0.326143436,znf703/socs1a/klf6a/plvapb/spns2/vegfab/amotl2a/ccl44/prox1a/ngfrb/rap2c/ppp2r3a/sema5ba/bcl6aa/sema3e,15
+BP,GO:0045596,negative regulation of cell differentiation,7/622,94/18773,0.074468085,2.247571321,2.244670945,0.036506054,0.357202737,0.329304081,irf7/her6/f2r/dusp4/bmp2b/smyd5/nepro,7
+BP,GO:0048565,digestive tract development,8/622,115/18773,0.069565217,2.099594576,2.189521184,0.037417724,0.364488725,0.336021011,rargb/klf6a/utp25/urb1/med24/tbx1/hdac1/rbm19,8
+CC,GO:1904949,ATPase complex,7/631,96/19331,0.072916667,2.233838484,2.226166466,0.037601442,0.570858254,0.559523848,si:ch211-168d23.3/smarca4a/gatad2ab/bptf/baz1a/hdac1/actr5,7
+BP,GO:0031018,endocrine pancreas development,6/622,75/18773,0.08,2.414533762,2.272200015,0.037931749,0.366225999,0.337622599,gck/c2cd4a/srebf1/rfx6/dhps/bhmt,6
+BP,GO:0060348,bone development,6/622,75/18773,0.08,2.414533762,2.272200015,0.037931749,0.366225999,0.337622599,atp2b1a/col1a1a/srebf1/mafbb/wls/edn1,6
+MF,GO:0030414,peptidase inhibitor activity,9/613,136/18430,0.066176471,1.989612321,2.148542966,0.03802172,0.546924208,0.524427989,a2ml/si:dkey-105h12.2/c3b.1/serpinh1b/serpina7/serpina1/col28a1a/c3b.2/itih2,9
+BP,GO:0045944,positive regulation of transcription by RNA polymerase II,18/622,344/18773,0.052325581,1.579273536,2.007299662,0.038519509,0.370262417,0.341343759,jun/egr1/junbb/junba/pprc1/relb/sox4a/mdc1/rargb/sox18/mycb/jund/smarca4a/rel/etsrp/rfx6/med24/zgc:110158,18
+BP,GO:0060042,retina morphogenesis in camera-type eye,9/622,137/18773,0.065693431,1.982737578,2.137084441,0.038757102,0.370912269,0.341942856,egr1/toporsa/socs1a/smarca4a/ttll11/med24/hdac1/tbx2b/bcl6aa,9
+BP,GO:1901796,regulation of signal transduction by p53 class mediator,3/622,23/18773,0.130434783,3.936739829,2.608728856,0.039173903,0.371268696,0.342271445,mdm2/cd74a/bcl6aa,3
+BP,GO:0031102,neuron projection regeneration,4/622,39/18773,0.102564103,3.095556105,2.425026703,0.039304798,0.371268696,0.342271445,dusp2/mycbp2/csrp1a/col12a1b,4
+BP,GO:2000736,regulation of stem cell differentiation,4/622,39/18773,0.102564103,3.095556105,2.425026703,0.039304798,0.371268696,0.342271445,fosl2/irf7/f2r/smyd5,4
+MF,GO:0016881,acid-amino acid ligase activity,3/613,23/18430,0.130434783,3.92155472,2.600460546,0.039554127,0.546924208,0.524427989,ttll11/fpgs/gss,3
+BP,GO:0009142,nucleoside triphosphate biosynthetic process,5/622,57/18773,0.087719298,2.64751509,2.306006342,0.040064421,0.373592168,0.344413446,ak4/nme2b.1/atp5mc1/impdh1a/atp5pb,5
+BP,GO:0030203,glycosaminoglycan metabolic process,5/622,57/18773,0.087719298,2.64751509,2.306006342,0.040064421,0.373592168,0.344413446,chpfa/zgc:162941/pglyrp6/hyal2a/itih2,5
+BP,GO:0070372,regulation of ERK1 and ERK2 cascade,5/622,57/18773,0.087719298,2.64751509,2.306006342,0.040064421,0.373592168,0.344413446,cd4-1/spry4/dusp4/arrb2b/cd74a,5
+CC,GO:0016363,nuclear matrix,2/631,10/19331,0.2,6.127099842,2.978974446,0.040237948,0.58432498,0.572723192,znf703/lpxn,2
+BP,GO:0010092,specification of animal organ identity,2/622,10/18773,0.2,6.036334405,2.948924179,0.041348279,0.375419161,0.346097746,bmp2b/hdac1,2
+BP,GO:0042542,response to hydrogen peroxide,2/622,10/18773,0.2,6.036334405,2.948924179,0.041348279,0.375419161,0.346097746,txndc12/per2,2
+BP,GO:0055012,ventricular cardiac muscle cell differentiation,2/622,10/18773,0.2,6.036334405,2.948924179,0.041348279,0.375419161,0.346097746,icam3/bmp2b,2
+BP,GO:0061158,3'-UTR-mediated mRNA destabilization,2/622,10/18773,0.2,6.036334405,2.948924179,0.041348279,0.375419161,0.346097746,zc3h12ab/zfp36l2,2
+BP,GO:0071715,icosanoid transport,2/622,10/18773,0.2,6.036334405,2.948924179,0.041348279,0.375419161,0.346097746,pla2g3/abcc4,2
+BP,GO:1903225,negative regulation of endodermal cell differentiation,2/622,10/18773,0.2,6.036334405,2.948924179,0.041348279,0.375419161,0.346097746,dusp4/bmp2b,2
+MF,GO:0001054,RNA polymerase I activity,2/613,10/18430,0.2,6.013050571,2.94117662,0.041640026,0.546924208,0.524427989,polr1a/polr1b,2
+MF,GO:0005160,transforming growth factor beta receptor binding,2/613,10/18430,0.2,6.013050571,2.94117662,0.041640026,0.546924208,0.524427989,tgfbr3/tgfbr2b,2
+BP,GO:0001754,eye photoreceptor cell differentiation,6/622,77/18773,0.077922078,2.351818599,2.200339105,0.042301974,0.375419161,0.346097746,odc1/dhdds/ttll11/med24/tbx2b/bbs2,6
+BP,GO:1903706,regulation of hemopoiesis,6/622,77/18773,0.077922078,2.351818599,2.200339105,0.042301974,0.375419161,0.346097746,p2ry12/irf7/mafbb/smyd5/rps19/bcl6aa,6
+BP,GO:0007179,transforming growth factor beta receptor signaling pathway,5/622,58/18773,0.086206897,2.601868278,2.261757655,0.042698408,0.375419161,0.346097746,znf703/tgfbr3/lpxn/tgif1/tgfbr2b,5
+BP,GO:0071559,response to transforming growth factor beta,5/622,58/18773,0.086206897,2.601868278,2.261757655,0.042698408,0.375419161,0.346097746,znf703/tgfbr3/lpxn/tgif1/tgfbr2b,5
+BP,GO:0071560,cellular response to transforming growth factor beta stimulus,5/622,58/18773,0.086206897,2.601868278,2.261757655,0.042698408,0.375419161,0.346097746,znf703/tgfbr3/lpxn/tgif1/tgfbr2b,5
+MF,GO:0016614,"oxidoreductase activity, acting on CH-OH group of donors",9/613,139/18430,0.064748201,1.946671048,2.078028994,0.042734131,0.546924208,0.524427989,nsdhl/hsd17b7/adh8a/d2hgdh/hsd17b12a/me3/h6pd/impdh1a/hsd11b2,9
+BP,GO:0048514,blood vessel morphogenesis,22/622,448/18773,0.049107143,1.48213568,1.911993776,0.043694869,0.375419161,0.346097746,egfl7/tgfbr3/marcksl1a/nus1/iqsec1b/sox18/hspg2/spns2/arhgef9b/mvda/vegfab/amotl2a/dlc/plekhh1/per2/etsrp/nme2b.1/fbn2b/rasip1/rnasel2/pld1a/sema3e,22
+BP,GO:0002790,peptide secretion,3/622,24/18773,0.125,3.772709003,2.516060303,0.043701406,0.375419161,0.346097746,gck/aacs/rfx6,3
+BP,GO:0030072,peptide hormone secretion,3/622,24/18773,0.125,3.772709003,2.516060303,0.043701406,0.375419161,0.346097746,gck/aacs/rfx6,3
+BP,GO:0032465,regulation of cytokinesis,3/622,24/18773,0.125,3.772709003,2.516060303,0.043701406,0.375419161,0.346097746,aurka/rab25b/map9,3
+BP,GO:0034446,substrate adhesion-dependent cell spreading,3/622,24/18773,0.125,3.772709003,2.516060303,0.043701406,0.375419161,0.346097746,radil2a/lpxn/lims1,3
+BP,GO:0042181,ketone biosynthetic process,3/622,24/18773,0.125,3.772709003,2.516060303,0.043701406,0.375419161,0.346097746,pdss1/coq3/coq8b,3
+BP,GO:0045927,positive regulation of growth,3/622,24/18773,0.125,3.772709003,2.516060303,0.043701406,0.375419161,0.346097746,supv3l1/dscamb/hdac1,3
+BP,GO:0050821,protein stabilization,3/622,24/18773,0.125,3.772709003,2.516060303,0.043701406,0.375419161,0.346097746,hsp90aa1.1/gapdh/bag3,3
+BP,GO:0071675,regulation of mononuclear cell migration,3/622,24/18773,0.125,3.772709003,2.516060303,0.043701406,0.375419161,0.346097746,socs1a/spns2/bcl6aa,3
+MF,GO:0015645,fatty acid ligase activity,3/613,24/18430,0.125,3.758156607,2.507891052,0.044121617,0.546924208,0.524427989,acsbg2/acsl3b/acss2,3
+MF,GO:0016866,intramolecular transferase activity,3/613,24/18430,0.125,3.758156607,2.507891052,0.044121617,0.546924208,0.524427989,rpusd2/lss/pus1,3
+MF,GO:0120515,fatty acid-CoA ligase activity,3/613,24/18430,0.125,3.758156607,2.507891052,0.044121617,0.546924208,0.524427989,acsbg2/acsl3b/acss2,3
+BP,GO:0006163,purine nucleotide metabolic process,13/622,231/18773,0.056277056,1.698535655,1.977499885,0.044601917,0.381652483,0.351844226,ak4/pde4d/gapdh/prps1b/nadsyn1/gck/ampd2b/hk1/nme2b.1/atp5mc1/h6pd/impdh1a/atp5pb,13
+BP,GO:0002685,regulation of leukocyte migration,5/622,59/18773,0.084745763,2.557768816,2.218430797,0.045434235,0.382770277,0.352874716,socs1a/plvapb/spns2/vegfab/bcl6aa,5
+BP,GO:0031076,embryonic camera-type eye development,5/622,59/18773,0.084745763,2.557768816,2.218430797,0.045434235,0.382770277,0.352874716,znf703/sox4a/smarca4a/fzd8a/efnb1,5
+BP,GO:0042886,amide transport,5/622,59/18773,0.084745763,2.557768816,2.218430797,0.045434235,0.382770277,0.352874716,gck/aacs/gltpd2b/rfx6/abcb9,5
+BP,GO:0048048,embryonic eye morphogenesis,5/622,59/18773,0.084745763,2.557768816,2.218430797,0.045434235,0.382770277,0.352874716,znf703/sox4a/smarca4a/fzd8a/efnb1,5
+BP,GO:0032870,cellular response to hormone stimulus,13/622,232/18773,0.056034483,1.691214381,1.961057679,0.045889174,0.384428975,0.354403864,hamp/pik3r3b/nr4a1/insig1/rargb/hpxa/nr4a3/ssr4/bcar3/irs2b/tgif1/anxa1a/nfe2l2a,13
+BP,GO:0030490,maturation of SSU-rRNA,4/622,41/18773,0.097560976,2.944553368,2.307384163,0.045983484,0.384428975,0.354403864,utp25/tsr2/tsr1/wdr3,4
+MF,GO:0016877,"ligase activity, forming carbon-sulfur bonds",4/613,41/18430,0.097560976,2.9331954,2.298542072,0.046524461,0.559006796,0.536013593,acsbg2/acsl3b/acss2/aacs,4
+BP,GO:0002244,hematopoietic progenitor cell differentiation,9/622,142/18773,0.063380282,1.912922875,2.021437719,0.046887438,0.389742481,0.359302369,jun/atf3/irf7/mycb/smarca4a/f2r/dlc/hdac1/tgfbr2b,9
+BP,GO:0001666,response to hypoxia,6/622,79/18773,0.075949367,2.292278888,2.130683106,0.046976294,0.389742481,0.359302369,ddit4/ddit3/igfbp1a/vegfab/hspa5/dap3,6
+BP,GO:0060341,regulation of cellular localization,8/622,121/18773,0.066115702,1.995482448,2.03359177,0.048104644,0.396171394,0.365229164,gck/aacs/amotl2a/rfx6/rab25b/commd1/ezrb/edn1,8
+BP,GO:0070371,ERK1 and ERK2 cascade,5/622,60/18773,0.083333333,2.515139335,2.175988904,0.048272272,0.396171394,0.365229164,cd4-1/spry4/dusp4/arrb2b/cd74a,5
+BP,GO:0042742,defense response to bacterium,7/622,100/18773,0.07,2.112717042,2.065274951,0.04836514,0.396171394,0.365229164,hamp/leap2/marco/bpifcl/zgc:162941/pglyrp6/rnasel2,7
+BP,GO:0042102,positive regulation of T cell proliferation,3/622,25/18773,0.12,3.621800643,2.428244335,0.048477435,0.396171394,0.365229164,hhla2b.1/hhla2b.2/zgc:123297,3
+BP,GO:0036293,response to decreased oxygen levels,6/622,80/18773,0.075,2.263625402,2.096640762,0.049428653,0.398919137,0.3677623,ddit4/ddit3/igfbp1a/vegfab/hspa5/dap3,6
+BP,GO:0032367,intracellular cholesterol transport,2/622,11/18773,0.181818182,5.487576732,2.755934243,0.049449074,0.398919137,0.3677623,nus1/ldlra,2
+BP,GO:0060217,hemangioblast cell differentiation,2/622,11/18773,0.181818182,5.487576732,2.755934243,0.049449074,0.398919137,0.3677623,etv5a/etsrp,2
+BP,GO:0001935,endothelial cell proliferation,4/622,42/18773,0.095238095,2.874444955,2.25121535,0.049544952,0.398919137,0.3677623,dlg1b/hspg2/amotl2a/zgc:163143,4
+MF,GO:0004303,estradiol 17-beta-dehydrogenase [NAD(P)+] activity,2/613,11/18430,0.181818182,5.46640961,2.748436454,0.049793883,0.559006796,0.536013593,hsd17b7/hsd17b12a,2
+MF,GO:0008307,structural constituent of muscle,2/613,11/18430,0.181818182,5.46640961,2.748436454,0.049793883,0.559006796,0.536013593,ttn.2/csrp1a,2
+MF,GO:0008429,phosphatidylethanolamine binding,2/613,11/18430,0.181818182,5.46640961,2.748436454,0.049793883,0.559006796,0.536013593,zgc:92606/gabarapl2,2
+MF,GO:0050291,sphingosine N-acyltransferase activity,2/613,11/18430,0.181818182,5.46640961,2.748436454,0.049793883,0.559006796,0.536013593,cers1/cers6,2

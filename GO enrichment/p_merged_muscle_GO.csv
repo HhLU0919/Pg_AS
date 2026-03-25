@@ -1,0 +1,1663 @@
+ONTOLOGY,ID,Description,pvalue_ASG_muscle_AF,pvalue_ASG_muscle_AR,pvalue_ASG_muscle_FR,pvalue_DEG_muscle_AF,pvalue_DEG_muscle_AR,pvalue_DEG_muscle_FR
+BP,GO:0042692,muscle cell differentiation,1.41e-6,2.39e-10,NA,1.12e-7,1.54e-9,NA
+BP,GO:0051146,striated muscle cell differentiation,5.04e-6,2.9e-9,NA,3.46e-8,7.63e-9,NA
+BP,GO:0007517,muscle organ development,7.55e-6,2.04216e-4,0.017928721,1.98e-6,1.69e-9,0.032037715
+BP,GO:0010927,cellular component assembly involved in morphogenesis,7.56e-6,2.78e-11,0.010848239,5.96e-7,6.32e-7,0.028157076
+BP,GO:0032989,cellular anatomical entity morphogenesis,7.56e-6,2.78e-11,0.010848239,5.96e-7,6.32e-7,0.028157076
+BP,GO:0055002,striated muscle cell development,8.12e-6,1.56e-8,NA,3.34e-9,5.87e-10,0.016755898
+BP,GO:0030239,myofibril assembly,1.31e-5,4.45e-11,0.026177249,2.78e-8,8.65e-8,0.017087011
+BP,GO:0043254,regulation of protein-containing complex assembly,2.27e-5,0.022233138,NA,0.014656817,NA,NA
+BP,GO:0044087,regulation of cellular component biogenesis,2.46e-5,0.027776915,NA,4.6e-5,NA,NA
+BP,GO:0045214,sarcomere organization,2.78e-5,5.07e-8,0.032665311,3.1e-6,3.22e-6,NA
+BP,GO:0031032,actomyosin structure organization,3.27e-5,2.88e-9,0.045051986,2.54e-7,1.52e-5,0.015676035
+BP,GO:0055001,muscle cell development,4.28e-5,4.17e-8,NA,4.83e-9,2.31e-9,0.031057735
+BP,GO:1902903,regulation of supramolecular fiber organization,6.1e-5,0.004704752,NA,9.27087e-4,NA,NA
+BP,GO:0060537,muscle tissue development,1.1894e-4,4.71e-5,NA,3.09e-6,3.33e-6,NA
+BP,GO:0060415,muscle tissue morphogenesis,1.5627e-4,8.03938e-4,NA,NA,0.01823699,NA
+BP,GO:0022604,regulation of cell morphogenesis,1.74402e-4,0.001566019,NA,NA,NA,NA
+BP,GO:0014706,striated muscle tissue development,1.86073e-4,2.06626e-4,NA,2.71e-5,1.56e-5,NA
+BP,GO:0048644,muscle organ morphogenesis,1.88309e-4,9.38739e-4,NA,NA,0.024041865,NA
+BP,GO:0030032,lamellipodium assembly,2.02374e-4,0.001287988,NA,NA,NA,NA
+BP,GO:0046471,phosphatidylglycerol metabolic process,2.42974e-4,0.039366795,NA,NA,NA,NA
+BP,GO:0031641,regulation of myelination,2.7464e-4,0.018990063,NA,NA,NA,NA
+BP,GO:0000245,spliceosomal complex assembly,3.7348e-4,0.00889792,NA,NA,NA,NA
+BP,GO:0006892,post-Golgi vesicle-mediated transport,3.98387e-4,0.019474647,NA,NA,NA,NA
+BP,GO:0043484,regulation of RNA splicing,4.55758e-4,0.002907349,0.001563364,NA,NA,NA
+BP,GO:0006897,endocytosis,5.24896e-4,0.018977618,NA,0.018342023,NA,NA
+BP,GO:1905475,regulation of protein localization to membrane,5.59442e-4,0.016905932,0.001791072,NA,NA,NA
+BP,GO:0051656,establishment of organelle localization,6.10659e-4,0.020731893,NA,NA,0.002402815,NA
+BP,GO:0002098,tRNA wobble uridine modification,7.5344e-4,0.004936933,2.85e-5,NA,NA,NA
+BP,GO:0048532,anatomical structure arrangement,7.61974e-4,NA,0.001223914,NA,NA,NA
+BP,GO:0097581,lamellipodium organization,7.94018e-4,0.003859648,NA,NA,NA,NA
+BP,GO:0008380,RNA splicing,8.06598e-4,0.013526168,0.031966114,0.001059614,7.22186e-4,NA
+BP,GO:0002097,tRNA wobble base modification,0.001149084,0.006815697,4.48e-5,NA,NA,NA
+BP,GO:0051145,smooth muscle cell differentiation,0.001377319,0.011374102,NA,NA,NA,NA
+BP,GO:1903076,regulation of protein localization to plasma membrane,0.001377319,0.001101922,0.001898678,NA,NA,NA
+BP,GO:0055008,cardiac muscle tissue morphogenesis,0.001396284,0.001068358,NA,NA,NA,NA
+BP,GO:0060538,skeletal muscle organ development,0.001418392,0.002077113,NA,3.53e-6,3.09e-7,NA
+BP,GO:0022411,cellular component disassembly,0.001494127,8.96e-5,NA,5.70279e-4,0.001961522,NA
+BP,GO:0048738,cardiac muscle tissue development,0.001504629,2.57067e-4,NA,0.008956971,0.005069628,NA
+BP,GO:0032271,regulation of protein polymerization,0.001561319,0.047227473,NA,0.015562032,NA,NA
+BP,GO:0051493,regulation of cytoskeleton organization,0.001719021,NA,NA,0.009846598,NA,NA
+BP,GO:0042554,superoxide anion generation,0.001787018,NA,NA,NA,NA,NA
+BP,GO:1904375,regulation of protein localization to cell periphery,0.001787018,0.001431989,0.002307611,NA,NA,NA
+BP,GO:0099518,vesicle cytoskeletal trafficking,0.001965565,0.001448903,NA,NA,0.005635664,0.030480698
+BP,GO:0003015,heart process,0.001998518,3.8781e-4,NA,1.63096e-4,2.15e-8,NA
+BP,GO:0042552,myelination,0.002115324,0.017651877,NA,NA,NA,NA
+BP,GO:0006893,Golgi to plasma membrane transport,0.002246522,NA,NA,NA,NA,NA
+BP,GO:0048892,lateral line nerve development,0.002274076,0.001825191,0.033059432,NA,0.049675419,NA
+BP,GO:0006631,fatty acid metabolic process,0.002431759,0.015559227,NA,0.006739886,0.002740409,NA
+BP,GO:0032984,protein-containing complex disassembly,0.002451904,4.35e-5,NA,0.009959723,0.027263302,NA
+BP,GO:0007272,ensheathment of neurons,0.002494753,0.019873468,NA,NA,NA,NA
+BP,GO:0008366,axon ensheathment,0.002494753,0.019873468,NA,NA,NA,NA
+BP,GO:0007044,cell-substrate junction assembly,0.002845344,0.00228733,NA,NA,NA,NA
+BP,GO:0150115,cell-substrate junction organization,0.002845344,0.00228733,NA,NA,NA,NA
+BP,GO:0051258,protein polymerization,0.002874742,NA,NA,7.5997e-4,0.03070372,NA
+BP,GO:0120035,regulation of plasma membrane bounded cell projection organization,0.002885767,0.001509454,NA,4.08294e-4,0.00214793,NA
+BP,GO:0051650,establishment of vesicle localization,0.003011306,NA,NA,NA,NA,NA
+BP,GO:0048915,posterior lateral line system development,0.003230776,0.006887546,NA,NA,NA,NA
+BP,GO:0031344,regulation of cell projection organization,0.003270859,0.001720259,NA,1.98156e-4,0.003086665,NA
+BP,GO:0046486,glycerolipid metabolic process,0.003492716,NA,NA,NA,0.038952186,NA
+BP,GO:0007411,axon guidance,0.003820299,3.39629e-4,NA,NA,0.034516419,NA
+BP,GO:0097485,neuron projection guidance,0.003820299,3.39629e-4,NA,NA,0.034516419,NA
+BP,GO:0060047,heart contraction,0.00388801,2.9544e-4,NA,1.60277e-4,4.58e-8,NA
+BP,GO:0008154,actin polymerization or depolymerization,0.003889327,0.037490108,NA,9.35061e-4,NA,0.033763502
+BP,GO:0001736,establishment of planar polarity,0.004008963,1.92831e-4,NA,NA,NA,NA
+BP,GO:0061550,cranial ganglion development,0.004008963,0.003382473,NA,NA,NA,NA
+BP,GO:0032787,monocarboxylic acid metabolic process,0.004199271,0.008100853,NA,6.09765e-4,0.003522814,NA
+BP,GO:0048881,mechanosensory lateral line system development,0.004229426,0.008732334,NA,NA,NA,NA
+BP,GO:0098876,vesicle-mediated transport to the plasma membrane,0.004229426,0.024799616,NA,NA,NA,NA
+BP,GO:0051130,positive regulation of cellular component organization,0.004258395,0.010153178,NA,NA,NA,NA
+BP,GO:0060560,developmental growth involved in morphogenesis,0.004601537,0.006590784,0.023652062,NA,0.034542577,NA
+BP,GO:0001885,endothelial cell development,0.004978575,0.020907039,NA,NA,NA,NA
+BP,GO:0022613,ribonucleoprotein complex biogenesis,0.005037011,NA,NA,4.83e-7,1.43e-7,NA
+BP,GO:0048168,regulation of neuronal synaptic plasticity,0.005130064,0.028826096,0.005147186,NA,NA,NA
+BP,GO:0007164,establishment of tissue polarity,0.005373018,2.95297e-4,NA,NA,NA,NA
+BP,GO:0016203,muscle attachment,0.005373018,0.004540164,NA,7.74e-5,7.85e-5,NA
+BP,GO:0044282,small molecule catabolic process,0.005466342,NA,NA,0.038047342,0.018826858,NA
+BP,GO:0006397,mRNA processing,0.00555498,0.034464109,NA,0.012007315,0.012565859,NA
+BP,GO:0008045,motor neuron axon guidance,0.00562934,0.004068598,NA,NA,0.046588953,NA
+BP,GO:0051648,vesicle localization,0.005856549,NA,NA,NA,NA,NA
+BP,GO:0120032,regulation of plasma membrane bounded cell projection assembly,0.006033423,NA,NA,0.001151477,NA,NA
+BP,GO:0055013,cardiac muscle cell development,0.006315252,0.020376958,NA,0.003395323,0.003463448,NA
+BP,GO:0060491,regulation of cell projection assembly,0.006499185,NA,NA,6.02919e-4,NA,NA
+BP,GO:0031033,myosin filament organization,0.006983304,4.31668e-4,0.016961746,0.013297277,NA,NA
+BP,GO:0046626,regulation of insulin receptor signaling pathway,0.006983304,NA,NA,NA,NA,NA
+BP,GO:0008360,regulation of cell shape,0.006991672,0.049094603,NA,NA,NA,NA
+BP,GO:0072329,monocarboxylic acid catabolic process,0.006991672,0.004916034,NA,NA,NA,NA
+BP,GO:0048925,lateral line system development,0.007045126,0.00431547,NA,NA,NA,NA
+BP,GO:0051016,barbed-end actin filament capping,0.00727039,0.005663865,NA,0.020707447,NA,NA
+BP,GO:0048675,axon extension,0.007828273,0.005357194,0.007552464,NA,NA,NA
+BP,GO:0140694,non-membrane-bounded organelle assembly,0.008058356,1.83e-6,NA,8.28e-7,2.14e-9,NA
+BP,GO:0030225,macrophage differentiation,0.008174507,NA,NA,0.013358525,NA,NA
+BP,GO:0051668,localization within membrane,0.008207507,NA,NA,NA,NA,NA
+BP,GO:0070507,regulation of microtubule cytoskeleton organization,0.008638817,NA,0.014901769,NA,NA,NA
+BP,GO:0031113,regulation of microtubule polymerization,0.008849704,NA,NA,NA,NA,NA
+BP,GO:0042454,ribonucleoside catabolic process,0.008849704,NA,NA,NA,NA,NA
+BP,GO:1900076,regulation of cellular response to insulin stimulus,0.008849704,NA,NA,0.036492678,0.001033994,NA
+BP,GO:1902667,regulation of axon guidance,0.008849704,0.007500262,0.01982317,NA,NA,NA
+BP,GO:0031122,cytoplasmic microtubule organization,0.009153675,NA,NA,NA,NA,NA
+BP,GO:0050920,regulation of chemotaxis,0.009244801,0.006975342,NA,NA,NA,NA
+BP,GO:0050684,regulation of mRNA processing,0.009247547,0.006546409,0.003458475,NA,NA,NA
+BP,GO:0001738,morphogenesis of a polarized epithelium,0.00973245,0.007910428,NA,NA,NA,NA
+BP,GO:0007015,actin filament organization,0.010032251,NA,NA,7.7e-6,NA,NA
+BP,GO:0007519,skeletal muscle tissue development,0.01009007,0.006268055,NA,5.81e-5,5.98e-6,NA
+BP,GO:0055006,cardiac cell development,0.010107112,0.029678286,NA,0.003915791,0.003996418,NA
+BP,GO:0030705,cytoskeleton-dependent intracellular transport,0.010290988,0.006904031,NA,NA,NA,NA
+BP,GO:0036269,swimming behavior,0.010602381,NA,NA,NA,0.006493327,NA
+BP,GO:0006914,autophagy,0.010881978,1.66419e-4,NA,1.55504e-4,9.48e-7,NA
+BP,GO:0061919,process utilizing autophagic mechanism,0.010881978,1.66419e-4,NA,1.55504e-4,9.48e-7,NA
+BP,GO:0002690,positive regulation of leukocyte chemotaxis,0.01098017,0.009319666,NA,NA,NA,NA
+BP,GO:0009164,nucleoside catabolic process,0.01098017,NA,NA,NA,NA,NA
+BP,GO:0034656,nucleobase-containing small molecule catabolic process,0.01098017,NA,NA,NA,NA,NA
+BP,GO:0043650,dicarboxylic acid biosynthetic process,0.01098017,NA,NA,NA,NA,NA
+BP,GO:0016049,cell growth,0.010996588,0.007023516,NA,NA,NA,NA
+BP,GO:0009743,response to carbohydrate,0.011196432,0.009114508,NA,NA,NA,NA
+BP,GO:0009746,response to hexose,0.011196432,0.009114508,NA,NA,NA,NA
+BP,GO:0009749,response to glucose,0.011196432,0.009114508,NA,NA,NA,NA
+BP,GO:0014866,skeletal myofibril assembly,0.011196432,0.009114508,NA,0.010795419,0.010935719,NA
+BP,GO:0034284,response to monosaccharide,0.011196432,0.009114508,NA,NA,NA,NA
+BP,GO:0043242,negative regulation of protein-containing complex disassembly,0.011528322,4.96912e-4,NA,0.019305696,NA,NA
+BP,GO:0016236,macroautophagy,0.011881735,2.75839e-4,NA,0.003246168,1.62e-6,NA
+BP,GO:0010506,regulation of autophagy,0.011897441,0.008239596,NA,0.001108587,0.016393468,NA
+BP,GO:0030833,regulation of actin filament polymerization,0.012684578,NA,NA,0.008902998,NA,NA
+BP,GO:0019216,regulation of lipid metabolic process,0.012780848,0.002666931,NA,0.044216381,NA,NA
+BP,GO:0016241,regulation of macroautophagy,0.012794932,0.00153923,NA,NA,NA,NA
+BP,GO:0019395,fatty acid oxidation,0.013034905,0.002294542,NA,NA,NA,NA
+BP,GO:0048918,posterior lateral line nerve development,0.013380883,0.011374102,NA,NA,NA,NA
+BP,GO:0009116,nucleoside metabolic process,0.013876563,NA,NA,NA,NA,NA
+BP,GO:0043094,cellular metabolic compound salvage,0.013876563,NA,NA,NA,0.04181672,NA
+BP,GO:0007626,locomotory behavior,0.014075602,NA,NA,NA,0.004418514,NA
+BP,GO:0051345,positive regulation of hydrolase activity,0.014236731,NA,NA,NA,NA,NA
+BP,GO:0043244,regulation of protein-containing complex disassembly,0.014439907,4.4e-5,NA,0.024832323,NA,NA
+BP,GO:0047496,vesicle transport along microtubule,0.014531916,0.011866487,NA,NA,0.042638017,0.012721019
+BP,GO:0008064,regulation of actin polymerization or depolymerization,0.014737985,NA,NA,0.006593738,NA,NA
+BP,GO:0030041,actin filament polymerization,0.014986852,NA,NA,0.004332639,NA,NA
+BP,GO:0003013,circulatory system process,0.015032598,0.003978088,NA,4.15096e-4,2.26e-7,NA
+BP,GO:0072384,organelle transport along microtubule,0.015271891,0.012031575,NA,NA,NA,0.049124273
+BP,GO:0051640,organelle localization,0.015467954,NA,NA,NA,0.003203151,NA
+BP,GO:0048588,developmental cell growth,0.015474653,0.010524489,0.025344413,NA,NA,NA
+BP,GO:0110053,regulation of actin filament organization,0.01556502,NA,NA,0.002833599,NA,NA
+BP,GO:0034248,regulation of amide metabolic process,0.01605639,NA,NA,NA,NA,NA
+BP,GO:0035907,dorsal aorta development,0.01605639,0.013668436,NA,NA,0.02100041,0.018510196
+BP,GO:0045685,regulation of glial cell differentiation,0.01605639,NA,0.029495627,NA,NA,NA
+BP,GO:0061548,ganglion development,0.01605639,0.013668436,NA,NA,NA,NA
+BP,GO:0030832,regulation of actin filament length,0.016238354,NA,NA,0.008939603,NA,NA
+BP,GO:0006414,translational elongation,0.016277269,NA,0.04208986,0.005659275,0.0123594,NA
+BP,GO:0006909,phagocytosis,0.016277269,NA,NA,0.009960526,NA,NA
+BP,GO:0035384,thioester biosynthetic process,0.016757898,NA,NA,NA,NA,NA
+BP,GO:0051293,establishment of spindle localization,0.016757898,0.002736299,NA,NA,NA,NA
+BP,GO:0051653,spindle localization,0.016757898,0.002736299,NA,NA,NA,NA
+BP,GO:0071616,acyl-CoA biosynthetic process,0.016757898,NA,NA,NA,NA,NA
+BP,GO:1990138,neuron projection extension,0.017369037,0.012171996,0.013790482,NA,NA,NA
+BP,GO:0010975,regulation of neuron projection development,0.018327953,1.93206e-4,0.031055968,0.026004286,0.00101736,NA
+BP,GO:0038034,signal transduction in absence of ligand,0.019009743,0.016206274,NA,NA,NA,NA
+BP,GO:0097192,extrinsic apoptotic signaling pathway in absence of ligand,0.019009743,0.016206274,NA,NA,NA,NA
+BP,GO:0006801,superoxide metabolic process,0.020608016,NA,NA,NA,NA,NA
+BP,GO:0008015,blood circulation,0.020782808,0.002724629,NA,4.24712e-4,8.08e-7,NA
+BP,GO:0042254,ribosome biogenesis,0.021429137,NA,NA,1.08e-5,1.16e-5,0.014900982
+BP,GO:0031334,positive regulation of protein-containing complex assembly,0.02178145,NA,NA,NA,NA,NA
+BP,GO:0030100,regulation of endocytosis,0.022069681,NA,NA,NA,NA,NA
+BP,GO:0048268,clathrin coat assembly,0.022242623,0.018990063,0.03678198,NA,NA,NA
+BP,GO:0016482,cytosolic transport,0.022267704,0.004916034,NA,NA,NA,NA
+BP,GO:0044089,positive regulation of cellular component biogenesis,0.02238727,NA,NA,NA,NA,NA
+BP,GO:0030866,cortical actin cytoskeleton organization,0.022931368,NA,NA,NA,0.049304856,NA
+BP,GO:2000116,regulation of cysteine-type endopeptidase activity,0.022931368,0.018840688,NA,NA,NA,NA
+BP,GO:0016054,organic acid catabolic process,0.022991175,NA,NA,0.0091099490000000009,0.023411282,NA
+BP,GO:0046395,carboxylic acid catabolic process,0.022991175,NA,NA,0.0091099490000000009,0.023411282,NA
+BP,GO:0006364,rRNA processing,0.023139833,NA,0.036245245,5.70279e-4,0.003417295,NA
+BP,GO:0006354,DNA-templated transcription elongation,0.023634604,NA,NA,NA,0.01612564,NA
+BP,GO:0030042,actin filament depolymerization,0.023634604,0.018183575,NA,0.026483095,NA,0.037159423
+BP,GO:0034440,lipid oxidation,0.023634604,0.004845152,NA,NA,NA,NA
+BP,GO:0055007,cardiac muscle cell differentiation,0.023634604,NA,NA,0.01651108,0.016819204,NA
+BP,GO:1901880,negative regulation of protein depolymerization,0.023634604,0.001120967,NA,NA,NA,NA
+BP,GO:0032956,regulation of actin cytoskeleton organization,0.024296079,NA,NA,8.20829e-4,NA,NA
+BP,GO:0016072,rRNA metabolic process,0.024668408,NA,NA,4.47731e-4,0.007038106,NA
+BP,GO:0003158,endothelium development,0.025041912,0.005686853,NA,NA,NA,0.005979103
+BP,GO:0045446,endothelial cell differentiation,0.025272178,0.005272858,NA,NA,NA,0.019023286
+BP,GO:0009119,ribonucleoside metabolic process,0.025407615,NA,NA,NA,NA,NA
+BP,GO:0051294,establishment of spindle orientation,0.025407615,0.020907039,NA,NA,NA,NA
+BP,GO:0031110,regulation of microtubule polymerization or depolymerization,0.025620958,0.020376958,NA,NA,NA,NA
+BP,GO:0072014,proximal tubule development,0.025755459,NA,NA,NA,NA,NA
+BP,GO:0051261,protein depolymerization,0.026452486,0.006476946,NA,NA,NA,NA
+BP,GO:0006400,tRNA modification,0.026513984,NA,9.87e-5,NA,NA,NA
+BP,GO:0032970,regulation of actin filament-based process,0.026674826,NA,NA,7.15131e-4,NA,NA
+BP,GO:0006635,fatty acid beta-oxidation,0.027692908,0.005235602,NA,NA,NA,NA
+BP,GO:0007528,neuromuscular junction development,0.027692908,NA,NA,NA,0.005236941,NA
+BP,GO:0048645,animal organ formation,0.027692908,0.005235602,NA,NA,NA,NA
+BP,GO:0014902,myotube differentiation,0.028085855,0.020013411,NA,5.83661e-4,5.19e-5,NA
+BP,GO:0031329,regulation of cellular catabolic process,0.028085855,0.020013411,NA,0.00356411,0.021118628,NA
+BP,GO:0003181,atrioventricular valve morphogenesis,0.029547541,NA,NA,0.005117953,0.00114682,NA
+BP,GO:0035904,aorta development,0.029547541,0.025300025,NA,NA,0.019221752,0.030472928
+BP,GO:0048246,macrophage chemotaxis,0.029547541,NA,NA,0.042939218,NA,NA
+BP,GO:0055003,cardiac myofibril assembly,0.029547541,NA,NA,NA,NA,NA
+BP,GO:0046785,microtubule polymerization,0.030825687,NA,NA,NA,0.00300162,NA
+BP,GO:1905517,macrophage migration,0.030825687,NA,NA,0.001865645,NA,NA
+BP,GO:0048916,posterior lateral line development,0.031280829,NA,NA,NA,NA,NA
+BP,GO:0032886,regulation of microtubule-based process,0.032048492,NA,NA,NA,NA,NA
+BP,GO:0043087,regulation of GTPase activity,0.032148238,NA,NA,NA,NA,NA
+BP,GO:0032880,regulation of protein localization,0.032168787,NA,0.002472233,NA,NA,NA
+BP,GO:0001667,ameboidal-type cell migration,0.03289266,0.009867435,NA,0.033259293,0.04858941,0.036446605
+BP,GO:0030010,establishment of cell polarity,0.032989422,NA,NA,0.028930536,0.029465399,NA
+BP,GO:0043280,positive regulation of cysteine-type endopeptidase activity involved in apoptotic process,0.03361712,0.028826096,NA,NA,NA,NA
+BP,GO:0050921,positive regulation of chemotaxis,0.03361712,0.028826096,NA,NA,NA,NA
+BP,GO:1901658,glycosyl compound catabolic process,0.03361712,NA,NA,NA,NA,NA
+BP,GO:2001056,positive regulation of cysteine-type endopeptidase activity,0.03361712,0.028826096,NA,NA,NA,NA
+BP,GO:0010976,positive regulation of neuron projection development,0.033770099,1.29934e-4,NA,NA,0.039468422,NA
+BP,GO:0040001,establishment of mitotic spindle localization,0.033770099,0.005663865,NA,NA,NA,NA
+BP,GO:0072114,pronephros morphogenesis,0.033770099,NA,0.003137169,NA,NA,NA
+BP,GO:0010638,positive regulation of organelle organization,0.033874428,NA,NA,NA,NA,NA
+BP,GO:0003007,heart morphogenesis,0.034334715,0.020898822,NA,NA,NA,NA
+BP,GO:0036465,synaptic vesicle recycling,0.034534012,NA,NA,NA,NA,NA
+BP,GO:0000375,RNA splicing via transesterification reactions,0.035159435,NA,NA,NA,NA,NA
+BP,GO:0000377,RNA splicing via transesterification reactions with bulged adenosine as nucleophile,0.035159435,NA,NA,NA,NA,NA
+BP,GO:0000398,mRNA splicing via spliceosome,0.035159435,NA,NA,NA,NA,NA
+BP,GO:0072659,protein localization to plasma membrane,0.036383168,NA,0.02452943,NA,NA,NA
+BP,GO:0044057,regulation of system process,0.03752146,NA,NA,0.03731303,0.001943887,NA
+BP,GO:0008033,tRNA processing,0.037913059,NA,8.77e-5,NA,NA,NA
+BP,GO:0043101,purine-containing compound salvage,0.03796151,NA,NA,NA,NA,NA
+BP,GO:0034330,cell junction organization,0.038827306,0.040226377,NA,NA,NA,3.61139e-4
+BP,GO:0009062,fatty acid catabolic process,0.038862434,0.009102664,NA,NA,0.034131831,NA
+BP,GO:0008038,neuron recognition,0.040133645,0.033274777,NA,NA,NA,NA
+BP,GO:0032535,regulation of cellular component size,0.040238227,0.026681365,NA,0.016550239,NA,NA
+BP,GO:0031346,positive regulation of cell projection organization,0.040429509,0.010929423,NA,NA,NA,NA
+BP,GO:0043434,response to peptide hormone,0.040429509,0.010929423,0.012732915,0.008522893,0.00100876,NA
+BP,GO:0048882,lateral line development,0.040940519,0.028937369,NA,NA,NA,NA
+BP,GO:0051693,actin filament capping,0.042335164,0.009099098,NA,NA,NA,NA
+BP,GO:1901657,glycosyl compound metabolic process,0.042335164,NA,NA,NA,NA,NA
+BP,GO:0019217,regulation of fatty acid metabolic process,0.042577177,NA,NA,NA,NA,NA
+BP,GO:0031644,regulation of nervous system process,0.042577177,NA,NA,NA,NA,NA
+BP,GO:0048193,Golgi vesicle transport,0.042743105000000003,NA,0.036411281,NA,NA,NA
+BP,GO:0048024,regulation of mRNA splicing via spliceosome,0.043456578,NA,0.008985169,NA,NA,NA
+BP,GO:1901879,regulation of protein depolymerization,0.043456578,0.002829953,NA,NA,NA,NA
+BP,GO:0010565,regulation of cellular ketone metabolic process,0.043553404,0.007993029,NA,NA,NA,NA
+BP,GO:0060914,heart formation,0.043553404,0.007993029,NA,NA,NA,NA
+BP,GO:0006213,pyrimidine nucleoside metabolic process,0.043927528,NA,NA,NA,NA,NA
+BP,GO:0015822,ornithine transport,0.043927528,NA,NA,NA,NA,NA
+BP,GO:0018022,peptidyl-lysine methylation,0.043927528,NA,0.011826504,NA,NA,NA
+BP,GO:0018209,peptidyl-serine modification,0.043927528,NA,NA,NA,NA,NA
+BP,GO:0031034,myosin filament assembly,0.043927528,0.003382473,NA,NA,NA,NA
+BP,GO:0031116,positive regulation of microtubule polymerization,0.043927528,NA,NA,NA,NA,NA
+BP,GO:0035776,pronephric proximal tubule development,0.043927528,NA,NA,NA,NA,NA
+BP,GO:0042762,regulation of sulfur metabolic process,0.043927528,NA,NA,NA,NA,NA
+BP,GO:0042989,sequestering of actin monomers,0.043927528,0.039366795,NA,NA,NA,NA
+BP,GO:0070593,dendrite self-avoidance,0.043927528,NA,NA,NA,NA,NA
+BP,GO:0071688,striated muscle myosin thick filament assembly,0.043927528,0.003382473,NA,NA,NA,NA
+BP,GO:0150105,protein localization to cell-cell junction,0.043927528,0.039366795,NA,0.036492678,NA,NA
+BP,GO:1903352,L-ornithine transmembrane transport,0.043927528,NA,NA,NA,NA,NA
+BP,GO:0030258,lipid modification,0.044030103,NA,NA,NA,NA,NA
+BP,GO:0006085,acetyl-CoA biosynthetic process,0.047459822,NA,NA,NA,NA,NA
+BP,GO:0006376,mRNA splice site recognition,0.047459822,NA,NA,NA,NA,NA
+BP,GO:0106027,neuron projection organization,0.047459822,0.040870755,NA,NA,NA,NA
+BP,GO:0030834,regulation of actin filament depolymerization,0.048079123,0.010749017,NA,NA,NA,NA
+BP,GO:0030835,negative regulation of actin filament depolymerization,0.048079123,0.010749017,NA,NA,NA,NA
+BP,GO:0030903,notochord development,0.048912511,NA,NA,NA,0.021971618,NA
+BP,GO:0006650,glycerophospholipid metabolic process,0.049479016,NA,NA,NA,NA,NA
+CC,GO:0005925,focal adhesion,3.32e-5,0.00171593,NA,0.005993325,0.001404116,NA
+CC,GO:0030055,cell-substrate junction,5.87e-5,0.002540755,NA,0.003052701,0.001505335,NA
+CC,GO:0030016,myofibril,1.02953e-4,2.12e-7,NA,3.15e-10,2.27e-8,0.005692206
+CC,GO:0043292,contractile muscle fiber,1.26839e-4,1.39e-8,0.031461699,2.9e-10,5.36e-8,0.002565572
+CC,GO:0031672,A band,3.00156e-4,8.26e-9,NA,6.69e-5,2.99e-7,0.018967185
+CC,GO:0030017,sarcomere,3.54707e-4,8.53e-7,NA,3.89e-9,1.24e-8,0.018761361
+CC,GO:0005938,cell cortex,6.67646e-4,NA,7.44505e-4,NA,NA,NA
+CC,GO:0031430,M band,9.04953e-4,3.39e-7,NA,4.57136e-4,1.46e-5,NA
+CC,GO:0019867,outer membrane,0.001653834,NA,NA,0.002086228,0.002199335,NA
+CC,GO:0031968,organelle outer membrane,0.001653834,NA,NA,0.002086228,0.002199335,NA
+CC,GO:0031674,I band,0.001695296,0.015054599,NA,1.99e-5,6.83e-6,0.017999533
+CC,GO:0099023,vesicle tethering complex,0.001730472,NA,NA,NA,NA,NA
+CC,GO:0033017,sarcoplasmic reticulum membrane,0.002297125,0.001767079,NA,0.020932648,0.021323045,NA
+CC,GO:0005741,mitochondrial outer membrane,0.002672121,NA,NA,0.009188601,0.002875679,NA
+CC,GO:0030018,Z disc,0.003895339,0.032950087,NA,1.06e-5,1.12e-5,0.012310815
+CC,GO:0015629,actin cytoskeleton,0.00408965,0.001912571,NA,2.18e-5,0.008323634,0.008647497
+CC,GO:0030136,clathrin-coated vesicle,0.004687625,0.010555986,NA,NA,NA,NA
+CC,GO:0005884,actin filament,0.006422578,0.004658166,NA,2.26e-6,NA,0.00114833
+CC,GO:0045252,oxoglutarate dehydrogenase complex,0.006839659,NA,NA,NA,NA,NA
+CC,GO:1990204,oxidoreductase complex,0.007422919,NA,NA,0.007744141,4.91e-13,NA
+CC,GO:0070161,anchoring junction,0.007845164,0.023107185,NA,0.035725075,NA,0.001161167
+CC,GO:0044545,NSL complex,0.0086693,NA,NA,NA,NA,NA
+CC,GO:0099513,polymeric cytoskeletal fiber,0.00943575,0.004477334,NA,0.011201694,0.002202799,NA
+CC,GO:0031252,cell leading edge,0.009945848,NA,0.035745995,0.002586221,NA,NA
+CC,GO:0000145,exocyst,0.010914398,NA,NA,NA,NA,NA
+CC,GO:1990752,microtubule end,0.010914398,0.049196394,NA,NA,NA,NA
+CC,GO:0030135,coated vesicle,0.012445314,NA,NA,NA,NA,NA
+CC,GO:0045240,alpha-ketoacid dehydrogenase complex,0.013113019,NA,NA,0.022197298,6.05e-6,NA
+CC,GO:0034708,methyltransferase complex,0.014676374,0.010839312,NA,NA,NA,NA
+CC,GO:0030864,cortical actin cytoskeleton,0.014828491,0.048044787,NA,NA,NA,NA
+CC,GO:0035097,histone methyltransferase complex,0.015969691,0.01218857,NA,NA,NA,NA
+CC,GO:0048471,perinuclear region of cytoplasm,0.016712512,NA,NA,4.4308e-4,5.46e-5,NA
+CC,GO:0016529,sarcoplasmic reticulum,0.019441275,0.015391339,NA,0.013163529,0.013496362,NA
+CC,GO:0002102,podosome,0.021809492,NA,NA,NA,NA,NA
+CC,GO:0045239,tricarboxylic acid cycle heteromeric enzyme complex,0.021809492,NA,NA,NA,2.12743e-4,NA
+CC,GO:0014069,postsynaptic density,0.022804625,NA,NA,NA,NA,NA
+CC,GO:0032279,asymmetric synapse,0.024692591,NA,NA,NA,NA,NA
+CC,GO:0098984,neuron to neuron synapse,0.024692591,NA,NA,NA,NA,NA
+CC,GO:0016528,sarcoplasm,0.024906697,0.019810618,NA,0.025761471,0.026365869,NA
+CC,GO:0030027,lamellipodium,0.025592584,0.019179379,NA,0.013124812,NA,NA
+CC,GO:0000151,ubiquitin ligase complex,0.02612611,NA,NA,NA,0.001586323,NA
+CC,GO:0030863,cortical cytoskeleton,0.026926178,NA,NA,NA,NA,NA
+CC,GO:0000123,histone acetyltransferase complex,0.028614384,NA,NA,NA,NA,NA
+CC,GO:0000164,protein phosphatase type 1 complex,0.032980615,NA,0.048087425,NA,NA,NA
+CC,GO:0005874,microtubule,0.039786743,0.012512048,NA,NA,0.005949403,NA
+CC,GO:0005802,trans-Golgi network,0.041116007,NA,NA,NA,NA,NA
+CC,GO:0031461,cullin-RING ubiquitin ligase complex,0.043196004,NA,NA,NA,NA,NA
+CC,GO:0099572,postsynaptic specialization,0.045532292,NA,NA,NA,NA,NA
+MF,GO:0003779,actin binding,2.87e-7,1.17827e-4,NA,3.24e-6,0.006563886,0.001717957
+MF,GO:0051015,actin filament binding,5.89e-5,0.033625109,NA,8.42008e-4,NA,0.00868219
+MF,GO:0004683,calcium/calmodulin-dependent protein kinase activity,2.11212e-4,0.001019004,3.26e-5,NA,NA,NA
+MF,GO:0005096,GTPase activator activity,2.853e-4,0.022764578,0.014570779,NA,0.008192588,NA
+MF,GO:0003729,mRNA binding,2.92794e-4,4.29e-5,7.55635e-4,6.25464e-4,0.001982464,0.045017157
+MF,GO:0106310,protein serine kinase activity,9.7366e-4,NA,NA,0.025606442,0.010740848,NA
+MF,GO:0008047,enzyme activator activity,0.001477335,0.009419503,0.04087564,NA,0.011828399,NA
+MF,GO:0052745,inositol phosphate phosphatase activity,0.003524238,NA,NA,NA,NA,NA
+MF,GO:0019206,nucleoside kinase activity,0.004561355,0.026362651,NA,NA,NA,NA
+MF,GO:0003712,transcription coregulator activity,0.004720332,0.009655699,NA,2.19479e-4,3.16e-6,NA
+MF,GO:0008374,O-acyltransferase activity,0.004748518,NA,NA,NA,0.010740848,NA
+MF,GO:0035091,phosphatidylinositol binding,0.004756706,3.5092e-4,5.17e-5,0.004518149,NA,NA
+MF,GO:0004712,protein serine/threonine/tyrosine kinase activity,0.006958322,0.005352467,NA,0.002433174,0.00224811,0.034140495
+MF,GO:0016176,superoxide-generating NADPH oxidase activator activity,0.007355085,NA,NA,NA,NA,NA
+MF,GO:0005516,calmodulin binding,0.007758929,0.001638008,5.86924e-4,NA,NA,NA
+MF,GO:0016706,2-oxoglutarate-dependent dioxygenase activity,0.00778899,NA,NA,0.027820319,0.047182028,NA
+MF,GO:0004521,RNA endonuclease activity,0.008008122,NA,0.027571619,NA,NA,NA
+MF,GO:0005085,guanyl-nucleotide exchange factor activity,0.008737711,NA,0.001786822,0.026991716,NA,NA
+MF,GO:0003746,translation elongation factor activity,0.009205491,0.027267253,NA,NA,NA,NA
+MF,GO:0004439,"phosphatidylinositol-4,5-bisphosphate 5-phosphatase activity",0.009316366,NA,NA,NA,NA,NA
+MF,GO:0030276,clathrin binding,0.009877455,0.007637213,NA,NA,NA,NA
+MF,GO:0031267,small GTPase binding,0.010016128,0.015815254,NA,0.003020936,NA,0.028682615
+MF,GO:0005543,phospholipid binding,0.011351057,0.011148128,2.81711e-4,NA,NA,NA
+MF,GO:0016791,phosphatase activity,0.011682937,0.002854595,NA,1.49e-5,0.001059607,NA
+MF,GO:0016893,endonuclease activity active with either ribo- or deoxyribonucleic acids and producing 5'-phosphomonoesters,0.012011206,NA,0.015110271,NA,NA,NA
+MF,GO:0051020,GTPase binding,0.012598595,0.019459604,NA,0.003530794,NA,0.035919723
+MF,GO:0019205,nucleobase-containing compound kinase activity,0.01306692,NA,NA,NA,NA,NA
+MF,GO:0003730,mRNA 3'-UTR binding,0.014073861,0.003095418,NA,NA,NA,NA
+MF,GO:0005546,"phosphatidylinositol-4,5-bisphosphate binding",0.016437015,NA,0.038237642,NA,NA,NA
+MF,GO:0008170,N-methyltransferase activity,0.018389856,NA,NA,NA,NA,NA
+MF,GO:0141052,histone H3 demethylase activity,0.019608299,NA,NA,NA,NA,NA
+MF,GO:1902936,phosphatidylinositol bisphosphate binding,0.020789508,0.01574319,0.022508015,0.020946505,NA,NA
+MF,GO:0032452,histone demethylase activity,0.021908307,NA,NA,NA,NA,NA
+MF,GO:0140457,protein demethylase activity,0.021908307,NA,NA,NA,NA,NA
+MF,GO:0035925,mRNA 3'-UTR AU-rich region binding,0.023359951,NA,NA,NA,NA,NA
+MF,GO:0015631,tubulin binding,0.024961772,5.66767e-4,NA,NA,NA,NA
+MF,GO:0106019,"phosphatidylinositol-4,5-bisphosphate phosphatase activity",0.027036559,NA,NA,NA,NA,NA
+MF,GO:0004721,phosphoprotein phosphatase activity,0.027756702,0.003298544,NA,3.12485e-4,0.006213298,NA
+MF,GO:0004540,RNA nuclease activity,0.02912317,NA,NA,NA,NA,NA
+MF,GO:0034595,phosphatidylinositol phosphate 5-phosphatase activity,0.031002771,NA,NA,NA,NA,NA
+MF,GO:0035064,methylated histone binding,0.032016776,NA,NA,NA,NA,NA
+MF,GO:0051539,4 iron 4 sulfur cluster binding,0.032016776,NA,NA,NA,NA,NA
+MF,GO:0016891,RNA endonuclease activity producing 5'-phosphomonoesters,0.032706428,NA,0.022423762,NA,NA,NA
+MF,GO:0140034,methylation-dependent protein binding,0.034443508,NA,NA,NA,NA,NA
+MF,GO:0140938,histone H3 methyltransferase activity,0.034443508,NA,NA,NA,0.028183868,NA
+MF,GO:1901981,phosphatidylinositol phosphate binding,0.037026884,0.003095418,0.041255817,0.002301184,NA,NA
+MF,GO:0008017,microtubule binding,0.039096523,3.20077e-4,NA,NA,NA,NA
+MF,GO:0005452,solute:inorganic anion antiporter activity,0.039794166,NA,NA,NA,NA,NA
+MF,GO:0016814,hydrolase activity acting on carbon-nitrogen (but not peptide) bonds in cyclic amidines,0.042520376,NA,NA,NA,NA,NA
+MF,GO:0016278,lysine N-methyltransferase activity,0.044359638,NA,NA,NA,NA,NA
+MF,GO:0016279,protein-lysine N-methyltransferase activity,0.044359638,NA,NA,NA,NA,NA
+MF,GO:0000049,tRNA binding,0.045267518,NA,0.016056168,NA,NA,NA
+MF,GO:0004176,ATP-dependent peptidase activity,0.045449543,0.040526526,0.012290753,NA,NA,NA
+MF,GO:0019136,deoxynucleoside kinase activity,0.045449543,0.040526526,NA,NA,NA,NA
+MF,GO:0051011,microtubule minus-end binding,0.045449543,0.040526526,NA,NA,NA,NA
+MF,GO:0016853,isomerase activity,0.045478459,NA,NA,NA,0.0058889499999999996,NA
+MF,GO:0034593,phosphatidylinositol bisphosphate phosphatase activity,0.046121287,NA,NA,NA,NA,NA
+MF,GO:0140030,modification-dependent protein binding,0.046257999,NA,NA,NA,8.96064e-4,NA
+BP,GO:0050905,neuromuscular process,NA,0.001403216,NA,0.0085473,0.001737911,NA
+BP,GO:0045944,positive regulation of transcription by RNA polymerase II,NA,0.001433048,0.042851154,NA,0.0022755,0.001973194
+BP,GO:0007033,vacuole organization,NA,0.001528312,NA,7.2e-6,1.12e-6,NA
+BP,GO:0005977,glycogen metabolic process,NA,0.003390152,NA,0.032741925,0.003035562,NA
+BP,GO:0044042,glucan metabolic process,NA,0.003390152,NA,0.032741925,0.003035562,NA
+BP,GO:0048844,artery morphogenesis,NA,0.004143605,0.048839056,NA,0.037533661,NA
+BP,GO:0002138,retinoic acid biosynthetic process,NA,0.004540164,NA,NA,NA,NA
+BP,GO:0006112,energy reserve metabolic process,NA,0.005272858,NA,NA,0.0078103240000000004,NA
+BP,GO:0016102,diterpenoid biosynthetic process,NA,0.005909662,NA,NA,NA,NA
+BP,GO:0000045,autophagosome assembly,NA,0.006105155,NA,0.00922676,1.82e-5,NA
+BP,GO:0006886,intracellular protein transport,NA,0.00694565,NA,0.042021833,0.001199955,NA
+BP,GO:1905037,autophagosome organization,NA,0.007011389,NA,0.005421842,8.5e-6,NA
+BP,GO:0006654,phosphatidic acid biosynthetic process,NA,0.007500262,NA,NA,NA,NA
+BP,GO:0034453,microtubule anchoring,NA,0.007500262,0.01982317,NA,NA,NA
+BP,GO:0046473,phosphatidic acid metabolic process,NA,0.007500262,NA,NA,NA,NA
+BP,GO:1902904,negative regulation of supramolecular fiber organization,NA,0.008015635,NA,0.007339575,NA,NA
+BP,GO:0032350,regulation of hormone metabolic process,NA,0.009319666,NA,NA,NA,NA
+BP,GO:0051494,negative regulation of cytoskeleton organization,NA,0.009719411,NA,0.012876412,NA,NA
+BP,GO:0005976,polysaccharide metabolic process,NA,0.009782058,NA,0.039352005,0.004655032,NA
+BP,GO:0060840,artery development,NA,0.009871104,NA,NA,0.043571147,NA
+BP,GO:0050773,regulation of dendrite development,NA,0.010431948,NA,NA,NA,NA
+BP,GO:1902414,protein localization to cell junction,NA,0.012031575,NA,NA,NA,NA
+BP,GO:0071375,cellular response to peptide hormone stimulus,NA,0.012392275,0.023923088,0.005421842,0.001139836,0.024106113
+BP,GO:0007520,myoblast fusion,NA,0.01342159,NA,NA,NA,NA
+BP,GO:0016197,endosomal transport,NA,0.014250185,NA,NA,NA,NA
+BP,GO:0006611,protein export from nucleus,NA,0.016206274,0.002767087,0.022028005,0.022218829,NA
+BP,GO:0016331,morphogenesis of embryonic epithelium,NA,0.016609371,NA,NA,NA,NA
+BP,GO:0008589,regulation of smoothened signaling pathway,NA,0.017268955,NA,NA,0.020877269,NA
+BP,GO:0008361,regulation of cell size,NA,0.017651877,NA,NA,NA,NA
+BP,GO:0003170,heart valve development,NA,0.0187807,NA,9.51481e-4,9.72162e-4,NA
+BP,GO:0000038,very long-chain fatty acid metabolic process,NA,0.018840688,NA,NA,NA,0.00285389
+BP,GO:0048010,vascular endothelial growth factor receptor signaling pathway,NA,0.018840688,NA,NA,NA,NA
+BP,GO:0048702,embryonic neurocranium morphogenesis,NA,0.018840688,NA,NA,NA,NA
+BP,GO:0016114,terpenoid biosynthetic process,NA,0.018990063,NA,NA,NA,NA
+BP,GO:0016239,positive regulation of macroautophagy,NA,0.018990063,NA,NA,NA,NA
+BP,GO:0042573,retinoic acid metabolic process,NA,0.018990063,NA,NA,NA,NA
+BP,GO:0048814,regulation of dendrite morphogenesis,NA,0.018990063,NA,NA,NA,NA
+BP,GO:0005978,glycogen biosynthetic process,NA,0.020907039,NA,0.045960856,0.01823699,NA
+BP,GO:0009250,glucan biosynthetic process,NA,0.020907039,NA,0.045960856,0.01823699,NA
+BP,GO:0010508,positive regulation of autophagy,NA,0.020907039,NA,0.020409334,NA,NA
+BP,GO:0097352,autophagosome maturation,NA,0.020907039,NA,NA,0.027925178,NA
+BP,GO:0060396,growth hormone receptor signaling pathway,NA,0.022021181,NA,NA,NA,NA
+BP,GO:0060416,response to growth hormone,NA,0.022021181,NA,NA,NA,NA
+BP,GO:0071378,cellular response to growth hormone stimulus,NA,0.022021181,NA,NA,NA,NA
+BP,GO:1902117,positive regulation of organelle assembly,NA,0.022021181,NA,NA,NA,NA
+BP,GO:0048762,mesenchymal cell differentiation,NA,0.022076455,NA,NA,0.013069646,NA
+BP,GO:0000768,syncytium formation by plasma membrane fusion,NA,0.023107034,NA,NA,NA,NA
+BP,GO:0006949,syncytium formation,NA,0.023107034,NA,NA,NA,NA
+BP,GO:0140253,cell-cell fusion,NA,0.023107034,NA,NA,NA,NA
+BP,GO:0060485,mesenchyme development,NA,0.023349885,NA,NA,NA,NA
+BP,GO:0009894,regulation of catabolic process,NA,0.023352975,NA,1.5067e-4,4.30504e-4,NA
+BP,GO:0048546,digestive tract morphogenesis,NA,0.023829314,NA,NA,NA,NA
+BP,GO:0001841,neural tube formation,NA,0.025442445,NA,NA,NA,NA
+BP,GO:0050918,positive chemotaxis,NA,0.028826096,NA,NA,NA,NA
+BP,GO:0072175,epithelial tube formation,NA,0.030282157,NA,NA,NA,NA
+BP,GO:0031331,positive regulation of cellular catabolic process,NA,0.030525226,NA,0.00892273,NA,NA
+BP,GO:0035329,hippo signaling,NA,0.030525226,0.024645012,NA,NA,NA
+BP,GO:0030837,negative regulation of actin filament polymerization,NA,0.032090989,NA,0.011036807,0.046588953,NA
+BP,GO:0001755,neural crest cell migration,NA,0.032265922,NA,NA,NA,NA
+BP,GO:0001838,embryonic epithelial tube formation,NA,0.033274777,NA,NA,NA,NA
+BP,GO:0014003,oligodendrocyte development,NA,0.033274777,NA,NA,NA,NA
+BP,GO:0014033,neural crest cell differentiation,NA,0.033359851,NA,0.027753914,0.00733118,NA
+BP,GO:0006913,nucleocytoplasmic transport,NA,0.033590594,NA,2.66336e-4,1.26863e-4,NA
+BP,GO:0051169,nuclear transport,NA,0.033590594,NA,2.66336e-4,1.26863e-4,NA
+BP,GO:0021545,cranial nerve development,NA,0.033968665,NA,NA,NA,NA
+BP,GO:0032272,negative regulation of protein polymerization,NA,0.033968665,NA,0.013557772,NA,NA
+BP,GO:0090497,mesenchymal cell migration,NA,0.034952352,NA,NA,0.023971909,NA
+BP,GO:0031647,regulation of protein stability,NA,0.036359252,0.01594316,NA,0.002335314,NA
+BP,GO:0035924,cellular response to vascular endothelial growth factor stimulus,NA,0.036613873,NA,NA,NA,NA
+BP,GO:0044804,nucleophagy,NA,0.036613873,NA,0.017075567,0.00503828,NA
+BP,GO:0045879,negative regulation of smoothened signaling pathway,NA,0.036613873,NA,NA,NA,NA
+BP,GO:0044242,cellular lipid catabolic process,NA,0.038840545,NA,NA,0.006005832,NA
+BP,GO:0021915,neural tube development,NA,0.038916893,NA,NA,NA,NA
+BP,GO:0014015,positive regulation of gliogenesis,NA,0.039366795,NA,NA,NA,NA
+BP,GO:0035479,angioblast cell migration from lateral mesoderm to midline,NA,0.039366795,NA,NA,NA,NA
+BP,GO:0050926,regulation of positive chemotaxis,NA,0.039366795,NA,NA,NA,NA
+BP,GO:0050927,positive regulation of positive chemotaxis,NA,0.039366795,NA,NA,NA,NA
+BP,GO:0050930,induction of positive chemotaxis,NA,0.039366795,NA,NA,NA,NA
+BP,GO:0060846,blood vessel endothelial cell fate commitment,NA,0.039366795,NA,NA,NA,NA
+BP,GO:1901739,regulation of myoblast fusion,NA,0.039366795,NA,NA,NA,NA
+BP,GO:1904396,regulation of neuromuscular junction development,NA,0.039366795,NA,NA,NA,NA
+BP,GO:0051651,maintenance of location in cell,NA,0.040021827,NA,NA,0.0123594,NA
+BP,GO:0032507,maintenance of protein location in cell,NA,0.040870755,NA,NA,NA,NA
+BP,GO:0048639,positive regulation of developmental growth,NA,0.040870755,NA,NA,NA,NA
+BP,GO:1990542,mitochondrial transmembrane transport,NA,0.041040409,NA,0.004863417,0.002379597,NA
+BP,GO:0048813,dendrite morphogenesis,NA,0.042363708,NA,NA,NA,NA
+BP,GO:0006839,mitochondrial transport,NA,0.044023128,NA,0.005546883,0.005704838,NA
+BP,GO:0000413,protein peptidyl-prolyl isomerization,NA,0.045365345,NA,NA,NA,NA
+BP,GO:0001964,startle response,NA,0.045365345,NA,NA,NA,NA
+BP,GO:0086001,cardiac muscle cell action potential,NA,0.045365345,NA,NA,NA,NA
+BP,GO:0035148,tube formation,NA,0.046717635,NA,NA,NA,NA
+BP,GO:0008090,retrograde axonal transport,NA,0.047106047,NA,NA,NA,NA
+BP,GO:0030242,autophagy of peroxisome,NA,0.047106047,NA,NA,NA,NA
+BP,GO:0039529,RIG-I signaling pathway,NA,0.047106047,NA,NA,NA,NA
+BP,GO:0039532,negative regulation of cytoplasmic pattern recognition receptor signaling pathway,NA,0.047106047,NA,NA,NA,NA
+BP,GO:0039535,regulation of RIG-I signaling pathway,NA,0.047106047,NA,NA,NA,NA
+BP,GO:0042693,muscle cell fate commitment,NA,0.047106047,NA,NA,0.036758282,NA
+BP,GO:0048041,focal adhesion assembly,NA,0.047106047,NA,NA,NA,NA
+BP,GO:0048897,myelination of lateral line nerve axons,NA,0.047106047,NA,NA,NA,NA
+BP,GO:0048931,posterior lateral line nerve glial cell differentiation,NA,0.047106047,NA,NA,NA,NA
+BP,GO:0048932,myelination of posterior lateral line nerve axons,NA,0.047106047,NA,NA,NA,NA
+BP,GO:0048938,lateral line nerve glial cell morphogenesis involved in differentiation,NA,0.047106047,NA,NA,NA,NA
+BP,GO:0048941,posterior lateral line nerve glial cell development,NA,0.047106047,NA,NA,NA,NA
+BP,GO:0048942,posterior lateral line nerve glial cell morphogenesis involved in differentiation,NA,0.047106047,NA,NA,NA,NA
+BP,GO:0051124,synaptic assembly at neuromuscular junction,NA,0.047106047,NA,NA,NA,NA
+BP,GO:0051893,regulation of focal adhesion assembly,NA,0.047106047,NA,NA,NA,NA
+BP,GO:0090109,regulation of cell-substrate junction assembly,NA,0.047106047,NA,NA,NA,NA
+BP,GO:0150116,regulation of cell-substrate junction organization,NA,0.047106047,NA,NA,NA,NA
+BP,GO:0010970,transport along microtubule,NA,0.049052687,NA,NA,NA,NA
+BP,GO:0072330,monocarboxylic acid biosynthetic process,NA,0.049052687,NA,0.003603777,0.014008362,NA
+BP,GO:0031333,negative regulation of protein-containing complex assembly,NA,0.049094603,NA,0.009960526,NA,NA
+BP,GO:0050879,multicellular organismal movement,NA,0.049124624,NA,1.1e-5,2.01234e-4,NA
+BP,GO:0050881,musculoskeletal movement,NA,0.049124624,NA,1.1e-5,2.01234e-4,NA
+CC,GO:0030427,site of polarized growth,NA,0.002202569,0.015495846,NA,NA,NA
+CC,GO:0071565,nBAF complex,NA,0.005790051,NA,NA,NA,NA
+CC,GO:0036464,cytoplasmic ribonucleoprotein granule,NA,0.006702306,NA,NA,NA,NA
+CC,GO:0035770,ribonucleoprotein granule,NA,0.00943707,0.042857892,NA,0.016271472,NA
+CC,GO:0034045,phagophore assembly site membrane,NA,0.013401039,NA,NA,0.013768955,NA
+CC,GO:0044665,MLL1/2 complex,NA,0.013401039,NA,NA,NA,NA
+CC,GO:0071339,MLL1 complex,NA,0.013401039,NA,NA,NA,NA
+CC,GO:0005667,transcription regulator complex,NA,0.019220069,NA,NA,3.97525e-4,0.003984508
+CC,GO:0005770,late endosome,NA,0.021126775,NA,NA,NA,NA
+CC,GO:0005881,cytoplasmic microtubule,NA,0.023175441,NA,NA,NA,NA
+CC,GO:0005769,early endosome,NA,0.024339311,NA,NA,NA,NA
+CC,GO:0005871,kinesin complex,NA,0.024987938,NA,NA,0.018285097,NA
+CC,GO:0010494,cytoplasmic stress granule,NA,0.024987938,NA,0.036984787,0.037778206,NA
+CC,GO:0016514,SWI/SNF complex,NA,0.040125355,NA,NA,NA,NA
+CC,GO:0030688,preribosome small subunit precursor,NA,0.046482616,NA,NA,NA,NA
+CC,GO:0000407,phagophore assembly site,NA,0.049196394,NA,0.015328799,0.001298139,NA
+MF,GO:0140994,RNA polymerase II CTD heptapeptide repeat modifying activity,NA,0.001934491,0.034303154,0.002787534,0.046796214,NA
+MF,GO:0008187,poly-pyrimidine tract binding,NA,0.004747013,NA,NA,NA,NA
+MF,GO:0043130,ubiquitin binding,NA,0.008525281,NA,0.00125003,0.006041559,0.037366329
+MF,GO:0042578,phosphoric ester hydrolase activity,NA,0.009324912,NA,7.19e-5,0.002200163,NA
+MF,GO:0008307,structural constituent of muscle,NA,0.009733074,0.023746991,0.013045575,NA,NA
+MF,GO:0019211,phosphatase activator activity,NA,0.009733074,NA,NA,NA,NA
+MF,GO:0072542,protein phosphatase activator activity,NA,0.009733074,NA,NA,NA,NA
+MF,GO:0080025,"phosphatidylinositol-3,5-bisphosphate binding",NA,0.009733074,NA,NA,NA,NA
+MF,GO:0019903,protein phosphatase binding,NA,0.011632891,0.036018156,0.027411158,NA,NA
+MF,GO:0008139,nuclear localization sequence binding,NA,0.011874126,NA,0.048461873,NA,NA
+MF,GO:0019894,kinesin binding,NA,0.011874126,NA,NA,NA,NA
+MF,GO:0051010,microtubule plus-end binding,NA,0.011874126,0.002010902,NA,NA,NA
+MF,GO:0005227,calcium-activated cation channel activity,NA,0.014263917,NA,NA,NA,NA
+MF,GO:0003724,RNA helicase activity,NA,0.014878407,NA,0.004905093,0.001973114,NA
+MF,GO:0008186,ATP-dependent activity acting on RNA,NA,0.014878407,NA,NA,NA,NA
+MF,GO:0003727,single-stranded RNA binding,NA,0.018367403,NA,NA,NA,NA
+MF,GO:0022839,monoatomic ion-gated channel activity,NA,0.019802461,NA,NA,NA,NA
+MF,GO:0008138,protein tyrosine/serine/threonine phosphatase activity,NA,0.019849003,NA,NA,0.012228931,NA
+MF,GO:0032182,ubiquitin-like protein binding,NA,0.020244035,NA,5.56658e-4,0.011401502,NA
+MF,GO:0030374,nuclear receptor coactivator activity,NA,0.022954653,NA,NA,NA,NA
+MF,GO:0016411,acylglycerol O-acyltransferase activity,NA,0.026362651,NA,NA,NA,NA
+MF,GO:0008135,translation factor activity RNA binding,NA,0.031754882,NA,NA,NA,NA
+MF,GO:0019902,phosphatase binding,NA,0.036072834,NA,0.030999563,NA,NA
+MF,GO:0015296,monoatomic anion:monoatomic cation symporter activity,NA,0.037995905,NA,NA,NA,NA
+MF,GO:0004843,cysteine-type deubiquitinase activity,NA,0.040158946,NA,0.013022862,6.37434e-4,NA
+MF,GO:0070840,dynein complex binding,NA,0.040526526,NA,NA,NA,NA
+MF,GO:0003713,transcription coactivator activity,NA,0.041106968,NA,0.006305516,6.72e-6,NA
+MF,GO:0045182,translation regulator activity,NA,0.044486247,NA,2.99506e-4,1.27e-5,NA
+MF,GO:0090079,translation regulator activity nucleic acid binding,NA,0.047069168,NA,NA,NA,NA
+MF,GO:0042826,histone deacetylase binding,NA,0.047183715,NA,NA,NA,NA
+MF,GO:0004169,dolichyl-phosphate-mannose-protein mannosyltransferase activity,NA,0.048477529,NA,NA,NA,NA
+MF,GO:0004523,RNA-DNA hybrid ribonuclease activity,NA,0.048477529,0.014851422,NA,NA,NA
+BP,GO:0006399,tRNA metabolic process,NA,NA,7.06053e-4,NA,0.004418514,NA
+BP,GO:0043414,macromolecule methylation,NA,NA,0.001416047,NA,NA,NA
+BP,GO:0009451,RNA modification,NA,NA,0.003124293,NA,NA,NA
+BP,GO:0030488,tRNA methylation,NA,NA,0.003471012,NA,NA,NA
+BP,GO:0032868,response to insulin,NA,NA,0.006746496,0.004861316,0.002041892,NA
+BP,GO:0141188,nucleic acid catabolic process,NA,NA,0.006915061,0.046594969,NA,NA
+BP,GO:0140053,mitochondrial gene expression,NA,NA,0.008501475,0.005659275,1.42e-6,NA
+BP,GO:1903311,regulation of mRNA metabolic process,NA,NA,0.008856622,NA,NA,NA
+BP,GO:0034655,nucleobase-containing compound catabolic process,NA,NA,0.009154825,0.012048304,NA,NA
+BP,GO:0060341,regulation of cellular localization,NA,NA,0.010083899,NA,NA,NA
+BP,GO:0060993,kidney morphogenesis,NA,NA,0.010191181,NA,NA,NA
+BP,GO:0007169,cell surface receptor protein tyrosine kinase signaling pathway,NA,NA,0.011931864,NA,NA,NA
+BP,GO:0036372,opsin transport,NA,NA,0.014293692,NA,NA,NA
+BP,GO:0071900,regulation of protein serine/threonine kinase activity,NA,NA,0.014293692,NA,NA,NA
+BP,GO:0006891,intra-Golgi vesicle-mediated transport,NA,NA,0.016736251,NA,NA,NA
+BP,GO:0009086,methionine biosynthetic process,NA,NA,0.01982317,0.007305144,0.036758282,NA
+BP,GO:0032869,cellular response to insulin stimulus,NA,NA,0.019987584,0.001472005,5.22953e-4,NA
+BP,GO:0006479,protein methylation,NA,NA,0.021278948,NA,NA,NA
+BP,GO:0008213,protein alkylation,NA,NA,0.021278948,NA,NA,NA
+BP,GO:0006520,amino acid metabolic process,NA,NA,0.021917369,4.7e-5,1.41e-5,NA
+BP,GO:0001510,RNA methylation,NA,NA,0.022225777,NA,NA,NA
+BP,GO:0048920,posterior lateral line neuromast primordium migration,NA,NA,0.022928201,NA,NA,NA
+BP,GO:0008286,insulin receptor signaling pathway,NA,NA,0.024645012,7.75015e-4,7.89964e-4,NA
+BP,GO:0048854,brain morphogenesis,NA,NA,0.024645012,NA,0.033583473,NA
+BP,GO:0048883,neuromast primordium migration,NA,NA,0.024645012,NA,NA,NA
+BP,GO:0050777,negative regulation of immune response,NA,NA,0.026097125,NA,NA,NA
+BP,GO:0009066,aspartate family amino acid metabolic process,NA,NA,0.028280963,1.2493e-4,0.005022587,NA
+BP,GO:0043409,negative regulation of MAPK cascade,NA,NA,0.028280963,NA,0.001648273,NA
+BP,GO:0006555,methionine metabolic process,NA,NA,0.029495627,0.004566548,0.022218829,NA
+BP,GO:0016445,somatic diversification of immunoglobulins,NA,NA,0.029495627,NA,NA,NA
+BP,GO:0055064,chloride ion homeostasis,NA,NA,0.029495627,NA,NA,NA
+BP,GO:0002200,somatic diversification of immune receptors,NA,NA,0.033059432,NA,NA,NA
+BP,GO:0006401,RNA catabolic process,NA,NA,0.033245504,NA,NA,NA
+BP,GO:1990778,protein localization to cell periphery,NA,NA,0.034497727,NA,NA,NA
+BP,GO:0000097,sulfur amino acid biosynthetic process,NA,NA,0.03678198,0.013441191,NA,NA
+BP,GO:0002377,immunoglobulin production,NA,NA,0.03678198,NA,NA,NA
+BP,GO:0006308,DNA catabolic process,NA,NA,0.03678198,0.049283928,NA,NA
+BP,GO:0048263,determination of dorsal identity,NA,NA,0.03678198,NA,NA,NA
+BP,GO:0048898,anterior lateral line system development,NA,NA,0.03678198,NA,NA,NA
+BP,GO:0051056,regulation of small GTPase mediated signal transduction,NA,NA,0.037610289,0.001983357,1.18821e-4,NA
+BP,GO:0000963,mitochondrial RNA processing,NA,NA,0.040656884,NA,0.002895307,NA
+BP,GO:0009067,aspartate family amino acid biosynthetic process,NA,NA,0.040656884,3.10486e-4,0.00836258,NA
+BP,GO:0055081,monoatomic anion homeostasis,NA,NA,0.040656884,NA,NA,NA
+BP,GO:0070873,regulation of glycogen metabolic process,NA,NA,0.040656884,NA,NA,NA
+BP,GO:0048167,regulation of synaptic plasticity,NA,NA,0.04079073,NA,NA,NA
+BP,GO:0032543,mitochondrial translation,NA,NA,0.043105491,0.005140752,1.88746e-4,NA
+BP,GO:0032881,regulation of polysaccharide metabolic process,NA,NA,0.044677926,NA,NA,NA
+BP,GO:0031348,negative regulation of defense response,NA,NA,0.045484627,0.044238779,NA,NA
+BP,GO:0055123,digestive system development,NA,NA,0.046108168,NA,NA,NA
+BP,GO:1901605,alpha-amino acid metabolic process,NA,NA,0.047180102,8.3e-6,3.1531e-4,0.048412922
+BP,GO:0072698,protein localization to microtubule cytoskeleton,NA,NA,0.048839056,NA,NA,NA
+CC,GO:0099738,cell cortex region,NA,NA,0.005025433,NA,NA,NA
+CC,GO:0045178,basal part of cell,NA,NA,0.014199275,NA,NA,NA
+CC,GO:0097038,perinuclear endoplasmic reticulum,NA,NA,0.029028239,NA,NA,NA
+CC,GO:0032587,ruffle membrane,NA,NA,0.03557695,0.015295015,NA,NA
+CC,GO:0098800,inner mitochondrial membrane protein complex,NA,NA,0.037718361,0.003253404,0.001087489,NA
+CC,GO:0001726,ruffle,NA,NA,0.037778786,0.025047892,NA,NA
+CC,GO:0030426,growth cone,NA,NA,0.039924209,NA,NA,NA
+MF,GO:0016799,hydrolase activity hydrolyzing N-glycosyl compounds,NA,NA,0.00170164,NA,NA,NA
+MF,GO:0000993,RNA polymerase II complex binding,NA,NA,0.006222552,0.023177762,0.022057649,NA
+MF,GO:0001098,basal transcription machinery binding,NA,NA,0.011089571,0.006631101,0.006226003,NA
+MF,GO:0001099,basal RNA polymerase II transcription machinery binding,NA,NA,0.011089571,0.006631101,0.006226003,NA
+MF,GO:0043175,RNA polymerase core enzyme binding,NA,NA,0.012263548,0.035112121,0.03338308,NA
+MF,GO:0032934,sterol binding,NA,NA,0.015110271,NA,NA,NA
+MF,GO:0070063,RNA polymerase binding,NA,NA,0.016198788,NA,NA,NA
+MF,GO:0004519,endonuclease activity,NA,NA,0.027601406,NA,NA,NA
+MF,GO:0004713,protein tyrosine kinase activity,NA,NA,0.028205213,0.006223013,NA,0.042555811
+MF,GO:0004518,nuclease activity,NA,NA,0.028292981,NA,NA,NA
+MF,GO:0015174,basic amino acid transmembrane transporter activity,NA,NA,0.030612094,NA,NA,NA
+MF,GO:0016722,oxidoreductase activity acting on metal ions,NA,NA,0.030612094,NA,NA,NA
+MF,GO:0015485,cholesterol binding,NA,NA,0.031785575,NA,0.024036159,NA
+MF,GO:0003697,single-stranded DNA binding,NA,NA,0.039588123,NA,NA,NA
+MF,GO:0004467,long-chain fatty acid-CoA ligase activity,NA,NA,0.046327968,NA,NA,NA
+CC,GO:0005840,ribosome,NA,NA,NA,4.0299999999999997e-35,3.61e-19,1.57e-16
+MF,GO:0003735,structural constituent of ribosome,NA,NA,NA,7.159999999999999e-35,4.19e-17,1.56e-18
+CC,GO:0044391,ribosomal subunit,NA,NA,NA,2.27e-32,2.29e-16,2.74e-16
+CC,GO:0022626,cytosolic ribosome,NA,NA,NA,8.48e-32,1.2e-8,3.0900000000000003e-21
+CC,GO:0022625,cytosolic large ribosomal subunit,NA,NA,NA,3.68e-24,2.74e-7,1.03e-15
+BP,GO:0006412,translation,NA,NA,NA,1.32e-22,2.6e-17,7.35e-8
+CC,GO:0015934,large ribosomal subunit,NA,NA,NA,9.690000000000001e-21,2.7e-11,3.38e-10
+CC,GO:0015935,small ribosomal subunit,NA,NA,NA,1.59e-12,9.7e-7,1.15e-6
+CC,GO:0022627,cytosolic small ribosomal subunit,NA,NA,NA,5.76e-11,0.0026394,2.03e-7
+BP,GO:0061061,muscle structure development,NA,NA,NA,2.98e-10,2.25e-12,0.011623186
+BP,GO:0016053,organic acid biosynthetic process,NA,NA,NA,1.1e-9,8.5e-5,NA
+BP,GO:0046394,carboxylic acid biosynthetic process,NA,NA,NA,4.56e-9,2.30434e-4,NA
+BP,GO:0170034,L-amino acid biosynthetic process,NA,NA,NA,1.35e-8,6.96e-5,NA
+BP,GO:0170038,proteinogenic amino acid biosynthetic process,NA,NA,NA,1.35e-8,6.96e-5,NA
+BP,GO:0002181,cytoplasmic translation,NA,NA,NA,1.41e-8,1.07e-5,0.003470243
+CC,GO:0005838,proteasome regulatory particle,NA,NA,NA,1.86e-8,2.17e-7,NA
+BP,GO:0044283,small molecule biosynthetic process,NA,NA,NA,2.89e-8,9.57e-5,NA
+BP,GO:1901607,alpha-amino acid biosynthetic process,NA,NA,NA,4.87e-8,1.31281e-4,NA
+BP,GO:0008652,amino acid biosynthetic process,NA,NA,NA,9.24e-8,4.07783e-4,NA
+CC,GO:0005740,mitochondrial envelope,NA,NA,NA,1.06e-7,8.06e-15,0.01099337
+CC,GO:0031966,mitochondrial membrane,NA,NA,NA,2.06e-7,5.68e-14,0.014549804
+CC,GO:0022624,proteasome accessory complex,NA,NA,NA,4.02e-7,4.19e-7,NA
+BP,GO:0030198,extracellular matrix organization,NA,NA,NA,1.65e-6,1.56e-7,0.033590727
+BP,GO:0043062,extracellular structure organization,NA,NA,NA,1.65e-6,1.56e-7,0.033590727
+BP,GO:0045229,external encapsulating structure organization,NA,NA,NA,2.03e-6,1.98e-7,0.034826583
+CC,GO:0005743,mitochondrial inner membrane,NA,NA,NA,2.17e-6,1.87e-13,0.02919202
+BP,GO:0170039,proteinogenic amino acid metabolic process,NA,NA,NA,2.58e-6,6.12474e-4,0.041812712
+CC,GO:0019866,organelle inner membrane,NA,NA,NA,2.86e-6,1.22e-12,0.047815557
+CC,GO:1905368,peptidase complex,NA,NA,NA,3.18e-6,1.19e-6,NA
+CC,GO:0000502,proteasome complex,NA,NA,NA,3.34e-6,6.32e-8,NA
+CC,GO:0098798,mitochondrial protein-containing complex,NA,NA,NA,5.76e-6,2.64e-11,NA
+BP,GO:0006941,striated muscle contraction,NA,NA,NA,5.77e-6,1.57e-7,NA
+BP,GO:0170033,L-amino acid metabolic process,NA,NA,NA,6.77e-6,6.30016e-4,0.049128367
+CC,GO:0005773,vacuole,NA,NA,NA,7.32e-6,0.003629063,NA
+CC,GO:1905369,endopeptidase complex,NA,NA,NA,1.19e-5,1.26e-5,NA
+BP,GO:0055086,nucleobase-containing small molecule metabolic process,NA,NA,NA,2.55e-5,0.010245546,NA
+BP,GO:0003009,skeletal muscle contraction,NA,NA,NA,2.68e-5,4.99948e-4,NA
+CC,GO:0000313,organellar ribosome,NA,NA,NA,3.61e-5,6.42e-10,NA
+CC,GO:0005761,mitochondrial ribosome,NA,NA,NA,3.61e-5,6.42e-10,NA
+CC,GO:0000323,lytic vacuole,NA,NA,NA,3.61e-5,NA,NA
+MF,GO:0019843,rRNA binding,NA,NA,NA,4.76e-5,0.013625171,0.003191628
+MF,GO:0016811,"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides",NA,NA,NA,5.21e-5,0.004413033,0.018585421
+CC,GO:0005764,lysosome,NA,NA,NA,5.54e-5,NA,NA
+BP,GO:0043632,modification-dependent macromolecule catabolic process,NA,NA,NA,5.76e-5,1.02e-11,NA
+MF,GO:0016810,"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds",NA,NA,NA,6.73e-5,0.006296015,NA
+BP,GO:0030099,myeloid cell differentiation,NA,NA,NA,8.85e-5,1.66222e-4,2.00002e-4
+MF,GO:0008234,cysteine-type peptidase activity,NA,NA,NA,8.92e-5,0.00634901,NA
+BP,GO:0048871,multicellular organismal-level homeostasis,NA,NA,NA,9.09e-5,0.002782519,1.39666e-4
+BP,GO:0006753,nucleoside phosphate metabolic process,NA,NA,NA,9.32e-5,0.015087689,NA
+BP,GO:0009084,glutamine family amino acid biosynthetic process,NA,NA,NA,9.72e-5,6.24664e-4,NA
+BP,GO:0048771,tissue remodeling,NA,NA,NA,1.02647e-4,NA,NA
+MF,GO:0051082,unfolded protein binding,NA,NA,NA,1.133e-4,1.23e-5,NA
+BP,GO:0019941,modification-dependent protein catabolic process,NA,NA,NA,1.14447e-4,2.99e-11,NA
+BP,GO:0032101,regulation of response to external stimulus,NA,NA,NA,1.17742e-4,0.042781325,6.51e-5
+MF,GO:0019842,vitamin binding,NA,NA,NA,1.18242e-4,0.002062629,NA
+BP,GO:1903131,mononuclear cell differentiation,NA,NA,NA,1.21991e-4,0.010513359,NA
+MF,GO:0043021,ribonucleoprotein complex binding,NA,NA,NA,1.28173e-4,3.99e-5,NA
+BP,GO:0003012,muscle system process,NA,NA,NA,1.31906e-4,2.68e-6,NA
+BP,GO:0006511,ubiquitin-dependent protein catabolic process,NA,NA,NA,1.49158e-4,7.79e-11,NA
+MF,GO:0031406,carboxylic acid binding,NA,NA,NA,1.50394e-4,0.001652524,NA
+MF,GO:0004722,protein serine/threonine phosphatase activity,NA,NA,NA,1.64389e-4,0.003196351,NA
+MF,GO:0051087,protein-folding chaperone binding,NA,NA,NA,1.66828e-4,1.46583e-4,0.022637366
+MF,GO:0017018,myosin phosphatase activity,NA,NA,NA,1.71772e-4,8.6001e-4,NA
+BP,GO:0042274,ribosomal small subunit biogenesis,NA,NA,NA,1.74503e-4,0.046354862,0.014649669
+BP,GO:0060048,cardiac muscle contraction,NA,NA,NA,1.7759e-4,1.45e-6,NA
+BP,GO:0007005,mitochondrion organization,NA,NA,NA,2.03144e-4,3.77964e-4,NA
+BP,GO:0050853,B cell receptor signaling pathway,NA,NA,NA,2.0532e-4,NA,NA
+MF,GO:0004715,non-membrane spanning protein tyrosine kinase activity,NA,NA,NA,2.21336e-4,NA,0.037587855
+BP,GO:0048741,skeletal muscle fiber development,NA,NA,NA,2.39392e-4,9.87e-5,0.039255166
+BP,GO:0080134,regulation of response to stress,NA,NA,NA,2.43784e-4,0.005440023,0.001078878
+CC,GO:0062023,collagen-containing extracellular matrix,NA,NA,NA,2.4386e-4,1.14e-5,NA
+BP,GO:0006936,muscle contraction,NA,NA,NA,2.46126e-4,2.67e-5,NA
+BP,GO:0006457,protein folding,NA,NA,NA,2.46597e-4,1.24e-6,0.007637629
+MF,GO:0003714,transcription corepressor activity,NA,NA,NA,2.62573e-4,5.05869e-4,NA
+BP,GO:0006413,translational initiation,NA,NA,NA,2.83798e-4,7.9e-6,NA
+CC,GO:0008540,"proteasome regulatory particle, base subcomplex",NA,NA,NA,2.88675e-4,2.94584e-4,NA
+MF,GO:0008237,metallopeptidase activity,NA,NA,NA,2.99532e-4,1.36e-7,NA
+MF,GO:0004869,cysteine-type endopeptidase inhibitor activity,NA,NA,NA,3.00289e-4,NA,NA
+MF,GO:0042805,actinin binding,NA,NA,NA,3.00289e-4,0.00767581,0.022323613
+BP,GO:1903034,regulation of response to wounding,NA,NA,NA,3.01632e-4,NA,NA
+BP,GO:0014904,myotube cell development,NA,NA,NA,3.07748e-4,5e-5,0.041503556
+CC,GO:0045335,phagocytic vesicle,NA,NA,NA,3.07872e-4,NA,NA
+BP,GO:0009117,nucleotide metabolic process,NA,NA,NA,3.39387e-4,0.011788185,NA
+MF,GO:0140662,ATP-dependent protein folding chaperone,NA,NA,NA,4.30869e-4,0.010533573,NA
+BP,GO:0002521,leukocyte differentiation,NA,NA,NA,4.39964e-4,0.03648137,NA
+BP,GO:0060284,regulation of cell development,NA,NA,NA,4.53523e-4,0.015907605,0.012202616
+BP,GO:0006606,protein import into nucleus,NA,NA,NA,4.61408e-4,0.00348459,NA
+BP,GO:0031101,fin regeneration,NA,NA,NA,4.72255e-4,2.11755e-4,NA
+CC,GO:0030312,external encapsulating structure,NA,NA,NA,4.86983e-4,7.93e-5,NA
+CC,GO:0031012,extracellular matrix,NA,NA,NA,4.86983e-4,7.93e-5,NA
+MF,GO:0003743,translation initiation factor activity,NA,NA,NA,4.95151e-4,2.13e-6,NA
+BP,GO:0048872,homeostasis of number of cells,NA,NA,NA,5.0225e-4,5.25399e-4,2.85008e-4
+BP,GO:0051604,protein maturation,NA,NA,NA,5.22134e-4,2.26859e-4,NA
+BP,GO:0071826,protein-RNA complex organization,NA,NA,NA,5.30692e-4,5.82e-5,NA
+BP,GO:1902532,negative regulation of intracellular signal transduction,NA,NA,NA,5.31066e-4,4.49e-5,NA
+MF,GO:0008135,"translation factor activity, RNA binding",NA,NA,NA,5.65654e-4,2.06e-5,NA
+MF,GO:0005200,structural constituent of cytoskeleton,NA,NA,NA,6.00768e-4,0.001491995,NA
+BP,GO:0051170,import into nucleus,NA,NA,NA,6.3401e-4,0.004499005,NA
+MF,GO:0016627,"oxidoreductase activity, acting on the CH-CH group of donors",NA,NA,NA,6.37123e-4,0.003626412,NA
+BP,GO:2000026,regulation of multicellular organismal development,NA,NA,NA,6.64019e-4,7.12813e-4,0.014831473
+MF,GO:0003995,acyl-CoA dehydrogenase activity,NA,NA,NA,6.82096e-4,6.44339e-4,NA
+MF,GO:0052890,"oxidoreductase activity, acting on the CH-CH group of donors, with a flavin as acceptor",NA,NA,NA,6.82096e-4,6.44339e-4,NA
+BP,GO:0010498,proteasomal protein catabolic process,NA,NA,NA,7.18494e-4,7.36e-9,NA
+MF,GO:0090079,"translation regulator activity, nucleic acid binding",NA,NA,NA,7.24005e-4,3.07e-5,NA
+MF,GO:0140142,nucleocytoplasmic carrier activity,NA,NA,NA,7.38041e-4,0.02986058,NA
+BP,GO:0030098,lymphocyte differentiation,NA,NA,NA,7.80637e-4,0.00429671,NA
+BP,GO:0034504,protein localization to nucleus,NA,NA,NA,7.80637e-4,0.001912048,NA
+MF,GO:0019783,ubiquitin-like protein peptidase activity,NA,NA,NA,8.09251e-4,6.18e-5,NA
+MF,GO:0044183,protein folding chaperone,NA,NA,NA,8.15437e-4,0.011410513,NA
+BP,GO:1904888,cranial skeletal system development,NA,NA,NA,8.5443e-4,0.002310909,0.010921919
+BP,GO:0042246,tissue regeneration,NA,NA,NA,8.90417e-4,9.28146e-4,0.007637629
+MF,GO:0008238,exopeptidase activity,NA,NA,NA,9.14109e-4,1.44746e-4,NA
+BP,GO:0097178,ruffle assembly,NA,NA,NA,0.001022152,NA,NA
+BP,GO:0022618,protein-RNA complex assembly,NA,NA,NA,0.001022265,1.18821e-4,NA
+BP,GO:0031099,regeneration,NA,NA,NA,0.001043128,2.15991e-4,0.01434046
+BP,GO:0019693,ribose phosphate metabolic process,NA,NA,NA,0.001074505,NA,NA
+CC,GO:0005759,mitochondrial matrix,NA,NA,NA,0.001110167,8.1e-12,NA
+BP,GO:0006470,protein dephosphorylation,NA,NA,NA,0.001130687,NA,NA
+BP,GO:0007264,small GTPase-mediated signal transduction,NA,NA,NA,0.001139974,0.025223641,NA
+BP,GO:0009266,response to temperature stimulus,NA,NA,NA,0.0011515,1.4336e-4,0.016066352
+BP,GO:0051246,regulation of protein metabolic process,NA,NA,NA,0.001159156,7.2e-5,NA
+BP,GO:0007040,lysosome organization,NA,NA,NA,0.001180408,NA,NA
+BP,GO:0080171,lytic vacuole organization,NA,NA,NA,0.001180408,NA,NA
+BP,GO:0072331,signal transduction by p53 class mediator,NA,NA,NA,0.001208474,0.00888932,0.001202032
+BP,GO:0009968,negative regulation of signal transduction,NA,NA,NA,0.001214148,3.08e-6,NA
+BP,GO:0003171,atrioventricular valve development,NA,NA,NA,0.001228655,3.10195e-4,NA
+BP,GO:0072332,intrinsic apoptotic signaling pathway by p53 class mediator,NA,NA,NA,0.001228655,0.036387175,4.83355e-4
+CC,GO:0000314,organellar small ribosomal subunit,NA,NA,NA,0.001236775,6.55e-6,NA
+CC,GO:0005763,mitochondrial small ribosomal subunit,NA,NA,NA,0.001236775,6.55e-6,NA
+BP,GO:0051153,regulation of striated muscle cell differentiation,NA,NA,NA,0.00124649,NA,NA
+BP,GO:0002262,myeloid cell homeostasis,NA,NA,NA,0.001330546,0.001381948,9.58e-5
+MF,GO:0140993,histone modifying activity,NA,NA,NA,0.001456898,0.019054968,0.024693887
+BP,GO:0032006,regulation of TOR signaling,NA,NA,NA,0.001612788,0.015651561,NA
+MF,GO:0005539,glycosaminoglycan binding,NA,NA,NA,0.00166029,3.22139e-4,NA
+MF,GO:0004602,glutathione peroxidase activity,NA,NA,NA,0.001744887,NA,NA
+BP,GO:0071383,cellular response to steroid hormone stimulus,NA,NA,NA,0.001749125,4.99948e-4,NA
+BP,GO:0061709,reticulophagy,NA,NA,NA,0.001795769,0.00836258,NA
+BP,GO:0051094,positive regulation of developmental process,NA,NA,NA,0.00184334,0.029340554,NA
+BP,GO:0002183,cytoplasmic translational initiation,NA,NA,NA,0.001865645,4.22e-6,NA
+BP,GO:0110020,regulation of actomyosin structure organization,NA,NA,NA,0.001865645,NA,NA
+MF,GO:0030020,extracellular matrix structural constituent conferring tensile strength,NA,NA,NA,0.001881983,1.65e-5,NA
+BP,GO:0000096,sulfur amino acid metabolic process,NA,NA,NA,0.001948125,0.008069726,NA
+BP,GO:1905952,regulation of lipid localization,NA,NA,NA,0.001948125,0.001976536,NA
+CC,GO:0097526,spliceosomal tri-snRNP complex,NA,NA,NA,0.001981061,NA,NA
+BP,GO:0030218,erythrocyte differentiation,NA,NA,NA,0.002021281,5.51855e-4,3.71675e-4
+BP,GO:0043161,proteasome-mediated ubiquitin-dependent protein catabolic process,NA,NA,NA,0.002089692,1.08e-5,NA
+MF,GO:0043177,organic acid binding,NA,NA,NA,0.002161563,0.003819227,0.032953892
+BP,GO:1903706,regulation of hemopoiesis,NA,NA,NA,0.002173444,NA,0.009673348
+BP,GO:0032007,negative regulation of TOR signaling,NA,NA,NA,0.002297882,0.017803085,NA
+BP,GO:0006473,protein acetylation,NA,NA,NA,0.002311701,NA,NA
+BP,GO:0031529,ruffle organization,NA,NA,NA,0.002311701,NA,NA
+BP,GO:0034063,stress granule assembly,NA,NA,NA,0.002311701,NA,NA
+BP,GO:0060323,head morphogenesis,NA,NA,NA,0.002311701,NA,NA
+BP,GO:0002253,activation of immune response,NA,NA,NA,0.002375242,NA,NA
+BP,GO:0009611,response to wounding,NA,NA,NA,0.002486947,NA,0.034037275
+BP,GO:0009259,ribonucleotide metabolic process,NA,NA,NA,0.002684777,NA,NA
+BP,GO:0051058,negative regulation of small GTPase mediated signal transduction,NA,NA,NA,0.002751781,NA,NA
+BP,GO:0051147,regulation of muscle cell differentiation,NA,NA,NA,0.002751781,NA,NA
+BP,GO:0010876,lipid localization,NA,NA,NA,0.002755239,NA,NA
+MF,GO:0043022,ribosome binding,NA,NA,NA,0.002831293,0.002565767,NA
+BP,GO:0031347,regulation of defense response,NA,NA,NA,0.00284217,NA,0.001066026
+BP,GO:0006577,amino-acid betaine metabolic process,NA,NA,NA,0.002860401,0.002895307,NA
+BP,GO:0017004,cytochrome complex assembly,NA,NA,NA,0.002953986,0.00300162,NA
+BP,GO:1903050,regulation of proteolysis involved in protein catabolic process,NA,NA,NA,0.002968873,4.26443e-4,NA
+BP,GO:0030851,granulocyte differentiation,NA,NA,NA,0.002979873,NA,NA
+BP,GO:0035023,regulation of Rho protein signal transduction,NA,NA,NA,0.002979873,0.003042466,NA
+BP,GO:0072527,pyrimidine-containing compound metabolic process,NA,NA,NA,0.002979873,0.038164652,NA
+MF,GO:0004407,histone deacetylase activity,NA,NA,NA,0.003089827,NA,0.040543993
+BP,GO:0031929,TOR signaling,NA,NA,NA,0.00310418,0.006355554,NA
+BP,GO:0043401,steroid hormone receptor signaling pathway,NA,NA,NA,0.003110026,7.78889e-4,NA
+MF,GO:0004175,endopeptidase activity,NA,NA,NA,0.003203053,NA,NA
+BP,GO:0034101,erythrocyte homeostasis,NA,NA,NA,0.003246168,9.45332e-4,4.7312e-4
+BP,GO:1901293,nucleoside phosphate biosynthetic process,NA,NA,NA,0.003279543,0.040358605,NA
+BP,GO:0170036,import into the mitochondrion,NA,NA,NA,0.003395323,0.003463448,NA
+BP,GO:0032922,circadian regulation of gene expression,NA,NA,NA,0.003570203,3.16947e-4,NA
+BP,GO:0010648,negative regulation of cell communication,NA,NA,NA,0.003672668,1.01e-5,NA
+BP,GO:0023057,negative regulation of signaling,NA,NA,NA,0.003672668,1.01e-5,NA
+CC,GO:0030684,preribosome,NA,NA,NA,0.003695393,NA,NA
+BP,GO:0002757,immune response-activating signaling pathway,NA,NA,NA,0.003736646,NA,NA
+BP,GO:0007266,Rho protein signal transduction,NA,NA,NA,0.003736646,0.025226294,NA
+BP,GO:0070646,protein modification by small protein removal,NA,NA,NA,0.003736646,2.64e-5,NA
+MF,GO:0016831,carboxy-lyase activity,NA,NA,NA,0.003816456,NA,NA
+BP,GO:2000058,regulation of ubiquitin-dependent protein catabolic process,NA,NA,NA,0.003859494,0.003933294,NA
+BP,GO:1902105,regulation of leukocyte differentiation,NA,NA,NA,0.003915791,NA,NA
+BP,GO:0072521,purine-containing compound metabolic process,NA,NA,NA,0.004091464,NA,NA
+BP,GO:0042060,wound healing,NA,NA,NA,0.004129138,NA,0.008488309
+MF,GO:0030170,pyridoxal phosphate binding,NA,NA,NA,0.004213758,NA,NA
+MF,GO:0070279,vitamin B6 binding,NA,NA,NA,0.004213758,NA,NA
+BP,GO:0050851,antigen receptor-mediated signaling pathway,NA,NA,NA,0.00433425,NA,NA
+BP,GO:0009165,nucleotide biosynthetic process,NA,NA,NA,0.004344523,NA,NA
+BP,GO:0007041,lysosomal transport,NA,NA,NA,0.004405988,NA,NA
+MF,GO:0005201,extracellular matrix structural constituent,NA,NA,NA,0.004419156,3.27685e-4,NA
+CC,GO:0000315,organellar large ribosomal subunit,NA,NA,NA,0.004445005,3.33e-5,NA
+CC,GO:0005762,mitochondrial large ribosomal subunit,NA,NA,NA,0.004445005,3.33e-5,NA
+BP,GO:0016311,dephosphorylation,NA,NA,NA,0.004445836,NA,NA
+MF,GO:0051371,muscle alpha-actinin binding,NA,NA,NA,0.004463356,0.020819545,0.009839899
+MF,GO:0051393,alpha-actinin binding,NA,NA,NA,0.004463356,0.020819545,0.009839899
+MF,GO:0070628,proteasome binding,NA,NA,NA,0.004463356,0.004256626,NA
+BP,GO:0000054,ribosomal subunit export from nucleus,NA,NA,NA,0.004566548,7.10208e-4,NA
+BP,GO:0006206,pyrimidine nucleobase metabolic process,NA,NA,NA,0.004566548,0.022218829,NA
+BP,GO:0009437,carnitine metabolic process,NA,NA,NA,0.004566548,0.004615896,NA
+BP,GO:0033750,ribosome localization,NA,NA,NA,0.004566548,7.10208e-4,NA
+CC,GO:0016281,eukaryotic translation initiation factor 4F complex,NA,NA,NA,0.004610425,NA,NA
+BP,GO:1903008,organelle disassembly,NA,NA,NA,0.004686863,0.001267609,NA
+MF,GO:0004177,aminopeptidase activity,NA,NA,NA,0.004760949,0.001425392,NA
+MF,GO:0033558,protein lysine deacetylase activity,NA,NA,NA,0.004827018,NA,0.045978429
+MF,GO:0031072,heat shock protein binding,NA,NA,NA,0.004869338,0.001706343,0.037587855
+BP,GO:0006091,generation of precursor metabolites and energy,NA,NA,NA,0.004876379,2.76e-7,NA
+MF,GO:0008186,"ATP-dependent activity, acting on RNA",NA,NA,NA,0.004905093,0.001973114,NA
+BP,GO:0051129,negative regulation of cellular component organization,NA,NA,NA,0.004921844,0.049220345,NA
+BP,GO:0071542,dopaminergic neuron differentiation,NA,NA,NA,0.004969778,NA,NA
+MF,GO:0016829,lyase activity,NA,NA,NA,0.004970877,NA,NA
+CC,GO:0005865,striated muscle thin filament,NA,NA,NA,0.005013569,0.034199768,NA
+CC,GO:0036379,myofilament,NA,NA,NA,0.005013569,0.034199768,NA
+MF,GO:0101005,deubiquitinase activity,NA,NA,NA,0.005031059,8.49e-5,NA
+BP,GO:0030193,regulation of blood coagulation,NA,NA,NA,0.005031947,NA,NA
+BP,GO:0032790,ribosome disassembly,NA,NA,NA,0.005031947,0.005091383,NA
+BP,GO:0046112,nucleobase biosynthetic process,NA,NA,NA,0.005031947,0.005091383,NA
+BP,GO:0048742,regulation of skeletal muscle fiber development,NA,NA,NA,0.005031947,NA,NA
+BP,GO:1900046,regulation of hemostasis,NA,NA,NA,0.005031947,NA,NA
+BP,GO:1903036,positive regulation of response to wounding,NA,NA,NA,0.005031947,NA,NA
+BP,GO:0045637,regulation of myeloid cell differentiation,NA,NA,NA,0.005081464,NA,0.037159423
+CC,GO:0031941,filamentous actin,NA,NA,NA,0.005084838,NA,0.018342573
+CC,GO:0034361,very-low-density lipoprotein particle,NA,NA,NA,0.005084838,NA,NA
+CC,GO:0034385,triglyceride-rich plasma lipoprotein particle,NA,NA,NA,0.005084838,NA,NA
+BP,GO:0008535,respiratory chain complex IV assembly,NA,NA,NA,0.005117953,0.005183478,NA
+BP,GO:0042541,hemoglobin biosynthetic process,NA,NA,NA,0.005117953,0.019221752,NA
+BP,GO:0010720,positive regulation of cell development,NA,NA,NA,0.005331872,NA,NA
+MF,GO:0004725,protein tyrosine phosphatase activity,NA,NA,NA,0.005351713,NA,NA
+MF,GO:0000287,magnesium ion binding,NA,NA,NA,0.005395072,6.22353e-4,NA
+BP,GO:0002764,immune response-regulating signaling pathway,NA,NA,NA,0.005448312,NA,NA
+BP,GO:0009123,nucleoside monophosphate metabolic process,NA,NA,NA,0.005628273,0.013114238,NA
+MF,GO:0016874,ligase activity,NA,NA,NA,0.005766634,0.001049279,NA
+BP,GO:0090407,organophosphate biosynthetic process,NA,NA,NA,0.005861196,NA,NA
+MF,GO:0016887,ATP hydrolysis activity,NA,NA,NA,0.005932802,2.83e-6,0.003226246
+BP,GO:0030111,regulation of Wnt signaling pathway,NA,NA,NA,0.005950591,0.001300027,NA
+CC,GO:0032432,actin filament bundle,NA,NA,NA,0.005958289,NA,NA
+MF,GO:0004197,cysteine-type endopeptidase activity,NA,NA,NA,0.005970751,NA,NA
+BP,GO:0050878,regulation of body fluid levels,NA,NA,NA,0.00603693,NA,NA
+BP,GO:0048545,response to steroid hormone,NA,NA,NA,0.006127559,0.028430494,0.005614562
+BP,GO:0030178,negative regulation of Wnt signaling pathway,NA,NA,NA,0.006191004,0.037992254,NA
+MF,GO:0004222,metalloendopeptidase activity,NA,NA,NA,0.006207941,0.002861849,NA
+BP,GO:0016071,mRNA metabolic process,NA,NA,NA,0.00632116,0.009064469,NA
+BP,GO:0051240,positive regulation of multicellular organismal process,NA,NA,NA,0.006406336,NA,NA
+BP,GO:0009161,ribonucleoside monophosphate metabolic process,NA,NA,NA,0.006516334,0.032531616,NA
+BP,GO:0009141,nucleoside triphosphate metabolic process,NA,NA,NA,0.006724848,NA,NA
+MF,GO:0016830,carbon-carbon lyase activity,NA,NA,NA,0.006815782,NA,NA
+BP,GO:0006790,sulfur compound metabolic process,NA,NA,NA,0.007061712,0.049465195000000003,NA
+MF,GO:0050840,extracellular matrix binding,NA,NA,NA,0.00724584,4.00978e-4,NA
+BP,GO:0045658,regulation of neutrophil differentiation,NA,NA,NA,0.007305144,NA,NA
+BP,GO:0170040,proteinogenic amino acid catabolic process,NA,NA,NA,0.007339575,0.029465399,NA
+BP,GO:0040007,growth,NA,NA,NA,0.007340878,0.0013169500000000001,0.04428176
+CC,GO:0014704,intercalated disc,NA,NA,NA,0.007366147,0.037135625,NA
+BP,GO:0003179,heart valve morphogenesis,NA,NA,NA,0.007453944,0.002019729,NA
+BP,GO:0072528,pyrimidine-containing compound biosynthetic process,NA,NA,NA,0.007610127,0.049304856,NA
+BP,GO:0009064,glutamine family amino acid metabolic process,NA,NA,NA,0.007651155,0.001369733,NA
+BP,GO:0042176,regulation of protein catabolic process,NA,NA,NA,0.007653314,0.001657354,NA
+BP,GO:0009895,negative regulation of catabolic process,NA,NA,NA,0.007925804,NA,NA
+BP,GO:0010830,regulation of myotube differentiation,NA,NA,NA,0.007970798,NA,NA
+BP,GO:0020027,hemoglobin metabolic process,NA,NA,NA,0.007970798,0.027332316,NA
+BP,GO:0061041,regulation of wound healing,NA,NA,NA,0.007970798,NA,NA
+BP,GO:0048589,developmental growth,NA,NA,NA,0.008014791,9.22608e-4,0.040679902
+CC,GO:1905354,exoribonuclease complex,NA,NA,NA,0.008058866,0.008211555,NA
+MF,GO:0061608,nuclear import signal receptor activity,NA,NA,NA,0.008070713,NA,NA
+BP,GO:0006417,regulation of translation,NA,NA,NA,0.008092668,5.16605e-4,NA
+BP,GO:0032102,negative regulation of response to external stimulus,NA,NA,NA,0.008127948,NA,NA
+BP,GO:0031365,N-terminal protein amino acid modification,NA,NA,NA,0.008150796,NA,NA
+BP,GO:0043248,proteasome assembly,NA,NA,NA,0.008150796,0.001513163,NA
+BP,GO:0060351,cartilage development involved in endochondral bone morphogenesis,NA,NA,NA,0.008150796,0.034204324,NA
+BP,GO:0070534,protein K63-linked ubiquitination,NA,NA,NA,0.008150796,NA,NA
+CC,GO:0034518,RNA cap binding complex,NA,NA,NA,0.008226298,NA,NA
+BP,GO:0072594,establishment of protein localization to organelle,NA,NA,NA,0.008242307,5.35e-5,NA
+BP,GO:0016237,microautophagy,NA,NA,NA,0.008268126,0.00836258,NA
+BP,GO:0030852,regulation of granulocyte differentiation,NA,NA,NA,0.008268126,NA,NA
+BP,GO:0034727,piecemeal microautophagy of the nucleus,NA,NA,NA,0.008268126,0.00836258,NA
+CC,GO:0044291,cell-cell contact zone,NA,NA,NA,0.00835214,0.031234756,NA
+CC,GO:0005604,basement membrane,NA,NA,NA,0.008406209,0.00137979,NA
+BP,GO:0000122,negative regulation of transcription by RNA polymerase II,NA,NA,NA,0.008472438,9.03e-5,2.55e-5
+BP,GO:0006869,lipid transport,NA,NA,NA,0.008527011,NA,0.047377145
+MF,GO:0044325,transmembrane transporter binding,NA,NA,NA,0.008618227,0.002836073,NA
+MF,GO:0060590,ATPase regulator activity,NA,NA,NA,0.008618227,0.020424856,NA
+BP,GO:0051253,negative regulation of RNA metabolic process,NA,NA,NA,0.008648162,5.96e-7,8.81e-5
+BP,GO:0002684,positive regulation of immune system process,NA,NA,NA,0.008733199,NA,0.046741699
+CC,GO:0032040,small-subunit processome,NA,NA,NA,0.008872798,NA,0.024098722
+BP,GO:0009199,ribonucleoside triphosphate metabolic process,NA,NA,NA,0.008956971,NA,NA
+BP,GO:0006090,pyruvate metabolic process,NA,NA,NA,0.00922676,NA,NA
+MF,GO:0004386,helicase activity,NA,NA,NA,0.009335063,0.004696791,NA
+CC,GO:0031248,protein acetyltransferase complex,NA,NA,NA,0.009693116,0.0192826,NA
+CC,GO:1902493,acetyltransferase complex,NA,NA,NA,0.009693116,0.0192826,NA
+CC,GO:0005861,troponin complex,NA,NA,NA,0.009802451,0.028392831,NA
+BP,GO:0033043,regulation of organelle organization,NA,NA,NA,0.009895284,NA,NA
+BP,GO:0050776,regulation of immune response,NA,NA,NA,0.010004426,NA,NA
+MF,GO:0016741,"transferase activity, transferring one-carbon groups",NA,NA,NA,0.010197416,8.36762e-4,NA
+BP,GO:0009112,nucleobase metabolic process,NA,NA,NA,0.010236079,0.026572808,NA
+BP,GO:0043604,amide biosynthetic process,NA,NA,NA,0.010338385,0.030574691,NA
+BP,GO:0042273,ribosomal large subunit biogenesis,NA,NA,NA,0.010366817,0.010563267,0.013443053
+BP,GO:0007596,blood coagulation,NA,NA,NA,0.01074811,NA,NA
+MF,GO:0050660,flavin adenine dinucleotide binding,NA,NA,NA,0.011095365,NA,NA
+BP,GO:0009124,nucleoside monophosphate biosynthetic process,NA,NA,NA,0.011157648,NA,NA
+MF,GO:0033293,monocarboxylic acid binding,NA,NA,NA,0.011302086,NA,NA
+BP,GO:0002682,regulation of immune system process,NA,NA,NA,0.011337977,NA,0.010197614
+BP,GO:0046390,ribose phosphate biosynthetic process,NA,NA,NA,0.011655345,NA,NA
+BP,GO:0006641,triglyceride metabolic process,NA,NA,NA,0.0116916,0.011878899,NA
+BP,GO:0006221,pyrimidine nucleotide biosynthetic process,NA,NA,NA,0.011713804,NA,NA
+BP,GO:0019318,hexose metabolic process,NA,NA,NA,0.011878588,NA,NA
+BP,GO:0009148,pyrimidine nucleoside triphosphate biosynthetic process,NA,NA,NA,0.011887372,NA,NA
+BP,GO:0030518,nuclear receptor-mediated steroid hormone signaling pathway,NA,NA,NA,0.011887372,0.003229029,NA
+BP,GO:0034472,snRNA 3'-end processing,NA,NA,NA,0.011887372,0.037533661,0.040223713
+BP,GO:0071229,cellular response to acid chemical,NA,NA,NA,0.011887372,NA,NA
+BP,GO:0071230,cellular response to amino acid stimulus,NA,NA,NA,0.011887372,NA,NA
+BP,GO:0045595,regulation of cell differentiation,NA,NA,NA,0.011918004,0.016624152,0.00675704
+CC,GO:0046540,U4/U6 x U5 tri-snRNP complex,NA,NA,NA,0.012014549,NA,NA
+BP,GO:0009150,purine ribonucleotide metabolic process,NA,NA,NA,0.012097561,NA,NA
+BP,GO:0060216,definitive hemopoiesis,NA,NA,NA,0.012111152,NA,0.034510129
+BP,GO:0006163,purine nucleotide metabolic process,NA,NA,NA,0.012472457,NA,NA
+BP,GO:0031214,biomineral tissue development,NA,NA,NA,0.012529003,0.046354862,NA
+BP,GO:0097250,mitochondrial respirasome assembly,NA,NA,NA,0.012529003,0.002776569,NA
+BP,GO:0001732,formation of cytoplasmic translation initiation complex,NA,NA,NA,0.012840754,6.24664e-4,NA
+BP,GO:0006595,polyamine metabolic process,NA,NA,NA,0.012840754,6.24664e-4,NA
+BP,GO:0033617,mitochondrial cytochrome c oxidase assembly,NA,NA,NA,0.012840754,0.012982519,NA
+BP,GO:0046849,bone remodeling,NA,NA,NA,0.012840754,NA,NA
+BP,GO:0006633,fatty acid biosynthetic process,NA,NA,NA,0.012876412,0.013153411,NA
+BP,GO:0007599,hemostasis,NA,NA,NA,0.012876412,NA,NA
+CC,GO:0005852,eukaryotic translation initiation factor 3 complex,NA,NA,NA,0.012966793,0.003224362,NA
+BP,GO:0030490,maturation of SSU-rRNA,NA,NA,NA,0.012971683,NA,NA
+CC,GO:0097525,spliceosomal snRNP complex,NA,NA,NA,0.013089067,NA,NA
+MF,GO:0000339,RNA cap binding,NA,NA,NA,0.013158537,0.046796214,NA
+MF,GO:0016722,"oxidoreductase activity, acting on metal ions",NA,NA,NA,0.013158537,NA,NA
+BP,GO:0006851,mitochondrial calcium ion transmembrane transport,NA,NA,NA,0.013297277,NA,NA
+BP,GO:0033700,phospholipid efflux,NA,NA,NA,0.013297277,NA,0.007530564
+BP,GO:0060297,regulation of sarcomere organization,NA,NA,NA,0.013297277,NA,NA
+BP,GO:0060324,face development,NA,NA,NA,0.013297277,0.013417363,0.007530564
+CC,GO:0072534,perineuronal net,NA,NA,NA,0.013403861,0.013588542,NA
+CC,GO:0098966,perisynaptic extracellular matrix,NA,NA,NA,0.013403861,0.013588542,NA
+CC,GO:0099535,synapse-associated extracellular matrix,NA,NA,NA,0.013403861,0.013588542,NA
+BP,GO:0040037,negative regulation of fibroblast growth factor receptor signaling pathway,NA,NA,NA,0.013441191,NA,0.015238667
+BP,GO:0048679,regulation of axon regeneration,NA,NA,NA,0.013441191,0.049675419,NA
+BP,GO:0070570,regulation of neuron projection regeneration,NA,NA,NA,0.013441191,0.049675419,NA
+BP,GO:0097006,regulation of plasma lipoprotein particle levels,NA,NA,NA,0.013441191,NA,NA
+BP,GO:0030223,neutrophil differentiation,NA,NA,NA,0.013516135,NA,NA
+CC,GO:0042627,chylomicron,NA,NA,NA,0.01356112,NA,NA
+BP,GO:0044272,sulfur compound biosynthetic process,NA,NA,NA,0.013777137,0.040080722,NA
+BP,GO:1901698,response to nitrogen compound,NA,NA,NA,0.014513241,4.72342e-4,NA
+BP,GO:0050778,positive regulation of immune response,NA,NA,NA,0.014586942,NA,NA
+CC,GO:0005774,vacuolar membrane,NA,NA,NA,0.014739517,NA,NA
+MF,GO:0008757,S-adenosylmethionine-dependent methyltransferase activity,NA,NA,NA,0.014885986,0.020211644,NA
+BP,GO:0031669,cellular response to nutrient levels,NA,NA,NA,0.015010904,0.003467262,NA
+BP,GO:0030217,T cell differentiation,NA,NA,NA,0.015033127,NA,NA
+BP,GO:0061136,regulation of proteasomal protein catabolic process,NA,NA,NA,0.015033127,0.002667582,NA
+MF,GO:0034212,peptide N-acetyltransferase activity,NA,NA,NA,0.015149875,NA,NA
+BP,GO:0001878,response to yeast,NA,NA,NA,0.015158674,0.015349789,NA
+BP,GO:0006541,glutamine metabolic process,NA,NA,NA,0.015158674,0.015349789,NA
+CC,GO:0001725,stress fiber,NA,NA,NA,0.015295015,NA,NA
+CC,GO:0097517,contractile actin filament bundle,NA,NA,NA,0.015295015,NA,NA
+BP,GO:0051168,nuclear export,NA,NA,NA,0.015328071,0.001657354,NA
+BP,GO:0170035,L-amino acid catabolic process,NA,NA,NA,0.015328071,NA,NA
+BP,GO:0009408,response to heat,NA,NA,NA,0.015609632,4.99948e-4,0.006288076
+MF,GO:0003755,peptidyl-prolyl cis-trans isomerase activity,NA,NA,NA,0.015877641,0.002215522,NA
+MF,GO:0008168,methyltransferase activity,NA,NA,NA,0.016001286,0.003747116,NA
+BP,GO:0019725,cellular homeostasis,NA,NA,NA,0.016076329,2.89314e-4,NA
+CC,GO:0000118,histone deacetylase complex,NA,NA,NA,0.016095232,0.0012215,NA
+CC,GO:0030532,small nuclear ribonucleoprotein complex,NA,NA,NA,0.016095232,NA,NA
+MF,GO:0140098,"catalytic activity, acting on RNA",NA,NA,NA,0.016123448,0.002041892,NA
+BP,GO:0060026,convergent extension,NA,NA,NA,0.016256466,0.002260986,NA
+BP,GO:0009156,ribonucleoside monophosphate biosynthetic process,NA,NA,NA,0.016429894,NA,NA
+BP,GO:1903432,regulation of TORC1 signaling,NA,NA,NA,0.016429894,0.037040906,NA
+BP,GO:0009142,nucleoside triphosphate biosynthetic process,NA,NA,NA,0.01651108,NA,NA
+BP,GO:0045597,positive regulation of cell differentiation,NA,NA,NA,0.016550239,0.038200889,NA
+MF,GO:0016790,thiolester hydrolase activity,NA,NA,NA,0.016959073,NA,NA
+BP,GO:0045619,regulation of lymphocyte differentiation,NA,NA,NA,0.017075567,0.01727431,NA
+BP,GO:0045934,negative regulation of nucleobase-containing compound metabolic process,NA,NA,NA,0.017176928,6.24e-6,2.92575e-4
+BP,GO:0001775,cell activation,NA,NA,NA,0.017460992,NA,NA
+BP,GO:0002761,regulation of myeloid leukocyte differentiation,NA,NA,NA,0.017999761,NA,NA
+BP,GO:1902017,regulation of cilium assembly,NA,NA,NA,0.017999761,NA,NA
+BP,GO:0050817,coagulation,NA,NA,NA,0.018134674,NA,NA
+BP,GO:0016579,protein deubiquitination,NA,NA,NA,0.018329601,6.32e-5,NA
+CC,GO:0005681,spliceosomal complex,NA,NA,NA,0.018397151,NA,NA
+MF,GO:0051539,"4 iron, 4 sulfur cluster binding",NA,NA,NA,0.018576011,0.039470833,NA
+MF,GO:0001671,ATPase activator activity,NA,NA,NA,0.018594717,0.017743194,NA
+MF,GO:0019203,carbohydrate phosphatase activity,NA,NA,NA,0.018594717,NA,NA
+MF,GO:0016747,"acyltransferase activity, transferring groups other than amino-acyl groups",NA,NA,NA,0.018994495,0.002778391,NA
+BP,GO:0010171,body morphogenesis,NA,NA,NA,0.019018995,NA,NA
+BP,GO:0046040,IMP metabolic process,NA,NA,NA,0.019018995,NA,NA
+BP,GO:0050818,regulation of coagulation,NA,NA,NA,0.019018995,NA,NA
+BP,GO:1904262,negative regulation of TORC1 signaling,NA,NA,NA,0.019018995,NA,NA
+BP,GO:0015849,organic acid transport,NA,NA,NA,0.019168726,NA,NA
+MF,GO:0016836,hydro-lyase activity,NA,NA,NA,0.019186522,NA,NA
+CC,GO:0016282,eukaryotic 43S preinitiation complex,NA,NA,NA,0.019199178,0.001171224,NA
+CC,GO:0033290,eukaryotic 48S preinitiation complex,NA,NA,NA,0.019199178,0.005277501,NA
+BP,GO:0006639,acylglycerol metabolic process,NA,NA,NA,0.019305696,0.009080429,NA
+BP,GO:0022603,regulation of anatomical structure morphogenesis,NA,NA,NA,0.019398387,0.003184868,NA
+MF,GO:0003707,nuclear steroid receptor activity,NA,NA,NA,0.020178697,NA,NA
+BP,GO:0008610,lipid biosynthetic process,NA,NA,NA,0.020183388,0.028045938,NA
+MF,GO:0008252,nucleotidase activity,NA,NA,NA,0.020377931,0.019529644,NA
+BP,GO:0006220,pyrimidine nucleotide metabolic process,NA,NA,NA,0.020409334,NA,NA
+BP,GO:0040036,regulation of fibroblast growth factor receptor signaling pathway,NA,NA,NA,0.020409334,0.049304856,NA
+BP,GO:0009617,response to bacterium,NA,NA,NA,0.020429198,NA,NA
+MF,GO:0016407,acetyltransferase activity,NA,NA,NA,0.020431859,NA,NA
+MF,GO:0008134,transcription factor binding,NA,NA,NA,0.02052803,9.98997e-4,NA
+BP,GO:0033500,carbohydrate homeostasis,NA,NA,NA,0.020553216,NA,NA
+BP,GO:0042593,glucose homeostasis,NA,NA,NA,0.020553216,NA,NA
+BP,GO:0042026,protein refolding,NA,NA,NA,0.020707447,NA,0.014690778
+BP,GO:0001501,skeletal system development,NA,NA,NA,0.02079077,6.16e-5,NA
+BP,GO:0006188,IMP biosynthetic process,NA,NA,NA,0.02079928,NA,NA
+BP,GO:0006637,acyl-CoA metabolic process,NA,NA,NA,0.020838404,NA,NA
+BP,GO:0035383,thioester metabolic process,NA,NA,NA,0.020838404,NA,NA
+BP,GO:0050727,regulation of inflammatory response,NA,NA,NA,0.020838404,NA,0.013557132
+CC,GO:0030057,desmosome,NA,NA,NA,0.020977866,0.021287327,0.018342573
+BP,GO:0005996,monosaccharide metabolic process,NA,NA,NA,0.021036753,NA,NA
+BP,GO:0045892,negative regulation of DNA-templated transcription,NA,NA,NA,0.021045326,1.75e-6,8.4e-5
+BP,GO:1902679,negative regulation of RNA biosynthetic process,NA,NA,NA,0.021045326,1.75e-6,8.4e-5
+BP,GO:0009725,response to hormone,NA,NA,NA,0.021101066,0.005092642,9.00399e-4
+BP,GO:0050769,positive regulation of neurogenesis,NA,NA,NA,0.021127675,NA,NA
+BP,GO:0048705,skeletal system morphogenesis,NA,NA,NA,0.021305451,0.001745238,NA
+BP,GO:0009063,amino acid catabolic process,NA,NA,NA,0.021347913,NA,NA
+CC,GO:0005581,collagen trimer,NA,NA,NA,0.021501997,0.001072893,NA
+BP,GO:1901606,alpha-amino acid catabolic process,NA,NA,NA,0.02150306,NA,NA
+MF,GO:0034056,estrogen response element binding,NA,NA,NA,0.021627793,NA,NA
+MF,GO:0043236,laminin binding,NA,NA,NA,0.021627793,0.004256626,NA
+CC,GO:0030139,endocytic vesicle,NA,NA,NA,0.021851081,NA,0.030575705
+BP,GO:0002052,positive regulation of neuroblast proliferation,NA,NA,NA,0.022028005,0.022218829,NA
+BP,GO:0034103,regulation of tissue remodeling,NA,NA,NA,0.022028005,NA,NA
+BP,GO:0046519,sphingoid metabolic process,NA,NA,NA,0.022028005,NA,NA
+BP,GO:0072344,rescue of stalled ribosome,NA,NA,NA,0.022028005,0.022218829,NA
+BP,GO:2000377,regulation of reactive oxygen species metabolic process,NA,NA,NA,0.022028005,0.022218829,NA
+BP,GO:0015980,energy derivation by oxidation of organic compounds,NA,NA,NA,0.022251727,9.88e-9,NA
+BP,GO:0009260,ribonucleotide biosynthetic process,NA,NA,NA,0.022365325,NA,NA
+BP,GO:0032434,regulation of proteasomal ubiquitin-dependent protein catabolic process,NA,NA,NA,0.022419168,0.022739605,NA
+MF,GO:0019213,deacetylase activity,NA,NA,NA,0.023104038,NA,NA
+MF,GO:0016922,nuclear receptor binding,NA,NA,NA,0.023177762,0.022057649,NA
+BP,GO:0032446,protein modification by small protein conjugation,NA,NA,NA,0.023192463,6.5e-5,NA
+BP,GO:0043473,pigmentation,NA,NA,NA,0.023267013,NA,NA
+BP,GO:0006638,neutral lipid metabolic process,NA,NA,NA,0.0233284,0.004966462,NA
+BP,GO:0007029,endoplasmic reticulum organization,NA,NA,NA,0.0233284,NA,NA
+CC,GO:0005635,nuclear envelope,NA,NA,NA,0.023345248,0.02440345,NA
+BP,GO:0001101,response to acid chemical,NA,NA,NA,0.02373669,NA,NA
+BP,GO:0043200,response to amino acid,NA,NA,NA,0.02373669,NA,NA
+BP,GO:0009620,response to fungus,NA,NA,NA,0.023738162,NA,NA
+MF,GO:0016835,carbon-oxygen lyase activity,NA,NA,NA,0.023833953,0.040382663,NA
+BP,GO:0000380,"alternative mRNA splicing, via spliceosome",NA,NA,NA,0.023897294,NA,NA
+BP,GO:0042886,amide transport,NA,NA,NA,0.023897294,NA,NA
+BP,GO:0046942,carboxylic acid transport,NA,NA,NA,0.023956981,NA,NA
+BP,GO:0007034,vacuolar transport,NA,NA,NA,0.024003009,0.004171296,NA
+BP,GO:0009205,purine ribonucleoside triphosphate metabolic process,NA,NA,NA,0.024003009,NA,0.046196708
+BP,GO:0045321,leukocyte activation,NA,NA,NA,0.024180044,NA,NA
+BP,GO:0009267,cellular response to starvation,NA,NA,NA,0.024325572,0.002544558,NA
+BP,GO:0090090,negative regulation of canonical Wnt signaling pathway,NA,NA,NA,0.024325572,NA,NA
+CC,GO:0042641,actomyosin,NA,NA,NA,0.024390684,NA,NA
+BP,GO:0050657,nucleic acid transport,NA,NA,NA,0.024971004,0.025480262,NA
+BP,GO:0050658,RNA transport,NA,NA,NA,0.024971004,0.025480262,NA
+BP,GO:0051236,establishment of RNA localization,NA,NA,NA,0.024971004,0.025480262,NA
+BP,GO:0043603,amide metabolic process,NA,NA,NA,0.025116104,NA,NA
+MF,GO:0050839,cell adhesion molecule binding,NA,NA,NA,0.026559946,NA,NA
+BP,GO:0042044,fluid transport,NA,NA,NA,0.027054047,NA,NA
+BP,GO:0051014,actin filament severing,NA,NA,NA,0.027054047,NA,0.035173098
+CC,GO:0032994,protein-lipid complex,NA,NA,NA,0.027301223,NA,NA
+CC,GO:0034358,plasma lipoprotein particle,NA,NA,NA,0.027301223,NA,NA
+CC,GO:0043230,extracellular organelle,NA,NA,NA,0.027301223,NA,NA
+CC,GO:0065010,extracellular membrane-bounded organelle,NA,NA,NA,0.027301223,NA,NA
+CC,GO:1990777,lipoprotein particle,NA,NA,NA,0.027301223,NA,NA
+BP,GO:0030282,bone mineralization,NA,NA,NA,0.027320002,0.027768892,NA
+BP,GO:0038202,TORC1 signaling,NA,NA,NA,0.027320002,0.027768892,NA
+BP,GO:0046031,ADP metabolic process,NA,NA,NA,0.027320002,NA,0.0498249
+CC,GO:0005912,adherens junction,NA,NA,NA,0.027460567,NA,NA
+BP,GO:0000470,maturation of LSU-rRNA,NA,NA,NA,0.027598371,0.009817141,NA
+BP,GO:0009220,pyrimidine ribonucleotide biosynthetic process,NA,NA,NA,0.027598371,NA,NA
+BP,GO:0006518,peptide metabolic process,NA,NA,NA,0.028229935,0.004453373,NA
+BP,GO:0061024,membrane organization,NA,NA,NA,0.028259745,NA,NA
+BP,GO:0048863,stem cell differentiation,NA,NA,NA,0.028305233,0.020955055,NA
+BP,GO:0032870,cellular response to hormone stimulus,NA,NA,NA,0.02889679,0.004017918,0.018629477
+BP,GO:0002573,myeloid leukocyte differentiation,NA,NA,NA,0.028918088,NA,NA
+BP,GO:0030522,intracellular receptor signaling pathway,NA,NA,NA,0.028918088,0.029496275,NA
+BP,GO:0035051,cardiocyte differentiation,NA,NA,NA,0.028918088,0.029496275,NA
+BP,GO:0090504,epiboly,NA,NA,NA,0.028918088,0.029496275,0.03500094
+BP,GO:0030595,leukocyte chemotaxis,NA,NA,NA,0.028930536,NA,NA
+BP,GO:0009896,positive regulation of catabolic process,NA,NA,NA,0.028937608,NA,NA
+CC,GO:0005765,lysosomal membrane,NA,NA,NA,0.028970923,NA,NA
+CC,GO:0098852,lytic vacuole membrane,NA,NA,NA,0.028970923,NA,NA
+BP,GO:0042594,response to starvation,NA,NA,NA,0.029005571,0.001797563,NA
+CC,GO:0120114,Sm-like protein family complex,NA,NA,NA,0.029200758,NA,NA
+MF,GO:0005504,fatty acid binding,NA,NA,NA,0.029903559,NA,NA
+MF,GO:0031369,translation initiation factor binding,NA,NA,NA,0.029950211,0.028749294,NA
+BP,GO:0003157,endocardium development,NA,NA,NA,0.030545733,0.030829832,NA
+BP,GO:0006942,regulation of striated muscle contraction,NA,NA,NA,0.030545733,4.29e-5,NA
+BP,GO:0014823,response to activity,NA,NA,NA,0.030545733,NA,NA
+BP,GO:0045834,positive regulation of lipid metabolic process,NA,NA,NA,0.030545733,NA,NA
+BP,GO:0048668,collateral sprouting,NA,NA,NA,0.030545733,0.00836258,NA
+CC,GO:0000178,exosome (RNase complex),NA,NA,NA,0.030797875,0.031234756,NA
+CC,GO:0015030,Cajal body,NA,NA,NA,0.030797875,NA,NA
+MF,GO:0016614,"oxidoreductase activity, acting on CH-OH group of donors",NA,NA,NA,0.031157273,NA,NA
+BP,GO:0010628,positive regulation of gene expression,NA,NA,NA,0.031361335,NA,NA
+MF,GO:0042802,identical protein binding,NA,NA,NA,0.031665165,0.011586773,NA
+BP,GO:0048701,embryonic cranial skeleton morphogenesis,NA,NA,NA,0.031869378,0.021848316,0.042533769
+BP,GO:0007006,mitochondrial membrane organization,NA,NA,NA,0.032034595,0.032531616,NA
+BP,GO:0009147,pyrimidine nucleoside triphosphate metabolic process,NA,NA,NA,0.032056079,NA,NA
+MF,GO:0004879,nuclear receptor activity,NA,NA,NA,0.032223261,0.008155755,NA
+MF,GO:0098531,ligand-activated transcription factor activity,NA,NA,NA,0.032223261,0.008155755,NA
+MF,GO:0003725,double-stranded RNA binding,NA,NA,NA,0.032255455,NA,NA
+BP,GO:0000209,protein polyubiquitination,NA,NA,NA,0.032258473,0.001060228,NA
+BP,GO:0061448,connective tissue development,NA,NA,NA,0.032336098,5.44e-5,NA
+BP,GO:0002221,pattern recognition receptor signaling pathway,NA,NA,NA,0.032741925,NA,NA
+BP,GO:0002758,innate immune response-activating signaling pathway,NA,NA,NA,0.032741925,NA,NA
+BP,GO:0009135,purine nucleoside diphosphate metabolic process,NA,NA,NA,0.032741925,NA,NA
+BP,GO:0009179,purine ribonucleoside diphosphate metabolic process,NA,NA,NA,0.032741925,NA,NA
+BP,GO:0015908,fatty acid transport,NA,NA,NA,0.032741925,NA,NA
+BP,GO:0006403,RNA localization,NA,NA,NA,0.033026952,0.010143084,NA
+BP,GO:0003231,cardiac ventricle development,NA,NA,NA,0.033153435,0.033583473,NA
+BP,GO:0009126,purine nucleoside monophosphate metabolic process,NA,NA,NA,0.033153435,NA,NA
+BP,GO:0009167,purine ribonucleoside monophosphate metabolic process,NA,NA,NA,0.033153435,NA,NA
+BP,GO:0009185,ribonucleoside diphosphate metabolic process,NA,NA,NA,0.033239136,NA,NA
+BP,GO:0006979,response to oxidative stress,NA,NA,NA,0.033321924,0.004989905,0.037087923
+MF,GO:0000774,adenyl-nucleotide exchange factor activity,NA,NA,NA,0.033331872,NA,NA
+MF,GO:0001530,lipopolysaccharide binding,NA,NA,NA,0.033331872,NA,NA
+MF,GO:0008253,5'-nucleotidase activity,NA,NA,NA,0.033331872,NA,NA
+MF,GO:0015250,water channel activity,NA,NA,NA,0.033331872,NA,NA
+MF,GO:0043548,phosphatidylinositol 3-kinase binding,NA,NA,NA,0.033331872,NA,NA
+MF,GO:0140296,general transcription initiation factor binding,NA,NA,NA,0.033331872,NA,NA
+BP,GO:0016567,protein ubiquitination,NA,NA,NA,0.033509784,1.32e-5,NA
+BP,GO:0031123,RNA 3'-end processing,NA,NA,NA,0.033558836,NA,NA
+BP,GO:0009154,purine ribonucleotide catabolic process,NA,NA,NA,0.033728537,NA,NA
+BP,GO:0001845,phagolysosome assembly,NA,NA,NA,0.033922755,0.034204324,NA
+BP,GO:0006560,proline metabolic process,NA,NA,NA,0.033922755,NA,NA
+BP,GO:0009078,pyruvate family amino acid metabolic process,NA,NA,NA,0.033922755,0.034204324,NA
+BP,GO:0016973,poly(A)+ mRNA export from nucleus,NA,NA,NA,0.033922755,0.001513163,NA
+BP,GO:0042572,retinol metabolic process,NA,NA,NA,0.033922755,NA,NA
+BP,GO:0062013,positive regulation of small molecule metabolic process,NA,NA,NA,0.033922755,NA,NA
+BP,GO:1902692,regulation of neuroblast proliferation,NA,NA,NA,0.033922755,0.034204324,NA
+BP,GO:1903035,negative regulation of response to wounding,NA,NA,NA,0.033922755,NA,NA
+CC,GO:0005689,U12-type spliceosomal complex,NA,NA,NA,0.034172441,0.034604994,NA
+MF,GO:0120013,lipid transfer activity,NA,NA,NA,0.035455646,NA,NA
+MF,GO:0004726,non-membrane spanning protein tyrosine phosphatase activity,NA,NA,NA,0.035934667000000003,NA,NA
+MF,GO:0051879,Hsp90 protein binding,NA,NA,NA,0.035934667000000003,0.034802353,NA
+BP,GO:0006084,acetyl-CoA metabolic process,NA,NA,NA,0.03597475,NA,NA
+BP,GO:0009218,pyrimidine ribonucleotide metabolic process,NA,NA,NA,0.03597475,NA,NA
+BP,GO:0034308,primary alcohol metabolic process,NA,NA,NA,0.03597475,NA,NA
+MF,GO:0031418,L-ascorbic acid binding,NA,NA,NA,0.036393136,NA,NA
+MF,GO:0016859,cis-trans isomerase activity,NA,NA,NA,0.036470639,0.006674182,NA
+BP,GO:0019755,one-carbon compound transport,NA,NA,NA,0.036492678,NA,NA
+BP,GO:0032368,regulation of lipid transport,NA,NA,NA,0.036492678,0.036758282,NA
+BP,GO:0071322,cellular response to carbohydrate stimulus,NA,NA,NA,0.036492678,NA,NA
+BP,GO:0071326,cellular response to monosaccharide stimulus,NA,NA,NA,0.036492678,NA,NA
+BP,GO:0071331,cellular response to hexose stimulus,NA,NA,NA,0.036492678,NA,NA
+BP,GO:0071333,cellular response to glucose stimulus,NA,NA,NA,0.036492678,NA,NA
+BP,GO:1903051,negative regulation of proteolysis involved in protein catabolic process,NA,NA,NA,0.036492678,NA,NA
+CC,GO:0005640,nuclear outer membrane,NA,NA,NA,0.036728008,NA,NA
+CC,GO:0061617,MICOS complex,NA,NA,NA,0.036728008,0.007471858,NA
+BP,GO:0030150,protein import into mitochondrial matrix,NA,NA,NA,0.037165164,0.012030297,NA
+BP,GO:0035622,intrahepatic bile duct development,NA,NA,NA,0.037165164,7.24043e-4,NA
+BP,GO:0060350,endochondral bone morphogenesis,NA,NA,NA,0.037165164,0.037533661,NA
+MF,GO:0030695,GTPase regulator activity,NA,NA,NA,0.037213013,0.01329784,NA
+MF,GO:0060589,nucleoside-triphosphatase regulator activity,NA,NA,NA,0.037213013,0.01329784,NA
+CC,GO:0070993,translation preinitiation complex,NA,NA,NA,0.037492338,0.003293982,NA
+BP,GO:0030593,neutrophil chemotaxis,NA,NA,NA,0.03761551,NA,NA
+BP,GO:0090257,regulation of muscle system process,NA,NA,NA,0.03761551,0.003042466,NA
+MF,GO:0016684,"oxidoreductase activity, acting on peroxide as acceptor",NA,NA,NA,0.037646847,NA,NA
+BP,GO:0051402,neuron apoptotic process,NA,NA,NA,0.037749858,0.038493353,NA
+BP,GO:0051962,positive regulation of nervous system development,NA,NA,NA,0.037749858,NA,NA
+MF,GO:0042887,amide transmembrane transporter activity,NA,NA,NA,0.038018086,0.036054585,NA
+BP,GO:0046434,organophosphate catabolic process,NA,NA,NA,0.038277024,NA,NA
+BP,GO:0001503,ossification,NA,NA,NA,0.038435131,5.54239e-4,NA
+CC,GO:0005776,autophagosome,NA,NA,NA,0.038911816,1.61854e-4,NA
+BP,GO:0006446,regulation of translational initiation,NA,NA,NA,0.038999134,0.015830207,NA
+BP,GO:0006458,'de novo' protein folding,NA,NA,NA,0.038999134,NA,0.030480698
+BP,GO:0055088,lipid homeostasis,NA,NA,NA,0.039190251,NA,NA
+BP,GO:0050900,leukocyte migration,NA,NA,NA,0.039205209,NA,NA
+BP,GO:0002831,regulation of response to biotic stimulus,NA,NA,NA,0.039228016,NA,0.022869569
+BP,GO:0009144,purine nucleoside triphosphate metabolic process,NA,NA,NA,0.039228016,NA,NA
+BP,GO:0009261,ribonucleotide catabolic process,NA,NA,NA,0.039332943,NA,NA
+BP,GO:0015914,phospholipid transport,NA,NA,NA,0.039332943,NA,9.47467e-4
+CC,GO:0045121,membrane raft,NA,NA,NA,0.039809853,NA,NA
+CC,GO:0098857,membrane microdomain,NA,NA,NA,0.039809853,NA,NA
+MF,GO:0016798,"hydrolase activity, acting on glycosyl bonds",NA,NA,NA,0.040331443,NA,NA
+MF,GO:0016799,"hydrolase activity, hydrolyzing N-glycosyl compounds",NA,NA,NA,0.041265857,0.039398636,NA
+BP,GO:1903825,organic acid transmembrane transport,NA,NA,NA,0.041534764,NA,NA
+CC,GO:0031519,PcG protein complex,NA,NA,NA,0.041759342,0.006972645,NA
+MF,GO:0050308,sugar-phosphatase activity,NA,NA,NA,0.042134361,NA,NA
+BP,GO:0009065,glutamine family amino acid catabolic process,NA,NA,NA,0.042194522,NA,NA
+BP,GO:0009069,serine family amino acid metabolic process,NA,NA,NA,0.042194522,NA,NA
+BP,GO:0050821,protein stabilization,NA,NA,NA,0.042194522,0.004756021,NA
+BP,GO:0062207,regulation of pattern recognition receptor signaling pathway,NA,NA,NA,0.042194522,NA,NA
+MF,GO:0005178,integrin binding,NA,NA,NA,0.042534492,NA,NA
+BP,GO:0002455,humoral immune response mediated by circulating immunoglobulin,NA,NA,NA,0.042939218,NA,NA
+BP,GO:0006241,CTP biosynthetic process,NA,NA,NA,0.042939218,NA,NA
+BP,GO:0006833,water transport,NA,NA,NA,0.042939218,NA,NA
+BP,GO:0006958,"complement activation, classical pathway",NA,NA,NA,0.042939218,NA,NA
+BP,GO:0009209,pyrimidine ribonucleoside triphosphate biosynthetic process,NA,NA,NA,0.042939218,NA,NA
+BP,GO:0034109,homotypic cell-cell adhesion,NA,NA,NA,0.042939218,NA,NA
+MF,GO:0061650,ubiquitin-like protein conjugating enzyme activity,NA,NA,NA,0.04297548,0.018545894,NA
+BP,GO:0044093,positive regulation of molecular function,NA,NA,NA,0.043008751,NA,NA
+CC,GO:0005849,mRNA cleavage factor complex,NA,NA,NA,0.043279633,0.043869407,NA
+CC,GO:0035371,microtubule plus-end,NA,NA,NA,0.043279633,NA,NA
+CC,GO:0070971,endoplasmic reticulum exit site,NA,NA,NA,0.043279633,0.043869407,0.025895787
+MF,GO:0008201,heparin binding,NA,NA,NA,0.043592788,4.33778e-4,NA
+BP,GO:0032259,methylation,NA,NA,NA,0.043652902,0.031554663,NA
+MF,GO:0031625,ubiquitin protein ligase binding,NA,NA,NA,0.043747576,0.008515209,NA
+BP,GO:0048704,embryonic skeletal system morphogenesis,NA,NA,NA,0.043964802,0.009178079,NA
+BP,GO:0002011,morphogenesis of an epithelial sheet,NA,NA,NA,0.043971453,0.002621656,0.024126737
+MF,GO:0008173,RNA methyltransferase activity,NA,NA,NA,0.04444038,NA,NA
+CC,GO:0005811,lipid droplet,NA,NA,NA,0.044777676,NA,NA
+MF,GO:0005048,signal sequence binding,NA,NA,NA,0.044894005,NA,NA
+BP,GO:0043542,endothelial cell migration,NA,NA,NA,0.045084575,NA,0.034339954
+BP,GO:0071674,mononuclear cell migration,NA,NA,NA,0.045084575,NA,NA
+BP,GO:0051960,regulation of nervous system development,NA,NA,NA,0.045363822,NA,NA
+BP,GO:0097190,apoptotic signaling pathway,NA,NA,NA,0.045363822,0.04655888,NA
+BP,GO:0019364,pyridine nucleotide catabolic process,NA,NA,NA,0.045615205,NA,NA
+BP,GO:0048821,erythrocyte development,NA,NA,NA,0.045615205,2.20797e-4,0.013443053
+BP,GO:0071621,granulocyte chemotaxis,NA,NA,NA,0.045615205,NA,NA
+BP,GO:0072526,pyridine-containing compound catabolic process,NA,NA,NA,0.045615205,NA,NA
+BP,GO:0015748,organophosphate ester transport,NA,NA,NA,0.045705858,NA,0.007266042
+BP,GO:0001822,kidney development,NA,NA,NA,0.045834443,NA,NA
+BP,GO:0033108,mitochondrial respiratory chain complex assembly,NA,NA,NA,0.045840693,0.001050842,NA
+BP,GO:0010842,retina layer formation,NA,NA,NA,0.045888426,NA,NA
+BP,GO:0042742,defense response to bacterium,NA,NA,NA,0.045889235,NA,NA
+BP,GO:0002218,activation of innate immune response,NA,NA,NA,0.045950934,NA,NA
+BP,GO:0019319,hexose biosynthetic process,NA,NA,NA,0.045960856,NA,NA
+BP,GO:0043489,RNA stabilization,NA,NA,NA,0.045960856,NA,NA
+BP,GO:0000375,"RNA splicing, via transesterification reactions",NA,NA,NA,0.045964945,0.034055744,NA
+BP,GO:0000377,"RNA splicing, via transesterification reactions with bulged adenosine as nucleophile",NA,NA,NA,0.045964945,0.034055744,NA
+BP,GO:0000398,"mRNA splicing, via spliceosome",NA,NA,NA,0.045964945,0.034055744,NA
+BP,GO:0090066,regulation of anatomical structure size,NA,NA,NA,0.045964945,NA,NA
+BP,GO:0007163,establishment or maintenance of cell polarity,NA,NA,NA,0.046833866,NA,NA
+BP,GO:0097529,myeloid leukocyte migration,NA,NA,NA,0.046835552,NA,NA
+MF,GO:0016769,"transferase activity, transferring nitrogenous groups",NA,NA,NA,0.04754809,0.045165351,NA
+MF,GO:0016814,"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in cyclic amidines",NA,NA,NA,0.04754809,NA,NA
+BP,GO:0043085,positive regulation of catalytic activity,NA,NA,NA,0.048674422,NA,NA
+BP,GO:0046034,ATP metabolic process,NA,NA,NA,0.048674422,NA,0.020486939
+BP,GO:0001678,intracellular glucose homeostasis,NA,NA,NA,0.049283928,NA,NA
+BP,GO:0009070,serine family amino acid biosynthetic process,NA,NA,NA,0.049283928,NA,NA
+BP,GO:0009409,response to cold,NA,NA,NA,0.049283928,NA,NA
+BP,GO:0032836,glomerular basement membrane development,NA,NA,NA,0.049283928,0.049675419,NA
+BP,GO:0035914,skeletal muscle cell differentiation,NA,NA,NA,0.049283928,NA,NA
+BP,GO:0042771,intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator,NA,NA,NA,0.049283928,NA,0.015238667
+BP,GO:0045646,regulation of erythrocyte differentiation,NA,NA,NA,0.049283928,0.049675419,0.015238667
+BP,GO:0046456,icosanoid biosynthetic process,NA,NA,NA,0.049283928,NA,NA
+BP,GO:0046500,S-adenosylmethionine metabolic process,NA,NA,NA,0.049283928,0.049675419,NA
+BP,GO:0050679,positive regulation of epithelial cell proliferation,NA,NA,NA,0.049283928,NA,0.015238667
+BP,GO:0055117,regulation of cardiac muscle contraction,NA,NA,NA,0.049283928,5.94e-5,NA
+BP,GO:0071025,RNA surveillance,NA,NA,NA,0.049283928,NA,NA
+BP,GO:0071711,basement membrane organization,NA,NA,NA,0.049283928,NA,NA
+BP,GO:0006623,protein targeting to vacuole,NA,NA,NA,0.049527993,NA,NA
+BP,GO:0019915,lipid storage,NA,NA,NA,0.049527993,NA,NA
+BP,GO:0034198,cellular response to amino acid starvation,NA,NA,NA,0.049527993,0.01727431,NA
+BP,GO:0007623,circadian rhythm,NA,NA,NA,0.049552057,NA,NA
+BP,GO:0008016,regulation of heart contraction,NA,NA,NA,0.049552057,2.49e-5,NA
+BP,GO:0022900,electron transport chain,NA,NA,NA,0.049552057,8.95e-6,NA
+BP,GO:0097193,intrinsic apoptotic signaling pathway,NA,NA,NA,0.049552057,0.029352681,0.043833911
+CC,GO:0005942,phosphatidylinositol 3-kinase complex,NA,NA,NA,0.049630931,NA,NA
+CC,GO:0034362,low-density lipoprotein particle,NA,NA,NA,0.049630931,NA,NA
+CC,GO:0034364,high-density lipoprotein particle,NA,NA,NA,0.049630931,NA,NA
+CC,GO:0098803,respiratory chain complex,NA,NA,NA,NA,8.24e-8,NA
+BP,GO:0045333,cellular respiration,NA,NA,NA,NA,2.39e-7,NA
+CC,GO:0030964,NADH dehydrogenase complex,NA,NA,NA,NA,3.55e-7,NA
+CC,GO:0045271,respiratory chain complex I,NA,NA,NA,NA,3.55e-7,NA
+BP,GO:0001666,response to hypoxia,NA,NA,NA,NA,5.11e-6,9.73e-6
+BP,GO:0070482,response to oxygen levels,NA,NA,NA,NA,6.5e-6,1.69e-5
+BP,GO:0036293,response to decreased oxygen levels,NA,NA,NA,NA,7.14e-6,1.12e-5
+BP,GO:0022904,respiratory electron transport chain,NA,NA,NA,NA,1.09e-5,NA
+CC,GO:0005758,mitochondrial intermembrane space,NA,NA,NA,NA,1.36e-5,NA
+CC,GO:0031970,organelle envelope lumen,NA,NA,NA,NA,1.36e-5,NA
+BP,GO:0006325,chromatin organization,NA,NA,NA,NA,1.87e-5,NA
+BP,GO:0009628,response to abiotic stimulus,NA,NA,NA,NA,2.39e-5,0.001911417
+BP,GO:0009060,aerobic respiration,NA,NA,NA,NA,3.55e-5,NA
+BP,GO:0042775,mitochondrial ATP synthesis coupled electron transport,NA,NA,NA,NA,5.56e-5,NA
+BP,GO:0051216,cartilage development,NA,NA,NA,NA,5.84e-5,NA
+BP,GO:0006099,tricarboxylic acid cycle,NA,NA,NA,NA,6.71e-5,NA
+BP,GO:0034976,response to endoplasmic reticulum stress,NA,NA,NA,NA,8.31e-5,NA
+BP,GO:0061515,myeloid cell development,NA,NA,NA,NA,8.43e-5,0.01042474
+BP,GO:0019646,aerobic electron transport chain,NA,NA,NA,NA,1.19574e-4,NA
+BP,GO:0036503,ERAD pathway,NA,NA,NA,NA,1.26188e-4,NA
+BP,GO:0042773,ATP synthesis coupled electron transport,NA,NA,NA,NA,1.48744e-4,NA
+MF,GO:0008235,metalloexopeptidase activity,NA,NA,NA,NA,1.62629e-4,NA
+BP,GO:0002042,cell migration involved in sprouting angiogenesis,NA,NA,NA,NA,2.06938e-4,NA
+BP,GO:0033365,protein localization to organelle,NA,NA,NA,NA,2.10795e-4,NA
+MF,GO:0008330,protein tyrosine/threonine phosphatase activity,NA,NA,NA,NA,2.61499e-4,NA
+MF,GO:0033550,MAP kinase tyrosine phosphatase activity,NA,NA,NA,NA,2.61499e-4,NA
+MF,GO:1901681,sulfur compound binding,NA,NA,NA,NA,2.77212e-4,NA
+BP,GO:1903522,regulation of blood circulation,NA,NA,NA,NA,3.97403e-4,NA
+CC,GO:0000779,"condensed chromosome, centromeric region",NA,NA,NA,NA,4.36517e-4,NA
+BP,GO:0090287,regulation of cellular response to growth factor stimulus,NA,NA,NA,NA,4.48005e-4,0.02909302
+BP,GO:0006986,response to unfolded protein,NA,NA,NA,NA,5.8112e-4,NA
+BP,GO:0006119,oxidative phosphorylation,NA,NA,NA,NA,6.8008e-4,NA
+BP,GO:0000422,autophagy of mitochondrion,NA,NA,NA,NA,7.24708e-4,NA
+BP,GO:0040029,epigenetic regulation of gene expression,NA,NA,NA,NA,7.37597e-4,NA
+BP,GO:0061009,common bile duct development,NA,NA,NA,NA,7.78889e-4,NA
+BP,GO:0045814,"negative regulation of gene expression, epigenetic",NA,NA,NA,NA,8.11103e-4,NA
+BP,GO:0048048,embryonic eye morphogenesis,NA,NA,NA,NA,9.16577e-4,NA
+BP,GO:0043648,dicarboxylic acid metabolic process,NA,NA,NA,NA,9.90094e-4,NA
+BP,GO:0048592,eye morphogenesis,NA,NA,NA,NA,0.001026093,0.009750483
+MF,GO:0070411,I-SMAD binding,NA,NA,NA,NA,0.001376878,NA
+MF,GO:0031593,polyubiquitin modification-dependent protein binding,NA,NA,NA,NA,0.001425392,NA
+CC,GO:0016604,nuclear body,NA,NA,NA,NA,0.001431609,NA
+BP,GO:0031507,heterochromatin formation,NA,NA,NA,NA,0.001436575,0.025734007
+CC,GO:0000776,kinetochore,NA,NA,NA,NA,0.001568945,NA
+BP,GO:0048562,embryonic organ morphogenesis,NA,NA,NA,NA,0.001625286,NA
+MF,GO:0017017,MAP kinase tyrosine/serine/threonine phosphatase activity,NA,NA,NA,NA,0.00164392,NA
+MF,GO:0019787,ubiquitin-like protein transferase activity,NA,NA,NA,NA,0.00175057,NA
+MF,GO:0033549,MAP kinase phosphatase activity,NA,NA,NA,NA,0.001797534,NA
+CC,GO:0042383,sarcolemma,NA,NA,NA,NA,0.00180303,NA
+BP,GO:0007219,Notch signaling pathway,NA,NA,NA,NA,0.001811058,NA
+BP,GO:0035966,response to topologically incorrect protein,NA,NA,NA,NA,0.001999233,NA
+BP,GO:0006120,"mitochondrial electron transport, NADH to ubiquinone",NA,NA,NA,NA,0.002019729,NA
+BP,GO:0070972,protein localization to endoplasmic reticulum,NA,NA,NA,NA,0.00211374,NA
+CC,GO:0016010,dystrophin-associated glycoprotein complex,NA,NA,NA,NA,0.002374621,NA
+CC,GO:0090665,glycoprotein complex,NA,NA,NA,NA,0.002374621,NA
+BP,GO:0006338,chromatin remodeling,NA,NA,NA,NA,0.002399278,NA
+MF,GO:0004842,ubiquitin-protein transferase activity,NA,NA,NA,NA,0.002470521,NA
+BP,GO:0048596,embryonic camera-type eye morphogenesis,NA,NA,NA,NA,0.002667582,0.040116774
+BP,GO:0090596,sensory organ morphogenesis,NA,NA,NA,NA,0.002997339,0.004499455
+MF,GO:0042393,histone binding,NA,NA,NA,NA,0.003012225,NA
+BP,GO:0007409,axonogenesis,NA,NA,NA,NA,0.00305402,NA
+BP,GO:0006743,ubiquinone metabolic process,NA,NA,NA,NA,0.003165149,NA
+BP,GO:0006744,ubiquinone biosynthetic process,NA,NA,NA,NA,0.003165149,NA
+BP,GO:0021984,adenohypophysis development,NA,NA,NA,NA,0.003165149,NA
+BP,GO:1901661,quinone metabolic process,NA,NA,NA,NA,0.003165149,NA
+BP,GO:1901663,quinone biosynthetic process,NA,NA,NA,NA,0.003165149,NA
+BP,GO:0051235,maintenance of location,NA,NA,NA,NA,0.003193484,NA
+MF,GO:0140658,ATP-dependent chromatin remodeler activity,NA,NA,NA,NA,0.003886406,NA
+BP,GO:0042255,ribosome assembly,NA,NA,NA,NA,0.004019364,NA
+BP,GO:0048667,cell morphogenesis involved in neuron differentiation,NA,NA,NA,NA,0.00409851,NA
+MF,GO:0070530,K63-linked polyubiquitin modification-dependent protein binding,NA,NA,NA,NA,0.004256626,NA
+BP,GO:0080135,regulation of cellular response to stress,NA,NA,NA,NA,0.00438464,NA
+BP,GO:0002062,chondrocyte differentiation,NA,NA,NA,NA,0.004453373,NA
+BP,GO:0009953,dorsal/ventral pattern formation,NA,NA,NA,NA,0.004501329,NA
+BP,GO:0071363,cellular response to growth factor stimulus,NA,NA,NA,NA,0.004531779,NA
+MF,GO:0004812,aminoacyl-tRNA ligase activity,NA,NA,NA,NA,0.004551841,NA
+MF,GO:0016875,"ligase activity, forming carbon-oxygen bonds",NA,NA,NA,NA,0.004551841,NA
+BP,GO:0051057,positive regulation of small GTPase mediated signal transduction,NA,NA,NA,NA,0.004615896,0.009755296
+MF,GO:0016755,aminoacyltransferase activity,NA,NA,NA,NA,0.004624126,NA
+BP,GO:0070848,response to growth factor,NA,NA,NA,NA,0.004977755,NA
+BP,GO:0000423,mitophagy,NA,NA,NA,NA,0.005022587,NA
+BP,GO:0007020,microtubule nucleation,NA,NA,NA,NA,0.005183478,NA
+BP,GO:0031290,retinal ganglion cell axon guidance,NA,NA,NA,NA,0.005183992,NA
+BP,GO:0141091,transforming growth factor beta receptor superfamily signaling pathway,NA,NA,NA,NA,0.005192898,NA
+BP,GO:0030509,BMP signaling pathway,NA,NA,NA,NA,0.00521383,NA
+BP,GO:0071772,response to BMP,NA,NA,NA,NA,0.00521383,NA
+BP,GO:0071773,cellular response to BMP stimulus,NA,NA,NA,NA,0.00521383,NA
+BP,GO:0006418,tRNA aminoacylation for protein translation,NA,NA,NA,NA,0.005236941,NA
+MF,GO:0140297,DNA-binding transcription factor binding,NA,NA,NA,NA,0.005337785,NA
+BP,GO:0031076,embryonic camera-type eye development,NA,NA,NA,NA,0.005396264,NA
+BP,GO:0034620,cellular response to unfolded protein,NA,NA,NA,NA,0.005970071,NA
+BP,GO:0043038,amino acid activation,NA,NA,NA,NA,0.005970071,NA
+BP,GO:0061035,regulation of cartilage development,NA,NA,NA,NA,0.00597922,NA
+BP,GO:0007178,cell surface receptor protein serine/threonine kinase signaling pathway,NA,NA,NA,NA,0.006398161,NA
+BP,GO:0061564,axon development,NA,NA,NA,NA,0.006538137,NA
+CC,GO:0016607,nuclear speck,NA,NA,NA,NA,0.006596932,NA
+MF,GO:0070006,metalloaminopeptidase activity,NA,NA,NA,NA,0.00683214,NA
+MF,GO:0046975,histone H3K36 methyltransferase activity,NA,NA,NA,NA,0.006871562,NA
+MF,GO:0016597,amino acid binding,NA,NA,NA,NA,0.007352415,NA
+BP,GO:0050680,negative regulation of epithelial cell proliferation,NA,NA,NA,NA,0.007373844,NA
+CC,GO:0032476,polyprenyl diphosphate synthase complex,NA,NA,NA,NA,0.007471858,NA
+BP,GO:0000959,mitochondrial RNA metabolic process,NA,NA,NA,NA,0.007553739,NA
+MF,GO:0072341,modified amino acid binding,NA,NA,NA,NA,0.008018429,NA
+CC,GO:0000793,condensed chromosome,NA,NA,NA,NA,0.008065571,NA
+BP,GO:0007097,nuclear migration,NA,NA,NA,NA,0.008069726,NA
+BP,GO:0021983,pituitary gland development,NA,NA,NA,NA,0.008069726,NA
+BP,GO:0032330,regulation of chondrocyte differentiation,NA,NA,NA,NA,0.008069726,NA
+BP,GO:0051647,nucleus localization,NA,NA,NA,NA,0.008069726,NA
+BP,GO:0048706,embryonic skeletal system development,NA,NA,NA,NA,0.00831034,NA
+CC,GO:0071141,SMAD protein complex,NA,NA,NA,NA,0.008357156,NA
+BP,GO:0043162,ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway,NA,NA,NA,NA,0.00836258,0.02213954
+BP,GO:0055082,intracellular chemical homeostasis,NA,NA,NA,NA,0.009324522,NA
+MF,GO:0061659,ubiquitin-like protein ligase activity,NA,NA,NA,NA,0.009573153,NA
+BP,GO:0071453,cellular response to oxygen levels,NA,NA,NA,NA,0.009817141,NA
+BP,GO:0014032,neural crest cell development,NA,NA,NA,NA,0.00993942,NA
+BP,GO:0048864,stem cell development,NA,NA,NA,NA,0.00993942,NA
+CC,GO:0070069,cytochrome complex,NA,NA,NA,NA,0.010011389,NA
+BP,GO:0060070,canonical Wnt signaling pathway,NA,NA,NA,NA,0.01040284,NA
+MF,GO:0061631,ubiquitin conjugating enzyme activity,NA,NA,NA,NA,0.010533573,NA
+BP,GO:0043039,tRNA aminoacylation,NA,NA,NA,NA,0.011352834,NA
+BP,GO:0002040,sprouting angiogenesis,NA,NA,NA,NA,0.011370024,NA
+CC,GO:0005819,spindle,NA,NA,NA,NA,0.01157559,NA
+MF,GO:0061629,RNA polymerase II-specific DNA-binding transcription factor binding,NA,NA,NA,NA,0.011645617,NA
+MF,GO:0061630,ubiquitin protein ligase activity,NA,NA,NA,NA,0.011740523,NA
+BP,GO:1903052,positive regulation of proteolysis involved in protein catabolic process,NA,NA,NA,NA,0.011883932,NA
+BP,GO:0060828,regulation of canonical Wnt signaling pathway,NA,NA,NA,NA,0.011887432,NA
+MF,GO:0004659,prenyltransferase activity,NA,NA,NA,NA,0.011950246,NA
+BP,GO:0006536,glutamate metabolic process,NA,NA,NA,NA,0.012030297,NA
+BP,GO:0070050,neuron cellular homeostasis,NA,NA,NA,NA,0.012030297,0.040223713
+BP,GO:0070306,lens fiber cell differentiation,NA,NA,NA,NA,0.012030297,NA
+BP,GO:0031667,response to nutrient levels,NA,NA,NA,NA,0.01225457,NA
+MF,GO:0002039,p53 binding,NA,NA,NA,NA,0.012538086,NA
+MF,GO:0016765,"transferase activity, transferring alkyl or aryl (other than methyl) groups",NA,NA,NA,NA,0.012822607,NA
+BP,GO:0016055,Wnt signaling pathway,NA,NA,NA,NA,0.012908372,NA
+CC,GO:0034399,nuclear periphery,NA,NA,NA,NA,0.013185255,NA
+BP,GO:0002063,chondrocyte development,NA,NA,NA,NA,0.013417363,NA
+BP,GO:0016525,negative regulation of angiogenesis,NA,NA,NA,NA,0.013539783,NA
+BP,GO:2000181,negative regulation of blood vessel morphogenesis,NA,NA,NA,NA,0.013539783,NA
+BP,GO:1902275,regulation of chromatin organization,NA,NA,NA,NA,0.013576197,NA
+CC,GO:0071144,heteromeric SMAD protein complex,NA,NA,NA,NA,0.013588542,NA
+BP,GO:0016042,lipid catabolic process,NA,NA,NA,NA,0.014150814,NA
+BP,GO:0016073,snRNA metabolic process,NA,NA,NA,NA,0.014322634,NA
+BP,GO:0071806,protein transmembrane transport,NA,NA,NA,NA,0.014322634,NA
+BP,GO:0006974,DNA damage response,NA,NA,NA,NA,0.014447823,NA
+CC,GO:0072686,mitotic spindle,NA,NA,NA,NA,0.014670127,NA
+BP,GO:0006937,regulation of muscle contraction,NA,NA,NA,NA,0.015320379,NA
+BP,GO:0071456,cellular response to hypoxia,NA,NA,NA,NA,0.015349789,NA
+CC,GO:0070603,SWI/SNF superfamily-type complex,NA,NA,NA,NA,0.015768943,NA
+MF,GO:0032266,phosphatidylinositol-3-phosphate binding,NA,NA,NA,NA,0.015829031,NA
+BP,GO:0006873,intracellular monoatomic ion homeostasis,NA,NA,NA,NA,0.015952322,NA
+BP,GO:0030003,intracellular monoatomic cation homeostasis,NA,NA,NA,NA,0.015952322,NA
+BP,GO:0003205,cardiac chamber development,NA,NA,NA,NA,0.01612564,NA
+BP,GO:0035967,cellular response to topologically incorrect protein,NA,NA,NA,NA,0.01612564,NA
+BP,GO:0071695,anatomical structure maturation,NA,NA,NA,NA,0.016393468,NA
+BP,GO:0006066,alcohol metabolic process,NA,NA,NA,NA,0.016430886,NA
+MF,GO:0004181,metallocarboxypeptidase activity,NA,NA,NA,NA,0.016518845,NA
+BP,GO:0006368,transcription elongation by RNA polymerase II,NA,NA,NA,NA,0.016695427,NA
+BP,GO:0030968,endoplasmic reticulum unfolded protein response,NA,NA,NA,NA,0.016695427,NA
+MF,GO:0044389,ubiquitin-like protein ligase binding,NA,NA,NA,NA,0.01719698,NA
+BP,GO:0006605,protein targeting,NA,NA,NA,NA,0.017254695,NA
+BP,GO:0030199,collagen fibril organization,NA,NA,NA,NA,0.017803085,0.010585853
+BP,GO:0070585,protein localization to mitochondrion,NA,NA,NA,NA,0.017862037,NA
+BP,GO:0072655,establishment of protein localization to mitochondrion,NA,NA,NA,NA,0.017862037,NA
+BP,GO:1901343,negative regulation of vasculature development,NA,NA,NA,NA,0.01823699,NA
+BP,GO:0021700,developmental maturation,NA,NA,NA,NA,0.018539993,NA
+CC,GO:0000775,"chromosome, centromeric region",NA,NA,NA,NA,0.019038912,NA
+BP,GO:0006739,NADP metabolic process,NA,NA,NA,NA,0.019221752,NA
+BP,GO:0046461,neutral lipid catabolic process,NA,NA,NA,NA,0.019221752,NA
+BP,GO:0046464,acylglycerol catabolic process,NA,NA,NA,NA,0.019221752,NA
+BP,GO:0045732,positive regulation of protein catabolic process,NA,NA,NA,NA,0.019476459,NA
+BP,GO:0072593,reactive oxygen species metabolic process,NA,NA,NA,NA,0.020306485,NA
+BP,GO:0007610,behavior,NA,NA,NA,NA,0.020316564,NA
+BP,GO:0008593,regulation of Notch signaling pathway,NA,NA,NA,NA,0.020831886,NA
+BP,GO:0036294,cellular response to decreased oxygen levels,NA,NA,NA,NA,0.020960548,NA
+BP,GO:0061386,closure of optic fissure,NA,NA,NA,NA,0.020960548,NA
+BP,GO:0042116,macrophage activation,NA,NA,NA,NA,0.02100041,NA
+BP,GO:2000179,positive regulation of neural precursor cell proliferation,NA,NA,NA,NA,0.02100041,NA
+CC,GO:0044304,main axon,NA,NA,NA,NA,0.021287327,NA
+CC,GO:0008023,transcription elongation factor complex,NA,NA,NA,NA,0.021343938,NA
+BP,GO:0006575,cellular modified amino acid metabolic process,NA,NA,NA,NA,0.021536442,NA
+MF,GO:0008483,transaminase activity,NA,NA,NA,NA,0.021839055,NA
+BP,GO:0019722,calcium-mediated signaling,NA,NA,NA,NA,0.021897527,NA
+BP,GO:0021654,rhombomere boundary formation,NA,NA,NA,NA,0.022218829,NA
+BP,GO:0031445,regulation of heterochromatin formation,NA,NA,NA,NA,0.022218829,NA
+BP,GO:0045444,fat cell differentiation,NA,NA,NA,NA,0.022218829,NA
+BP,GO:0048799,animal organ maturation,NA,NA,NA,NA,0.022218829,NA
+BP,GO:1903053,regulation of extracellular matrix organization,NA,NA,NA,NA,0.022218829,NA
+MF,GO:0140101,"catalytic activity, acting on a tRNA",NA,NA,NA,NA,0.022220225,NA
+CC,GO:0016581,NuRD complex,NA,NA,NA,NA,0.022490607,NA
+CC,GO:0090545,CHD-type complex,NA,NA,NA,NA,0.022490607,NA
+BP,GO:0043534,blood vessel endothelial cell migration,NA,NA,NA,NA,0.022739605,NA
+BP,GO:0010629,negative regulation of gene expression,NA,NA,NA,NA,0.023976492,NA
+BP,GO:0021538,epithalamus development,NA,NA,NA,NA,0.024003936,NA
+BP,GO:1990928,response to amino acid starvation,NA,NA,NA,NA,0.024003936,NA
+BP,GO:0046503,glycerolipid catabolic process,NA,NA,NA,NA,0.024041865,NA
+BP,GO:1901800,positive regulation of proteasomal protein catabolic process,NA,NA,NA,NA,0.024041865,NA
+CC,GO:0000421,autophagosome membrane,NA,NA,NA,NA,0.024386071,NA
+CC,GO:0070461,SAGA-type complex,NA,NA,NA,NA,0.024386071,NA
+BP,GO:0051028,mRNA transport,NA,NA,NA,NA,0.025097003,NA
+BP,GO:0060348,bone development,NA,NA,NA,NA,0.025437439,NA
+MF,GO:0004709,MAP kinase kinase kinase activity,NA,NA,NA,NA,0.02554821,NA
+MF,GO:0017069,snRNA binding,NA,NA,NA,NA,0.02554821,NA
+BP,GO:0007007,inner mitochondrial membrane organization,NA,NA,NA,NA,0.026572808,NA
+MF,GO:0016298,lipase activity,NA,NA,NA,NA,0.026671924,NA
+CC,GO:0000785,chromatin,NA,NA,NA,NA,0.026921835,NA
+BP,GO:0061053,somite development,NA,NA,NA,NA,0.027122833,NA
+MF,GO:0004180,carboxypeptidase activity,NA,NA,NA,NA,0.027145281,NA
+CC,GO:0005730,nucleolus,NA,NA,NA,NA,0.027277278,NA
+BP,GO:0048593,camera-type eye morphogenesis,NA,NA,NA,NA,0.027286181,0.028569743
+BP,GO:0021986,habenula development,NA,NA,NA,NA,0.027332316,NA
+BP,GO:0043114,regulation of vascular permeability,NA,NA,NA,NA,0.027332316,NA
+BP,GO:1903670,regulation of sprouting angiogenesis,NA,NA,NA,NA,0.027332316,NA
+CC,GO:0035102,PRC1 complex,NA,NA,NA,NA,0.02772957,NA
+BP,GO:0051180,vitamin transport,NA,NA,NA,NA,0.027925178,NA
+BP,GO:2000060,positive regulation of ubiquitin-dependent protein catabolic process,NA,NA,NA,NA,0.027925178,NA
+BP,GO:0051093,negative regulation of developmental process,NA,NA,NA,NA,0.028398065,0.031425409
+BP,GO:0043123,positive regulation of canonical NF-kappaB signal transduction,NA,NA,NA,NA,0.028430494,NA
+BP,GO:0000271,polysaccharide biosynthetic process,NA,NA,NA,NA,0.028622488,NA
+BP,GO:0031399,regulation of protein modification process,NA,NA,NA,NA,0.02889796,NA
+MF,GO:0051287,NAD binding,NA,NA,NA,NA,0.028950018,NA
+BP,GO:1902850,microtubule cytoskeleton organization involved in mitosis,NA,NA,NA,NA,0.029150334,NA
+BP,GO:0030902,hindbrain development,NA,NA,NA,NA,0.029702598,NA
+BP,GO:0006626,protein targeting to mitochondrion,NA,NA,NA,NA,0.030259079,NA
+BP,GO:0001936,regulation of endothelial cell proliferation,NA,NA,NA,NA,0.030829832,NA
+BP,GO:0001525,angiogenesis,NA,NA,NA,NA,0.030974909,NA
+BP,GO:0002072,optic cup morphogenesis involved in camera-type eye development,NA,NA,NA,NA,0.031080668,NA
+BP,GO:0051247,positive regulation of protein metabolic process,NA,NA,NA,NA,0.032195876,NA
+BP,GO:0006874,intracellular calcium ion homeostasis,NA,NA,NA,NA,0.032366086,NA
+BP,GO:0055074,calcium ion homeostasis,NA,NA,NA,NA,0.033729867,NA
+BP,GO:0036010,protein localization to endosome,NA,NA,NA,NA,0.034204324,NA
+BP,GO:0038066,p38MAPK cascade,NA,NA,NA,NA,0.034204324,NA
+BP,GO:0042407,cristae formation,NA,NA,NA,NA,0.034204324,NA
+BP,GO:0043605,amide catabolic process,NA,NA,NA,NA,0.034204324,NA
+BP,GO:0061842,microtubule organizing center localization,NA,NA,NA,NA,0.034204324,NA
+BP,GO:0070536,protein K63-linked deubiquitination,NA,NA,NA,NA,0.034204324,NA
+MF,GO:0016018,cyclosporin A binding,NA,NA,NA,NA,0.034802353,NA
+CC,GO:0090575,RNA polymerase II transcription regulator complex,NA,NA,NA,NA,0.034830451,NA
+BP,GO:0051983,regulation of chromosome segregation,NA,NA,NA,NA,0.035539584,NA
+BP,GO:0051205,protein insertion into membrane,NA,NA,NA,NA,0.036387175,NA
+BP,GO:0072599,establishment of protein localization to endoplasmic reticulum,NA,NA,NA,NA,0.036387175,NA
+BP,GO:0000394,"RNA splicing, via endonucleolytic cleavage and ligation",NA,NA,NA,NA,0.036758282,NA
+BP,GO:0002275,myeloid cell activation involved in immune response,NA,NA,NA,NA,0.036758282,NA
+BP,GO:0006620,post-translational protein targeting to endoplasmic reticulum membrane,NA,NA,NA,NA,0.036758282,NA
+BP,GO:0019400,alditol metabolic process,NA,NA,NA,NA,0.036758282,NA
+BP,GO:0033143,regulation of intracellular steroid hormone receptor signaling pathway,NA,NA,NA,NA,0.036758282,NA
+BP,GO:0035459,vesicle cargo loading,NA,NA,NA,NA,0.036758282,0.005637375
+BP,GO:0050688,regulation of defense response to virus,NA,NA,NA,NA,0.036758282,NA
+BP,GO:0060839,endothelial cell fate commitment,NA,NA,NA,NA,0.036758282,NA
+MF,GO:0052689,carboxylic ester hydrolase activity,NA,NA,NA,NA,0.037022131,NA
+CC,GO:0030688,"preribosome, small subunit precursor",NA,NA,NA,NA,0.037135625,NA
+CC,GO:0031462,Cul2-RING ubiquitin ligase complex,NA,NA,NA,NA,0.037135625,NA
+BP,GO:0030510,regulation of BMP signaling pathway,NA,NA,NA,NA,0.037450306,NA
+BP,GO:0045454,cell redox homeostasis,NA,NA,NA,NA,0.037533661,NA
+BP,GO:0061008,hepaticobiliary system development,NA,NA,NA,NA,0.037878412,NA
+BP,GO:1902652,secondary alcohol metabolic process,NA,NA,NA,NA,0.038944622,NA
+BP,GO:0018193,peptidyl-amino acid modification,NA,NA,NA,NA,0.039276911,NA
+MF,GO:0090482,vitamin transmembrane transporter activity,NA,NA,NA,NA,0.039398636,NA
+BP,GO:0016180,snRNA processing,NA,NA,NA,NA,0.039468422,NA
+MF,GO:0016903,"oxidoreductase activity, acting on the aldehyde or oxo group of donors",NA,NA,NA,NA,0.039470833,NA
+BP,GO:0055113,epiboly involved in gastrulation with mouth forming second,NA,NA,NA,NA,0.039524403,NA
+MF,GO:0140318,protein transporter activity,NA,NA,NA,NA,0.040508627,NA
+BP,GO:0050801,monoatomic ion homeostasis,NA,NA,NA,NA,0.04131975,NA
+BP,GO:0032386,regulation of intracellular transport,NA,NA,NA,NA,0.04181672,NA
+BP,GO:0044743,protein transmembrane import into intracellular organelle,NA,NA,NA,NA,0.04181672,NA
+BP,GO:0007051,spindle organization,NA,NA,NA,NA,0.042377147,NA
+BP,GO:0042181,ketone biosynthetic process,NA,NA,NA,NA,0.042638017,NA
+BP,GO:2000177,regulation of neural precursor cell proliferation,NA,NA,NA,NA,0.042638017,NA
+MF,GO:0003682,chromatin binding,NA,NA,NA,NA,0.042923571,NA
+BP,GO:0060027,convergent extension involved in gastrulation,NA,NA,NA,NA,0.043098638,NA
+BP,GO:0055080,monoatomic cation homeostasis,NA,NA,NA,NA,0.043309103,NA
+BP,GO:0009309,amine biosynthetic process,NA,NA,NA,NA,0.043322951,NA
+BP,GO:0042401,biogenic amine biosynthetic process,NA,NA,NA,NA,0.043322951,NA
+BP,GO:0060395,SMAD protein signal transduction,NA,NA,NA,NA,0.043322951,NA
+BP,GO:0045765,regulation of angiogenesis,NA,NA,NA,NA,0.043786724,NA
+CC,GO:0000792,heterochromatin,NA,NA,NA,NA,0.043869407,NA
+CC,GO:0000813,ESCRT I complex,NA,NA,NA,NA,0.043869407,NA
+CC,GO:0000152,nuclear ubiquitin ligase complex,NA,NA,NA,NA,0.044380938,NA
+BP,GO:0006997,nucleus organization,NA,NA,NA,NA,0.04484404,NA
+BP,GO:0010721,negative regulation of cell development,NA,NA,NA,NA,0.04484404,NA
+BP,GO:0048469,cell maturation,NA,NA,NA,NA,0.045026041,NA
+BP,GO:0048878,chemical homeostasis,NA,NA,NA,NA,0.045039253,NA
+BP,GO:0007030,Golgi organization,NA,NA,NA,NA,0.045554531,NA
+BP,GO:0007224,smoothened signaling pathway,NA,NA,NA,NA,0.045554531,NA
+BP,GO:0035270,endocrine system development,NA,NA,NA,NA,0.045611927,NA
+BP,GO:0071396,cellular response to lipid,NA,NA,NA,NA,0.045870135,NA
+MF,GO:0030247,polysaccharide binding,NA,NA,NA,NA,0.046536748,NA
+BP,GO:0007052,mitotic spindle organization,NA,NA,NA,NA,0.046587722,NA
+BP,GO:0009612,response to mechanical stimulus,NA,NA,NA,NA,0.046588953,NA
+BP,GO:0045862,positive regulation of proteolysis,NA,NA,NA,NA,0.04667619,NA
+MF,GO:0008574,plus-end-directed microtubule motor activity,NA,NA,NA,NA,0.046796214,NA
+MF,GO:0070577,lysine-acetylated histone binding,NA,NA,NA,NA,0.046796214,NA
+MF,GO:0140033,acetylation-dependent protein binding,NA,NA,NA,NA,0.046796214,NA
+BP,GO:0048514,blood vessel morphogenesis,NA,NA,NA,NA,0.047332356,0.026454801
+CC,GO:0000922,spindle pole,NA,NA,NA,NA,0.047662993,NA
+BP,GO:1901342,regulation of vasculature development,NA,NA,NA,NA,0.047766986,NA
+MF,GO:0046332,SMAD binding,NA,NA,NA,NA,0.047953632,NA
+CC,GO:1904949,ATPase complex,NA,NA,NA,NA,0.049114606,NA
+BP,GO:0090092,regulation of transmembrane receptor protein serine/threonine kinase signaling pathway,NA,NA,NA,NA,0.049231696,NA
+BP,GO:0000028,ribosomal small subunit assembly,NA,NA,NA,NA,0.049675419,NA
+BP,GO:0006140,regulation of nucleotide metabolic process,NA,NA,NA,NA,0.049675419,NA
+BP,GO:0009129,pyrimidine nucleoside monophosphate metabolic process,NA,NA,NA,NA,0.049675419,NA
+BP,GO:0009130,pyrimidine nucleoside monophosphate biosynthetic process,NA,NA,NA,NA,0.049675419,NA
+BP,GO:0018212,peptidyl-tyrosine modification,NA,NA,NA,NA,0.049675419,NA
+BP,GO:0021594,rhombomere formation,NA,NA,NA,NA,0.049675419,NA
+BP,GO:0045580,regulation of T cell differentiation,NA,NA,NA,NA,0.049675419,NA
+BP,GO:0048670,regulation of collateral sprouting,NA,NA,NA,NA,0.049675419,NA
+BP,GO:1900542,regulation of purine nucleotide metabolic process,NA,NA,NA,NA,0.049675419,NA
+BP,GO:1903578,regulation of ATP metabolic process,NA,NA,NA,NA,0.049675419,NA
+BP,GO:0007043,cell-cell junction assembly,NA,NA,NA,NA,NA,8.18e-8
+CC,GO:0070160,tight junction,NA,NA,NA,NA,NA,3.4e-7
+BP,GO:0045216,cell-cell junction organization,NA,NA,NA,NA,NA,4.28e-7
+BP,GO:0120192,tight junction assembly,NA,NA,NA,NA,NA,7.87e-7
+BP,GO:0120193,tight junction organization,NA,NA,NA,NA,NA,7.87e-7
+CC,GO:0005923,bicellular tight junction,NA,NA,NA,NA,NA,1.32e-6
+BP,GO:0043297,apical junction assembly,NA,NA,NA,NA,NA,2.53e-6
+BP,GO:0070830,bicellular tight junction assembly,NA,NA,NA,NA,NA,2.53e-6
+CC,GO:0043296,apical junction complex,NA,NA,NA,NA,NA,3.32e-6
+BP,GO:0034329,cell junction assembly,NA,NA,NA,NA,NA,3.64e-5
+CC,GO:0005911,cell-cell junction,NA,NA,NA,NA,NA,6.85e-5
+BP,GO:0001570,vasculogenesis,NA,NA,NA,NA,NA,1.22444e-4
+BP,GO:0010669,epithelial structure maintenance,NA,NA,NA,NA,NA,4.80248e-4
+MF,GO:0140678,molecular function inhibitor activity,NA,NA,NA,NA,NA,0.001216141
+BP,GO:0007179,transforming growth factor beta receptor signaling pathway,NA,NA,NA,NA,NA,0.001668854
+BP,GO:0071559,response to transforming growth factor beta,NA,NA,NA,NA,NA,0.001668854
+BP,GO:0071560,cellular response to transforming growth factor beta stimulus,NA,NA,NA,NA,NA,0.001668854
+BP,GO:0045445,myoblast differentiation,NA,NA,NA,NA,NA,0.002783035
+MF,GO:1990841,promoter-specific chromatin binding,NA,NA,NA,NA,NA,0.002814957
+BP,GO:0002244,hematopoietic progenitor cell differentiation,NA,NA,NA,NA,NA,0.003479227
+BP,GO:0008544,epidermis development,NA,NA,NA,NA,NA,0.003557029
+BP,GO:0045103,intermediate filament-based process,NA,NA,NA,NA,NA,0.003594762
+BP,GO:0045104,intermediate filament cytoskeleton organization,NA,NA,NA,NA,NA,0.003594762
+MF,GO:0140326,ATPase-coupled intramembrane lipid transporter activity,NA,NA,NA,NA,NA,0.004449882
+BP,GO:0042761,very long-chain fatty acid biosynthetic process,NA,NA,NA,NA,NA,0.005405351
+BP,GO:0060729,intestinal epithelial structure maintenance,NA,NA,NA,NA,NA,0.005637375
+MF,GO:0004857,enzyme inhibitor activity,NA,NA,NA,NA,NA,0.007502497
+BP,GO:0030277,maintenance of gastrointestinal epithelium,NA,NA,NA,NA,NA,0.007530564
+BP,GO:0035338,long-chain fatty-acyl-CoA biosynthetic process,NA,NA,NA,NA,NA,0.007530564
+BP,GO:0051597,response to methylmercury,NA,NA,NA,NA,NA,0.007530564
+BP,GO:0006636,unsaturated fatty acid biosynthetic process,NA,NA,NA,NA,NA,0.007851088
+MF,GO:0001216,DNA-binding transcription activator activity,NA,NA,NA,NA,NA,0.008141781
+MF,GO:0005112,Notch binding,NA,NA,NA,NA,NA,0.009408685
+BP,GO:0001894,tissue homeostasis,NA,NA,NA,NA,NA,0.011220144
+BP,GO:0019367,"fatty acid elongation, saturated fatty acid",NA,NA,NA,NA,NA,0.012322091
+BP,GO:0019368,"fatty acid elongation, unsaturated fatty acid",NA,NA,NA,NA,NA,0.012322091
+BP,GO:0034625,"fatty acid elongation, monounsaturated fatty acid",NA,NA,NA,NA,NA,0.012322091
+BP,GO:0034626,"fatty acid elongation, polyunsaturated fatty acid",NA,NA,NA,NA,NA,0.012322091
+BP,GO:0045661,regulation of myoblast differentiation,NA,NA,NA,NA,NA,0.012322091
+BP,GO:0045744,negative regulation of G protein-coupled receptor signaling pathway,NA,NA,NA,NA,NA,0.012322091
+BP,GO:0046949,fatty-acyl-CoA biosynthetic process,NA,NA,NA,NA,NA,0.012322091
+BP,GO:1902253,regulation of intrinsic apoptotic signaling pathway by p53 class mediator,NA,NA,NA,NA,NA,0.012322091
+MF,GO:0008200,ion channel inhibitor activity,NA,NA,NA,NA,NA,0.012427843
+MF,GO:0009922,fatty acid elongase activity,NA,NA,NA,NA,NA,0.012427843
+MF,GO:0016248,channel inhibitor activity,NA,NA,NA,NA,NA,0.012427843
+MF,GO:0141110,transporter inhibitor activity,NA,NA,NA,NA,NA,0.012427843
+BP,GO:0033559,unsaturated fatty acid metabolic process,NA,NA,NA,NA,NA,0.013345407
+BP,GO:0045332,phospholipid translocation,NA,NA,NA,NA,NA,0.013345407
+BP,GO:0060249,anatomical structure homeostasis,NA,NA,NA,NA,NA,0.013581546
+BP,GO:0034204,lipid translocation,NA,NA,NA,NA,NA,0.014891283
+CC,GO:0032039,integrator complex,NA,NA,NA,NA,NA,0.015099231
+BP,GO:0061077,chaperone-mediated protein folding,NA,NA,NA,NA,NA,0.016552537
+MF,GO:0046906,tetrapyrrole binding,NA,NA,NA,NA,NA,0.016762351
+BP,GO:0022600,digestive system process,NA,NA,NA,NA,NA,0.01684294
+MF,GO:0015179,L-amino acid transmembrane transporter activity,NA,NA,NA,NA,NA,0.017285702
+BP,GO:0034767,positive regulation of monoatomic ion transmembrane transport,NA,NA,NA,NA,NA,0.018510196
+BP,GO:0060837,blood vessel endothelial cell differentiation,NA,NA,NA,NA,NA,0.018510196
+BP,GO:1904064,positive regulation of cation transmembrane transport,NA,NA,NA,NA,NA,0.018510196
+BP,GO:0017015,regulation of transforming growth factor beta receptor signaling pathway,NA,NA,NA,NA,NA,0.019182121
+BP,GO:1903844,regulation of cellular response to transforming growth factor beta stimulus,NA,NA,NA,NA,NA,0.019182121
+MF,GO:0015171,amino acid transmembrane transporter activity,NA,NA,NA,NA,NA,0.019357217
+BP,GO:0031589,cell-substrate adhesion,NA,NA,NA,NA,NA,0.019993958
+BP,GO:0097035,regulation of membrane lipid distribution,NA,NA,NA,NA,NA,0.020233921
+BP,GO:0042462,eye photoreceptor cell development,NA,NA,NA,NA,NA,0.020632333
+CC,GO:0005791,rough endoplasmic reticulum,NA,NA,NA,NA,NA,0.02147118
+BP,GO:0032474,otolith morphogenesis,NA,NA,NA,NA,NA,0.021712345
+BP,GO:0051085,chaperone cofactor-dependent protein refolding,NA,NA,NA,NA,NA,0.021712345
+MF,GO:0001228,"DNA-binding transcription activator activity, RNA polymerase II-specific",NA,NA,NA,NA,NA,0.022138411
+BP,GO:0030497,fatty acid elongation,NA,NA,NA,NA,NA,0.02213954
+BP,GO:0035336,long-chain fatty-acyl-CoA metabolic process,NA,NA,NA,NA,NA,0.02213954
+BP,GO:1901570,fatty acid derivative biosynthetic process,NA,NA,NA,NA,NA,0.02213954
+CC,GO:0005882,intermediate filament,NA,NA,NA,NA,NA,0.022184614
+MF,GO:0004953,icosanoid receptor activity,NA,NA,NA,NA,NA,0.022323613
+MF,GO:0004866,endopeptidase inhibitor activity,NA,NA,NA,NA,NA,0.02254683
+BP,GO:0007160,cell-matrix adhesion,NA,NA,NA,NA,NA,0.023121523
+BP,GO:0051726,regulation of cell cycle,NA,NA,NA,NA,NA,0.023923309
+BP,GO:0051084,'de novo' post-translational protein folding,NA,NA,NA,NA,NA,0.024437044
+MF,GO:0140303,intramembrane lipid transporter activity,NA,NA,NA,NA,NA,0.024687303
+CC,GO:0045111,intermediate filament cytoskeleton,NA,NA,NA,NA,NA,0.025321814
+CC,GO:0005833,hemoglobin complex,NA,NA,NA,NA,NA,0.025895787
+BP,GO:0015918,sterol transport,NA,NA,NA,NA,NA,0.02669545
+MF,GO:0020037,heme binding,NA,NA,NA,NA,NA,0.027389663
+MF,GO:0004867,serine-type endopeptidase inhibitor activity,NA,NA,NA,NA,NA,0.027953358
+BP,GO:0045596,negative regulation of cell differentiation,NA,NA,NA,NA,NA,0.029088036
+BP,GO:1902475,L-alpha-amino acid transmembrane transport,NA,NA,NA,NA,NA,0.02910954
+BP,GO:0001754,eye photoreceptor cell differentiation,NA,NA,NA,NA,NA,0.029211622
+MF,GO:0016538,cyclin-dependent protein serine/threonine kinase regulator activity,NA,NA,NA,NA,NA,0.029453377
+BP,GO:0043270,positive regulation of monoatomic ion transport,NA,NA,NA,NA,NA,0.030472928
+BP,GO:0007586,digestion,NA,NA,NA,NA,NA,0.030480698
+MF,GO:0046943,carboxylic acid transmembrane transporter activity,NA,NA,NA,NA,NA,0.030727262
+BP,GO:0001945,lymph vessel development,NA,NA,NA,NA,NA,0.031063849
+MF,GO:0061135,endopeptidase regulator activity,NA,NA,NA,NA,NA,0.031440622
+MF,GO:0005342,organic acid transmembrane transporter activity,NA,NA,NA,NA,NA,0.031890447
+BP,GO:0014070,response to organic cyclic compound,NA,NA,NA,NA,NA,0.034140436
+MF,GO:0048029,monosaccharide binding,NA,NA,NA,NA,NA,0.034739101
+BP,GO:0030856,regulation of epithelial cell differentiation,NA,NA,NA,NA,NA,0.035173098
+BP,GO:0035337,fatty-acyl-CoA metabolic process,NA,NA,NA,NA,NA,0.035173098
+BP,GO:1902742,apoptotic process involved in development,NA,NA,NA,NA,NA,0.035173098
+BP,GO:0006954,inflammatory response,NA,NA,NA,NA,NA,0.035344778
+MF,GO:0048306,calcium-dependent protein binding,NA,NA,NA,NA,NA,0.035456234
+BP,GO:0001702,gastrulation with mouth forming second,NA,NA,NA,NA,NA,0.0368854
+BP,GO:0006865,amino acid transport,NA,NA,NA,NA,NA,0.037719269
+MF,GO:0030414,peptidase inhibitor activity,NA,NA,NA,NA,NA,0.039141018
+BP,GO:0042074,cell migration involved in gastrulation,NA,NA,NA,NA,NA,0.039255166
+BP,GO:0015671,oxygen transport,NA,NA,NA,NA,NA,0.040223713
+MF,GO:0004601,peroxidase activity,NA,NA,NA,NA,NA,0.040575552
+MF,GO:0019207,kinase regulator activity,NA,NA,NA,NA,NA,0.040823959
+BP,GO:0002697,regulation of immune effector process,NA,NA,NA,NA,NA,0.04105767
+MF,GO:0038187,pattern recognition receptor activity,NA,NA,NA,NA,NA,0.045425541
+BP,GO:0030216,keratinocyte differentiation,NA,NA,NA,NA,NA,0.04561915
+BP,GO:0015807,L-amino acid transport,NA,NA,NA,NA,NA,0.046448865
