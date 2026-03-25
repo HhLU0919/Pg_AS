@@ -1,5 +1,4 @@
 # Pg_AS
-Repository Overview
 
 This repository provides scripts and datasets supporting the analyses of alternative splicing and gene expression conducted in this study.
 
