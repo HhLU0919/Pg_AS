@@ -39,7 +39,7 @@ If the term is absent from that analysis, the value is recorded as NA.
 
 These merged tables facilitate comparison of GO enrichment patterns between DASGs and DEGs within each tissue.
 
-#Homology_annotation
+# Homology_annotation
 
 Supplementary Table 1 Functional annotation of Perccottus glenii transcripts based on homology to Danio rerio. Functional annotation of P. glenii transcripts was performed using a homology-based approach. P. glenii transcripts were first aligned against Danio rerio (GRCz11) protein sequences obtained from Ensembl using BLASTp, and the best-matching hits were retained. The results were further annotated and organized using Ensembl BioMart (dataset: “Zebrafish genes (GRCz11)”). The dataset includes P. glenii transcript IDs (query_id), best-matched zebrafish protein IDs (protein_id), corresponding Ensembl gene IDs (ensembl_id), gene symbols (gene_symbol), gene descriptions (gene_description), and Gene Ontology terms (GO_terms).
 Supplementary Information CDS and protein sequences of key genes in Perccottus glenii. This file contains the coding sequences (CDS) and corresponding protein sequences of representative genes analyzed in this study, including adgrb1a, clocka, baxa, pdk4, and stat3. For each gene, alternative splice-derived isoforms are included where applicable.
